@@ -1,0 +1,1378 @@
+{
+  "surah": {
+    "id": 2,
+    "name_ar": "البقرة",
+    "name_en": "Al-Baqarah",
+    "name_so": "Al-Baqarah",
+    "revelation_place": "Madinah",
+    "ayah_count": 286
+  },
+  "tafseer_source": {
+    "id": "tabary_so",
+    "name_ar": "تفسير الطبري (صومالي)",
+    "name_en": "Tafseer Tabari (Somali)",
+    "language": "so"
+  },
+  "ayahs": [
+    {
+      "number": 1,
+      "text_ar": "الم",
+      "tafseer_so": "Alif, Laam, Miim, waxa looga jeedo Alle ayaa og"
+    },
+    {
+      "number": 2,
+      "text_ar": "ذَلِكَ الْكِتَابُ لَا رَيْبَ فِيهِ هُدًى لِلْمُتَّقِينَ",
+      "tafseer_so": "Kitaabkaas wax shaki ah kuma uu jiro, kuwa Alle ka cabsadana hanuun ayaa uu u yahay الَّذِينَ يُؤْمِنُونَ بِالْغَيْبِ وَيُقِيمُونَ الصَّلَاةَ وَمِمَّا رَزَقْنَاهُمْ يُنْفِقُونَ"
+    },
+    {
+      "number": 3,
+      "text_ar": "Waana kuwa rumaynaya waxa maqan [ee qaybka ah ee qarsoon], oogayana salaadda, wixii aan siinnayna wax ka bixinaya",
+      "tafseer_so": ""
+    },
+    {
+      "number": 4,
+      "text_ar": "Waa kuwa rumaynaya wixii lagugu soo dejiyay iyo wixii hortaa la soo dejiyay, aakhirana ayaga uun baa hubanti u aamminsan",
+      "tafseer_so": ""
+    },
+    {
+      "number": 5,
+      "text_ar": "إِنَّ الَّذِينَ كَفَرُوا سَوَاءٌ عَلَيْهِمْ أَأَنْذَرْتَهُمْ أَمْ لَمْ تُنْذِرْهُمْ لَا يُؤْمِنُونَ",
+      "tafseer_so": "Kuwa gaaloobay waxaa u siman in aad u digtid iyo in aadan u digin, oo [xaqa] rumayn mayaan"
+    },
+    {
+      "number": 7,
+      "text_ar": "خَتَمَ اللَّهُ عَلَى قُلُوبِهِمْ وَعَلَى سَمْعِهِمْ وَعَلَى أَبْصَارِهِمْ غِشَاوَةٌ وَلَهُمْ عَذَابٌ عَظِيمٌ",
+      "tafseer_so": "Ilaahay wuxuu aabburay qalbiyadooda, maqalkoodana wuu gufeeyay, indhahana dahaar ayaa ka saaran, waxayna leeyihiin cadaab weyn oo aad u weyn"
+    },
+    {
+      "number": 8,
+      "text_ar": "وَمِنَ النَّاسِ مَنْ يَقُولُ آمَنَّا بِاللَّهِ وَبِالْيَوْمِ الْآخِرِ وَمَا هُمْ بِمُؤْمِنِينَ",
+      "tafseer_so": "Waxaa dadka ka mid ah kuwo oranaya: waan rumaynay ilaahay iyo maalinta aakhiro; mana ay aha kuwo rumaynaya."
+    },
+    {
+      "number": 9,
+      "text_ar": "يُخَادِعُونَ اللَّهَ وَالَّذِينَ آمَنُوا وَمَا يَخْدَعُونَ إِلَّا أَنْفُسَهُمْ وَمَا يَشْعُرُونَ",
+      "tafseer_so": "Waxay sirayaan Alle iyo kuwo rumeeyay [waa siday la tahay e], wax aan naftooda ahayn ma sirayaan, mana ay dareensana"
+    },
+    {
+      "number": 10,
+      "text_ar": "فِي قُلُوبِهِمْ مَرَضٌ فَزَادَهُمُ اللَّهُ مَرَضًا وَلَهُمْ عَذَابٌ أَلِيمٌ بِمَا كَانُوا يَكْذِبُونَ",
+      "tafseer_so": "Waxaa qalbigooda ku jira jirro [munaafaqnimo], Allena wuxuu u kordhiyay jirro, waxayna leeyihiin cadaab weyn oo xanuujin badan oo ay ku muteen wixii [xaqii] ay beeniyeen"
+    },
+    {
+      "number": 11,
+      "text_ar": "وَإِذَا قِيلَ لَهُمْ لَا تُفْسِدُوا فِي الْأَرْضِ قَالُوا إِنَّمَا نَحْنُ مُصْلِحُونَ",
+      "tafseer_so": "Haddii ayaga lagu dhaho: dhulka ha kharribinnina; waxay oranayaan: samatalis uun baan nahay"
+    },
+    {
+      "number": 12,
+      "text_ar": "أَلَا إِنَّهُمْ هُمُ الْمُفْسِدُونَ، وَلَكِنْ لَا يَشْعُرُونَ",
+      "tafseer_so": "Hooy [ogaada], ayaga uun baa ah kuwa wax kharriba, laakiin ma ay dareensana"
+    },
+    {
+      "number": 13,
+      "text_ar": "وَإِذَا قِيلَ لَهُمْ آمِنُوا كَمَا آمَنَ النَّاسُ قَالُوا أَنُؤْمِنُ كَمَا آمَنَ السُّفَهَاءُ أَلَا إِنَّهُمْ هُمُ السُّفَهَاءُ، وَلَكِنْ لَا يَعْلَمُونَ",
+      "tafseer_so": "Haddii ayaga lagu dhaho: [xaqa] u rumeeya sida ay dadku u rumeeyeen; waxay dhahayaan: ma waxaannu u rumaynaa sida ay maangaabku u rumeeyeen; Hooy [ogaada], ayaga uun baa ah maangaab, laakiin ma ay oga"
+    },
+    {
+      "number": 15,
+      "text_ar": "اللَّهُ يَسْتَهْزِئُ بِهِمْ وَيَمُدُّهُمْ فِي طُغْيَانِهِمْ يَعْمَهُونَ",
+      "tafseer_so": "Alle ayaa ku jeesjeesaya [ka abaalinaya jeesjeeskooda] kuna xoojinaya qooqooda ayaga oo ku indhabeelay"
+    },
+    {
+      "number": 17,
+      "text_ar": "مَثَلُهُمْ كَمَثَلِ الَّذِي اسْتَوْقَدَ نَارًا فَلَمَّا أَضَاءَتْ مَا حَوْلَهُ ذَهَبَ اللَّهُ بِنُورِهِمْ وَتَرَكَهُمْ فِي ظُلُمَاتٍ لَا يُبْصِرُونَ",
+      "tafseer_so": "Tusaalahoodu waa sida tuusaalaha qofkii dab shitay, markii uu hareerihiisa u ifiyayna uu Alle nuurkii ka qaaday, uuna ugaga tegay mugdiyaal dhexdood ayaga oo aan waxba ujeedin"
+    },
+    {
+      "number": 18,
+      "text_ar": "صُمٌّ بُكْمٌ عُمْيٌ فَهُمْ لَا يَرْجِعُونَ",
+      "tafseer_so": "Waa kuwo dhego la’ , af la’, indho la’, mana ay aha kuwo soo noqonaya"
+    },
+    {
+      "number": 19,
+      "text_ar": "أَوْ كَصَيِّبٍ مِنَ السَّمَاءِ فِيهِ ظُلُمَاتٌ وَرَعْدٌ وَبَرْقٌ يَجْعَلُونَ أَصَابِعَهُمْ فِي آذَانِهِمْ مِنَ الصَّوَاعِقِ حَذَرَ الْمَوْتِ وَاللَّهُ مُحِيطٌ بِالْكَافِرِينَ",
+      "tafseer_so": "Ama [tusaalahoodu] waa sida roob samada ka soo hooray oo wata mugdi, onkod iyo hillaac, dhegahoodana faraha ayay ka gashanaya biriqda ayaga oo ka baqanaya geeri, Alle, gaalada oo dhan waa uu ku hareeraysan yihiin [oo midina ka cayman mayo]"
+    },
+    {
+      "number": 20,
+      "text_ar": "يَكَادُ الْبَرْقُ يَخْطَفُ أَبْصَارَهُمْ كُلَّمَا أَضَاءَ لَهُمْ مَشَوْا فِيهِ وَإِذَا أَظْلَمَ عَلَيْهِمْ قَامُوا وَلَوْ شَاءَ اللَّهُ لَذَهَبَ بِسَمْعِهِمْ وَأَبْصَارِهِمْ إِنَّ اللَّهَ عَلَى كُلِّ شَيْءٍ قَدِيرٌ",
+      "tafseer_so": "Hillaacu wuxuu sigayaa in uu araggooda dafo; mar walba oo uu u ifo waa ay ku socodaan, markii uu mugdi noqdana waa ay joogsadaan; haddii uu Alle doono wuxuu ka qaadi lahaa maqalka iyo aragga; Alle wax walba waa uu awoodaa"
+    },
+    {
+      "number": 21,
+      "text_ar": "يَا أَيُّهَا النَّاسُ اعْبُدُوا رَبَّكُمُ الَّذِي خَلَقَكُمْ وَالَّذِينَ مِنْ قَبْلِكُمْ لَعَلَّكُمْ تَتَّقُونَ",
+      "tafseer_so": "Dadkoow, caabuda Rabbigii abuuray idinka iyo intii idin ka horraysay, laga yaabee in aad ka cabsataan"
+    },
+    {
+      "number": 22,
+      "text_ar": "الَّذِي جَعَلَ لَكُمُ الْأَرْضَ فِرَاشًا وَالسَّمَاءَ بِنَاءً وَأَنْزَلَ مِنَ السَّمَاءِ مَاءً فَأَخْرَجَ بِهِ مِنَ الثَّمَرَاتِ رِزْقًا لَكُمْ فَلَا تَجْعَلُوا لِلَّهِ أَنْدَادًا وَأَنْتُمْ تَعْلَمُونَ",
+      "tafseer_so": "Waa Allaha dhulka idiin ka dhigay gogol, cirkana dhis, samadana idiin ka soo di’yay biyo uu idiin ku soo bixiyay miro arsaaqad idiin ah; ha u samaynina Ilaahay kuwo aad ku dhererisaan idin ka oo og"
+    },
+    {
+      "number": 24,
+      "text_ar": "فَإِنْ لَمْ تَفْعَلُوا وَلَنْ تَفْعَلُوا فَاتَّقُوا النَّارَ الَّتِي وَقُودُهَا النَّاسُ وَالْحِجَارَةُ أُعِدَّتْ لِلْكَافِرِينَ",
+      "tafseer_so": "Haddii aydaan sidaa yeelayn, mana yeeli doontaan e, ka yaaba naar shidaalkeedu yahay dad iyo dhagaxaan, oo loogu talagalay gaalada"
+    },
+    {
+      "number": 25,
+      "text_ar": "وَبَشِّرِ الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ أَنَّ لَهُمْ جَنَّاتٍ تَجْرِي مِنْ تَحْتِهَا الْأَنْهَارُ كُلَّمَا رُزِقُوا مِنْهَا مِنْ ثَمَرَةٍ رِزْقًا قَالُوا هَذَا الَّذِي رُزِقْنَا مِنْ قَبْلُ وَأُتُوا بِهِ مُتَشَابِهًا وَلَهُمْ فِيهَا أَزْوَاجٌ مُطَهَّرَةٌ وَهُمْ فِيهَا خَالِدُونَ",
+      "tafseer_so": "Kuwa Alle rumeeyay ee wax wanaagsanna falay waxaad ugu bishaaraysaa in ay leeyihiin beero ay hoostooda webiyo dureerayaan, markiii la siiyo mir ay quutaanna waxay dhahayaan: kani waa kii hore na loo siiyay-waxaana loo keenay mid u eg [midab ahaan, dhadhanka se kaga duwan]; waxay jannada ku helayaan lammaane daahir ah [xayl, nifaas iwm aan yeelanayn], waana ay ku waari doonaan"
+    },
+    {
+      "number": 26,
+      "text_ar": "إِنَّ اللَّهَ لَا يَسْتَحْيِي أَنْ يَضْرِبَ مَثَلًا مَا بَعُوضَةً فَمَا فَوْقَهَا فَأَمَّا الَّذِينَ آمَنُوا فَيَعْلَمُونَ أَنَّهُ الْحَقُّ مِنْ رَبِّهِمْ وَأَمَّا الَّذِينَ كَفَرُوا فَيَقُولُونَ مَاذَا أَرَادَ اللَّهُ بِهَذَا مَثَلًا يُضِلُّ بِهِ كَثِيرًا وَيَهْدِي بِهِ كَثِيرًا وَمَا يُضِلُّ بِهِ إِلَّا الْفَاسِقِينَ",
+      "tafseer_so": "Alle kama uu yaxyaxo in uu tusaale u soo qaato kaneeco iyo"
+    },
+    {
+      "number": 27,
+      "text_ar": "الَّذِينَ يَنْقُضُونَ عَهْدَ اللَّهِ مِنْ بَعْدِ مِيثَاقِهِ وَيَقْطَعُونَ مَا أَمَرَ اللَّهُ بِهِ أَنْ يُوصَلَ وَيُفْسِدُونَ فِي الْأَرْضِ أُولَئِكَ هُمُ الْخَاسِرُونَ",
+      "tafseer_so": "[waana] Kuwa burinaya ballanka Ilaahay bacdamaa la adkeeyay, ee goynaya wixii [qaraabadii] uu Alle amray in la xiriiriyo, arligana fasaadinaya, kuwaa uun baa ah cidda kahasaartay"
+    },
+    {
+      "number": 28,
+      "text_ar": "كَيْفَ تَكْفُرُونَ بِاللَّهِ وَكُنْتُمْ أَمْوَاتًا فَأَحْيَاكُمْ ثُمَّ يُمِيتُكُمْ ثُمَّ يُحْيِيكُمْ ثُمَّ إِلَيْهِ تُرْجَعُونَ",
+      "tafseer_so": "Sidee ugu gaaloobaysaan Alle idinka oo awalba meyti ahaa [dhabarka aabbayaashiin ku keydsanaa], Allena uu idin soo nooleeyay [uurka iyo adduunkaba], deetana uu idin dili doono, ka dib uu idin soo noolayn doono [aakhiro], ka bacdina xaggiisa la idiin soo celin doono"
+    },
+    {
+      "number": 29,
+      "text_ar": "هُوَ الَّذِي خَلَقَ لَكُمْ مَا فِي الْأَرْضِ جَمِيعًا ثُمَّ اسْتَوَى إِلَى السَّمَاءِ فَسَوَّاهُنَّ سَبْعَ سَمَاوَاتٍ وَهُوَ بِكُلِّ شَيْءٍ عَلِيمٌ",
+      "tafseer_so": "Waa Allaha idiin abuuray waxa dhulka ku sugan oo dhan, deetana cirka u qasday ee ka dhigay toddobo cir; asaga uun baana wax walba og"
+    },
+    {
+      "number": 30,
+      "text_ar": "وَإِذْ قَالَ رَبُّكَ لِلْمَلَائِكَةِ إِنِّي جَاعِلٌ فِي الْأَرْضِ خَلِيفَةً قَالُوا أَتَجْعَلُ فِيهَا مَنْ يُفْسِدُ فِيهَا وَيَسْفِكُ الدِّمَاءَ وَنَحْنُ نُسَبِّحُ بِحَمْدِكَ وَنُقَدِّسُ لَكَ قَالَ إِنِّي أَعْلَمُ مَا لَا تَعْلَمُونَ",
+      "tafseer_so": "[xus] markii uu Rabbigaa malagyada ku yiri: waxaan dhulka u samaynayaa hoggaan [shaqadiisu tahay in uu Ilaahay xukunkiisa dhulka ka fuliyo], waxay dhaheen: ma waxaad dhulka ku uumaysaa duul halleeya oo dhiigga ku daadiya, [weliba] annaga oo xumaan kaa hufayna kuuna mahadnaqanya, oo daahirnaantaada qirayna; wuxuu yiri: waxaan ogahay wax aydaan ogayn وَعَلَّمَ آدَمَ الْأَسْمَاءَ كُلَّهَا ثُمَّ عَرَضَهُمْ عَلَى الْمَلَائِكَةِ فَقَالَ أَنْبِئُونِي بِأَسْمَاءِ هَؤُلَاءِ إِنْ كُنْتُمْ صَادِقِينَ Wuxuu Aadan baray magacyada [walxaha] oo dhan, deetana wuxuu u soo bandhigay malagyada, wuxuuna ku yiri: ii sheega magacyada walxahaan haddii aad run sheegaysaan"
+    },
+    {
+      "number": 32,
+      "text_ar": "قَالُوا سُبْحَانَكَ لَا عِلْمَ لَنَا إِلَّا مَا عَلَّمْتَنَا إِنَّكَ أَنْتَ الْعَلِيمُ الْحَكِيمُ",
+      "tafseer_so": "Waxay dhaheen: [Alloow] xumaan ka hufnid e, ogaal uma lihin wax aan ka ahayn wixii aad na bartay, adiga uun baana ah kan wax walba og ee murtiilaha ah"
+    },
+    {
+      "number": 33,
+      "text_ar": "قَالَ يَا آدَمُ أَنْبِئْهُمْ بِأَسْمَائِهِمْ فَلَمَّا أَنْبَأَهُمْ بِأَسْمَائِهِمْ قَالَ أَلَمْ أَقُلْ لَكُمْ إِنِّي أَعْلَمُ غَيْبَ السَّمَاوَاتِ وَالْأَرْضِ وَأَعْلَمُ مَا تُبْدُونَ وَمَا كُنْتُمْ تَكْتُمُونَ",
+      "tafseer_so": "Wuxuu yiri: Aadanoow, u sheeg magacyadooda; markii uu u sheegay magacyadooda ayuu yiri: miyaanan idin ku oran waxaan ogahay waxa cirka iyo dhulka ku qarsoon, waana ogahay waxa aad muujinaysaan iyo waxa aad qarinayseen"
+    },
+    {
+      "number": 34,
+      "text_ar": "وَإِذْ قُلْنَا لِلْمَلَائِكَةِ اسْجُدُوا لِآدَمَ فَسَجَدُوا إِلَّا إِبْلِيسَ أَبَى وَاسْتَكْبَرَ وَكَانَ مِنَ الْكَافِرِينَ",
+      "tafseer_so": "[xus] kolkii aan malagyada ku niri: u sujuuda aadan, ee ay idilkood sujuudeen marka laga reebo Ibliis [kii awalba iska la joogay] oo diiday, iskibiriyay ee gaaladana ku biiray"
+    },
+    {
+      "number": 35,
+      "text_ar": "وَقُلْنَا يَا آدَمُ اسْكُنْ أَنْتَ وَزَوْجُكَ الْجَنَّةَ وَكُلَا مِنْهَا رَغَدًا حَيْثُ شِئْتُمَا وَلَا تَقْرَبَا هَذِهِ الشَّجَرَةَ فَتَكُونَا مِنَ الظَّالِمِينَ",
+      "tafseer_so": "Waxaannu niri: Aadanoow, adiga iyo xaaskaaguba jannada dega, meeshii aad doontaanna ka cuna ayada oo badan, hana u dhawaannina geeddaan, si aydaan ugu darman xadgudbayaasha"
+    },
+    {
+      "number": 36,
+      "text_ar": "فَأَزَلَّهُمَا الشَّيْطَانُ عَنْهَا فَأَخْرَجَهُمَا مِمَّا كَانَا فِيهِ وَقُلْنَا اهْبِطُوا بَعْضُكُمْ لِبَعْضٍ عَدُوٌّ وَلَكُمْ فِي الْأَرْضِ مُسْتَقَرٌّ وَمَتَاعٌ إِلَى حِينٍ",
+      "tafseer_so": "Shaydaankii ayaa ka simbiriirixyay oo ka soo saaray wixii [barwaaqadii] ay ku jireen, waxaannuna ku niri: hoobta [dhulkana u daadega] ayada oo ay qaarkiin qaarka kale col u yihiin, dhulkana waxaad ku leedihiin meel aad ku negaataan iyo raaxo muddaysan"
+    },
+    {
+      "number": 37,
+      "text_ar": "فَتَلَقَّى آدَمُ مِنْ رَبِّهِ كَلِمَاتٍ فَتَابَ عَلَيْهِ إِنَّهُ هُوَ التَّوَّابُ الرَّحِيمُ",
+      "tafseer_so": "Aadan wuxuu Rabbigii ka helay erayo [uu ku toobad keeno], wuuna ka toobad aqbalay, asaguna [Eebbe] waa toobad aqbal badane , naxariis badan"
+    },
+    {
+      "number": 39,
+      "text_ar": "وَالَّذِينَ كَفَرُوا وَكَذَّبُوا بِآيَاتِنَا أُولَئِكَ أَصْحَابُ النَّارِ هُمْ فِيهَا خَالِدُونَ",
+      "tafseer_so": "Kuwa gaaloobay ee aayadahannaga beeniyay, kuwaa uun baa ehlu naar ah, ayaga uun baana ku waaraya"
+    },
+    {
+      "number": 40,
+      "text_ar": "يَا بَنِي إِسْرَائِيلَ اذْكُرُوا نِعْمَتِيَ الَّتِي أَنْعَمْتُ عَلَيْكُمْ وَأَوْفُوا بِعَهْدِي أُوفِ بِعَهْدِكُمْ وَإِيَّايَ فَارْهَبُونِ",
+      "tafseer_so": "Reer Banii Israa’iiloow, xusuusta nimcadii aan idin ku galladay, ballankaygana oofiya, waan idiin oofin ballankiinniiye, aniga oo keliyana iga yaaba"
+    },
+    {
+      "number": 41,
+      "text_ar": "وَآمِنُوا بِمَا أَنْزَلْتُ مُصَدِّقًا لِمَا مَعَكُمْ وَلَا تَكُونُوا أَوَّلَ كَافِرٍ بِهِ وَلَا تَشْتَرُوا بِآيَاتِي ثَمَنًا قَلِيلًا وَإِيَّايَ فَاتَّقُونِ",
+      "tafseer_so": "Rumeeya wixii aan soo dejiyay oo ah mid rumaynaya waxa [kitaabka] aad haysataan, hana noqonnina cidda ugu horraysa ee ku gaalowda, aayadahaygana ha ku iibsannina lacag yar, aniga oo qur ahna iga cabsada"
+    },
+    {
+      "number": 42,
+      "text_ar": "وَلَا تَلْبِسُوا الْحَقَّ بِالْبَاطِلِ وَتَكْتُمُوا الْحَقَّ وَأَنْتُمْ تَعْلَمُونَ",
+      "tafseer_so": "Xaqa ha ku labina baaddil oo markaana aad xaqii qarisaan idinka oo og"
+    },
+    {
+      "number": 43,
+      "text_ar": "وَأَقِيمُوا الصَّلَاةَ وَآتُوا الزَّكَاةَ وَارْكَعُوا مَعَ الرَّاكِعِينَ",
+      "tafseer_so": "Salaadda oogga, sakada bixiya, inta rukuucsan [cibaadaysanaysana] la rukuuca [la cibaadaysta]"
+    },
+    {
+      "number": 44,
+      "text_ar": "أَتَأْمُرُونَ النَّاسَ بِالْبِرِّ وَتَنْسَوْنَ أَنْفُسَكُمْ وَأَنْتُمْ تَتْلُونَ الْكِتَابَ أَفَلَا تَعْقِلُونَ",
+      "tafseer_so": "Ma wanaag baad dadka faraysaan, nafihiinnana waad ka illoobaysaan weliba idinka oo kitaabka akhrinaya; war miyaydnaan caqli lahayn"
+    },
+    {
+      "number": 45,
+      "text_ar": "وَاسْتَعِينُوا بِالصَّبْرِ وَالصَّلَاةِ وَإِنَّهَا لَكَبِيرَةٌ إِلَّا عَلَى الْخَاشِعِينَ",
+      "tafseer_so": "Kaalmaysta sabirka iyo salaadda, ayaduna [salaaddu] waa ay ku culus tahay wixii aan ka ahayn inta khushuucsan"
+    },
+    {
+      "number": 46,
+      "text_ar": "الَّذِينَ يَظُنُّونَ أَنَّهُمْ مُلَاقُو رَبِّهِمْ وَأَنَّهُمْ إِلَيْهِ رَاجِعُونَ",
+      "tafseer_so": "[inta khushuucsan] waa kuwa malaynaya in ay Rabbigood la kulmayaan, ayna xagiisa u laabanayaan."
+    },
+    {
+      "number": 47,
+      "text_ar": "يَا بَنِي إِسْرَائِيلَ اذْكُرُوا نِعْمَتِيَ الَّتِي أَنْعَمْتُ عَلَيْكُمْ وَأَنِّي فَضَّلْتُكُمْ عَلَى الْعَالَمِينَ",
+      "tafseer_so": "Raar Banii Israa’iiloow, xusuusta nimcadii aan idin ku galladay iyo in aan idin ka sarraysiiyay uunka oo dhan"
+    },
+    {
+      "number": 48,
+      "text_ar": "وَاتَّقُوا يَوْمًا لَا تَجْزِي نَفْسٌ عَنْ نَفْسٍ شَيْئًا وَلَا يُقْبَلُ مِنْهَا شَفَاعَةٌ وَلَا يُؤْخَذُ مِنْهَا عَدْلٌ وَلَا هُمْ يُنْصَرُونَ",
+      "tafseer_so": "Ka yaaba maalin aanay nafina naf kale wax tarayn, aan laga aqbalayn ergo, wax ay isku furatana aan laga guddoomayn, loona hiilinayn"
+    },
+    {
+      "number": 49,
+      "text_ar": "وَإِذْ نَجَّيْنَاكُمْ مِنْ آلِ فِرْعَوْنَ يَسُومُونَكُمْ سُوءَ الْعَذَابِ يُذَبِّحُونَ أَبْنَاءَكُمْ وَيَسْتَحْيُونَ نِسَاءَكُمْ وَفِي ذَلِكُمْ بَلَاءٌ مِنْ رَبِّكُمْ عَظِيمٌ",
+      "tafseer_so": "[xusuusta] markii aan idin ka cayminnay reer fircoonkii idin dhadhansiin jiray cadaabka ba’n ee wiilashiinna gawrici jiray, gabdhahana idiin dayn jiray; taas [badbaadinta weeyee] waxaa idiin ku sugan jarribaad aad u weyn oo xagga Eebbe idiin ka timid"
+    },
+    {
+      "number": 50,
+      "text_ar": "وَإِذْ فَرَقْنَا بِكُمُ الْبَحْرَ فَأَنْجَيْنَاكُمْ وَأَغْرَقْنَا آلَ فِرْعَوْنَ وَأَنْتُمْ تَنْظُرُونَ",
+      "tafseer_so": "[xusuuts] markii aannu badda idiin kala dhambalnay ee aan idin bixinnay, reer fircoonna aan maashaynay idinka oo ujeeda"
+    },
+    {
+      "number": 51,
+      "text_ar": "وَإِذْ وَاعَدْنَا مُوسَى أَرْبَعِينَ لَيْلَةً ثُمَّ اتَّخَذْتُمُ الْعِجْلَ مِنْ بَعْدِهِ وَأَنْتُمْ ظَالِمُونَ",
+      "tafseer_so": "[xusuusta] kolkii aan Muuse kula ballannay afartan habeen ee deetana asaga ka dib aad dibi Ilaah ka dhigateen idinka oo daalimiin ah"
+    },
+    {
+      "number": 52,
+      "text_ar": "ثُمَّ عَفَوْنَا عَنْكُمْ مِنْ بَعْدِ ذَلِكَ لَعَلَّكُمْ تَشْكُرُونَ",
+      "tafseer_so": "Deetana, waxaa [aad fasheen] ka dib waannu idin cafinnay si aad u mahadnaqdaan [ee aad Alle u hoggaansantaan]"
+    },
+    {
+      "number": 53,
+      "text_ar": "وَإِذْ آتَيْنَا مُوسَى الْكِتَابَ وَالْفُرْقَانَ لَعَلَّكُمْ تَهْتَدُونَ",
+      "tafseer_so": "[xusuusta] markii aan Muuse siinnay kitaab iyo kalasoocaha xaqa iyo baaddilka, si aad u hanuuntaan"
+    },
+    {
+      "number": 54,
+      "text_ar": "وَإِذْ قَالَ مُوسَى لِقَوْمِهِ يَا قَوْمِ إِنَّكُمْ ظَلَمْتُمْ أَنْفُسَكُمْ بِاتِّخَاذِكُمُ الْعِجْلَ فَتُوبُوا إِلَى بَارِئِكُمْ فَاقْتُلُوا أَنْفُسَكُمْ ذَلِكُمْ خَيْرٌ لَكُمْ عِنْدَ بَارِئِكُمْ فَتَابَ عَلَيْكُمْ إِنَّهُ هُوَ التَّوَّابُ الرَّحِيمُ",
+      "tafseer_so": "[xusuusta] markii uu Muuse tolkii ku yiri: tolkayoow, naftiinna waxaad ku dulmiseen in aad dibi Ilaah ka dhigateen e, Allihii idin uumay u toobad keena oo nafihiinna dila, taa ayaa Alle agtiisa idiin wanaagsan; deetana wuu idin ka toobad aqbalay, oo asagu [Ilaahay] waa toobad aqbal badane naxariis badan"
+    },
+    {
+      "number": 55,
+      "text_ar": "وَإِذْ قُلْتُمْ يَا مُوسَى لَنْ نُؤْمِنَ لَكَ حَتَّى نَرَى اللَّهَ جَهْرَةً فَأَخَذَتْكُمُ الصَّاعِقَةُ وَأَنْتُمْ تَنْظُرُونَ",
+      "tafseer_so": "[xusuusta] markii aad dhahdeen: Muusoow, rumayn mayno [wax aad waddid] jeer aan Ilaahay indhaha saarno, oo deetana ay idin qaadatay halakaysadu [geeridu] idin ka oo u ujeeda"
+    },
+    {
+      "number": 56,
+      "text_ar": "ثُمَّ بَعَثْنَاكُمْ مِنْ بَعْدِ مَوْتِكُمْ لَعَلَّكُمْ تَشْكُرُونَ",
+      "tafseer_so": "Deetana waxaan idin soo saarnay [noolaysiinnay] dhimashadiinnii ka dib si aad u mahadnaqdaan [Alle u hoggaansantaan]"
+    },
+    {
+      "number": 57,
+      "text_ar": "وَظَلَّلْنَا عَلَيْكُمُ الْغَمَامَ وَأَنْزَلْنَا عَلَيْكُمُ الْمَنَّ وَالسَّلْوَى كُلُوا مِنْ طَيِّبَاتِ مَا رَزَقْنَاكُمْ وَمَا ظَلَمُونَا وَلَكِنْ كَانُوا أَنْفُسَهُمْ يَظْلِمُونَ",
+      "tafseer_so": "Waxaannu idin ku haraynay daruur, waxaanuna idin ku soo dejinnay Manni* iyo Salwa, [waxaannuna ku niri] cuna xalaal ka mid ah wixii aan idin ku arsaaqnay; nama aanay dulmin, waxayse dulmiyeen nafahooda * Sharaab eebbe u soo di’yay, xaqiiqadiisana uu asagu og yahay, waxayaalo. Malab, Xabag, Sanjabiil iqk ayaa lagu sheegsheegaa. * Shimbir solan oo magacaas leh, tafsiirro kala duwana lagu fasiray."
+    },
+    {
+      "number": 58,
+      "text_ar": "وَإِذْ قُلْنَا ادْخُلُوا هَذِهِ الْقَرْيَةَ فَكُلُوا مِنْهَا حَيْثُ شِئْتُمْ رَغَدًا وَادْخُلُوا الْبَابَ سُجَّدًا وَقُولُوا حِطَّةٌ نَغْفِرْ لَكُمْ خَطَايَاكُمْ وَسَنَزِيدُ الْمُحْسِنِينَ",
+      "tafseer_so": ""
+    },
+    {
+      "number": 59,
+      "text_ar": "فَبَدَّلَ الَّذِينَ ظَلَمُوا قَوْلًا غَيْرَ الَّذِي قِيلَ لَهُمْ فَأَنْزَلْنَا عَلَى الَّذِينَ ظَلَمُوا رِجْزًا مِنَ السَّمَاءِ بِمَا كَانُوا يَفْسُقُونَ",
+      "tafseer_so": "Kuwii xadgudbay waxay ku dooriyeen hadal aan ahayn kii lagu yiri [oo waxay dhaheen inta gadaalgadaal u galee:xabbad qamadi ah oo tin ku dhex jirta nasii], waxaannuna durba daalimiinta ku soo dejinnay cadaab samada ka soo degay oo ay ku sababsadeen faasiqnimadooda"
+    },
+    {
+      "number": 60,
+      "text_ar": "وَإِذِ اسْتَسْقَى مُوسَى لِقَوْمِهِ فَقُلْنَا اضْرِبْ بِعَصَاكَ الْحَجَرَ فَانْفَجَرَتْ مِنْهُ اثْنَتَا عَشْرَةَ عَيْنًا قَدْ عَلِمَ كُلُّ أُنَاسٍ مَشْرَبَهُمْ كُلُوا وَاشْرَبُوا مِنْ رِزْقِ اللَّهِ وَلَا تَعْثَوْا فِي الْأَرْضِ مُفْسِدِينَ",
+      "tafseer_so": "[xusuusta] markii uu Muuse tolkii u raadiyay waraab ee aan niri: ushaada dhagaxa la dhac; deetana ay laba iyo toban ilood burqatay, cid walbana way ogayd halka ay ka cabbayso, [waxaannuna ku niri] cuna oo cabba risiqa Ilaahay, arladaan fasaad ha ku laaqinnina"
+    },
+    {
+      "number": 61,
+      "text_ar": "وَإِذْ قُلْتُمْ يَا مُوسَى لَنْ نَصْبِرَ عَلَى طَعَامٍ وَاحِدٍ فَادْعُ لَنَا رَبَّكَ يُخْرِجْ لَنَا مِمَّا تُنْبِتُ الْأَرْضُ مِنْ بَقْلِهَا وَقِثَّائِهَا وَفُومِهَا وَعَدَسِهَا وَبَصَلِهَا قَالَ أَتَسْتَبْدِلُونَ الَّذِي هُوَ أَدْنَى بِالَّذِي هُوَ خَيْرٌ اهْبِطُوا مِصْرًا فَإِنَّ لَكُمْ مَا سَأَلْتُمْ وَضُرِبَتْ عَلَيْهِمُ الذِّلَّةُ وَالْمَسْكَنَةُ وَبَاءُوا بِغَضَبٍ مِنَ اللَّهِ ذَلِكَ بِأَنَّهُمْ كَانُوا يَكْفُرُونَ بِآيَاتِ اللَّهِ وَيَقْتُلُونَ النَّبِيِّينَ بِغَيْرِ الْحَقِّ ذَلِكَ بِمَا عَصَوْا وَكَانُوا يَعْتَدُونَ",
+      "tafseer_so": "[xusuusta] markii aa dhahdeen: Muusoow, hal cunno uma adkaysan karnee, Rabbigaa noo bari in uu noo soo saaro waxay ay arladu bixiso ee leh: khudaarta [cagaarka dhulka ka soo baxo ee lacuno/wixii dhulka ka soo baxa ee aan jirrid lahayn ee la cuno], bocorkeeda [ama qajaarka], toonteeda [ama qamadida], digirteeda [noocyadeed oo dhan] iyo basasheeda; wuxuu yiri: ma waxa liita baad waxa fiican ku doorsanaysaan; ordoo magaalo taga, waad helaysaan waxaad weydiisateen; waxaana dhakada laga saaray dulli iyo laciifnimo, waxayna la guryonoqdeen caro Ilaahay; sababtoo ah waxay dafireen aayadaha Alle, nebiyadana xaqdarro ayay ku dili jireen; taasi waxay ugu dhacday waa in ay Alle caasiyeen oo ay xadgudbi jireen"
+    },
+    {
+      "number": 62,
+      "text_ar": "إِنَّ الَّذِينَ آمَنُوا وَالَّذِينَ هَادُوا وَالنَّصَارَى وَالصَّابِئِينَ مَنْ آمَنَ بِاللَّهِ وَالْيَوْمِ الْآخِرِ وَعَمِلَ صَالِحًا فَلَهُمْ أَجْرُهُمْ عِنْدَ رَبِّهِمْ وَلَا خَوْفٌ عَلَيْهِمْ وَلَا هُمْ يَحْزَنُونَ",
+      "tafseer_so": "Kuwa Alle rumeeyay, kuwa yahuudoobay, kirishtaanka iyo kuwa diin aan toodii ahayn qaatay; koodii Alle rumeeya, aakhiro aammina, wax sanna sameeyay, waxay Alle agtiisa ku leeyihiin ajarkooda, cabsina ma saarna, mana murugoonayaan"
+    },
+    {
+      "number": 63,
+      "text_ar": "وَإِذْ أَخَذْنَا مِيثَاقَكُمْ وَرَفَعْنَا فَوْقَكُمُ الطُّورَ خُذُوا مَا آتَيْنَاكُمْ بِقُوَّةٍ وَاذْكُرُوا مَا فِيهِ لَعَلَّكُمْ تَتَّقُونَ",
+      "tafseer_so": "[xusuusta] markii aannu idin ka qaadnay ballankii dhaarta lagu xoojiay ee aan dushiinna keennay [buurtii] Duur [ee aannu idin niri]: wixii aan idiin keennay dedaal iyo kelyo-adayg ku qaata, waxa ku jirana ku waantooba, laga yaabee in aad Alle ka cabsootaan e"
+    },
+    {
+      "number": 64,
+      "text_ar": "ثُمَّ تَوَلَّيْتُمْ مِنْ بَعْدِ ذَلِكَ فَلَوْلَا فَضْلُ اللَّهِ عَلَيْكُمْ وَرَحْمَتُهُ لَكُنْتُمْ مِنَ الْخَاسِرِينَ",
+      "tafseer_so": "Deetana, intaa ka dib ayaad siijeesateen, haddii fadliga Ilaahay iyo naxariistiisu aanay jirinna waxaad ka mid noqon lahaydeen kuwa khasaaray"
+    },
+    {
+      "number": 65,
+      "text_ar": "وَلَقَدْ عَلِمْتُمُ الَّذِينَ اعْتَدَوْا مِنْكُمْ فِي السَّبْتِ فَقُلْنَا لَهُمْ كُونُوا قِرَدَةً خَاسِئِينَ",
+      "tafseer_so": "Dhabtii, waad ogaydeen kuwiinnii sabtida ku xadgubay, waxaannuna ku niri: noqda daanyeerro hoogay"
+    },
+    {
+      "number": 66,
+      "text_ar": "فَجَعَلْنَاهَا نَكَالًا لِمَا بَيْنَ يَدَيْهَا وَمَا خَلْفَهَا وَمَوْعِظَةً لِلْمُتَّقِينَ",
+      "tafseer_so": "T"
+    },
+    {
+      "number": 67,
+      "text_ar": "وَإِذْ قَالَ مُوسَى لِقَوْمِهِ إِنَّ اللَّهَ يَأْمُرُكُمْ أَنْ تَذْبَحُوا بَقَرَةً قَالُوا أَتَتَّخِذُنَا هُزُوًا قَالَ أَعُوذُ بِاللَّهِ أَنْ أَكُونَ مِنَ الْجَاهِلِينَ",
+      "tafseer_so": "[xusuuso] markii uu Muuse tolkii ku yiri: Ilaahay wuxuu idin farayaa in aad sac gowracdaan; waxay dhaheen: ma nagu jeesjeesaysaa; wuxuu yiri: Ilaahay baan ka magangalay in aan jaahiliinta ka mid noqdo"
+    },
+    {
+      "number": 68,
+      "text_ar": "قَالُوا ادْعُ لَنَا رَبَّكَ يُبَيِّنْ لَنَا مَا هِيَ قَالَ إِنَّهُ يَقُولُ إِنَّهَا بَقَرَةٌ لَا فَارِضٌ وَلَا بِكْرٌ عَوَانٌ بَيْنَ ذَلِكَ فَافْعَلُوا مَا تُؤْمَرُونَ",
+      "tafseer_so": "Waxay dhaheen: Rabbigaa noo bari, ha noo caddeeyo waxa ay tahay; wuxuu yiri: Asagu [Alle] wuxuu leeyahay: iyadu, waa sac aan qoomish ahayn [duqoobin] oo aan qaalinna ahayn [yarayn], da’ dhexaadna ah; ee fuliya waxa la idin farayo"
+    },
+    {
+      "number": 69,
+      "text_ar": "قَالُوا ادْعُ لَنَا رَبَّكَ يُبَيِّنْ لَنَا مَا لَوْنُهَا قَالَ إِنَّهُ يَقُولُ إِنَّهَا بَقَرَةٌ صَفْرَاءُ فَاقِعٌ لَوْنُهَا تَسُرُّ النَّاظِرِينَ",
+      "tafseer_so": "Waxay dhaheen: Rabbigaa noo weydii in uu midabkeeda noo caddeeyo; wuxuu yiri: wuxuu idin leeyahay: waa sac huruudi ah oo uu midabkiisuna aad u dhalaalayo, kana farxisa dadka eegaya"
+    },
+    {
+      "number": 70,
+      "text_ar": "قَالُوا ادْعُ لَنَا رَبَّكَ يُبَيِّنْ لَنَا مَا هِيَ إِنَّ الْبَقَرَ تَشَابَهَ عَلَيْنَا وَإِنَّا إِنْ شَاءَ اللَّهُ لَمُهْتَدُونَ",
+      "tafseer_so": "Waxay dhaheen: Rabbigaa noo weydii waxa uu Sacu yahay, lo’dii baa isaga kaaya ekaatay e, haddii uu Alle doonana waan hanuuni doonnaa"
+    },
+    {
+      "number": 71,
+      "text_ar": "قَالَ إِنَّهُ يَقُولُ إِنَّهَا بَقَرَةٌ لَا ذَلُولٌ تُثِيرُ الْأَرْضَ وَلَا تَسْقِي الْحَرْثَ مُسَلَّمَةٌ لَا شِيَةَ فِيهَا قَالُوا الْآنَ جِئْتَ بِالْحَقِّ فَذَبَحُوهَا وَمَا كَادُوا يَفْعَلُونَ",
+      "tafseer_so": ""
+    },
+    {
+      "number": 72,
+      "text_ar": "وَإِذْ قَتَلْتُمْ نَفْسًا فَادَّارَأْتُمْ فِيهَا وَاللَّهُ مُخْرِجٌ مَا كُنْتُمْ تَكْتُمُونَ",
+      "tafseer_so": "[xusuuta] kolkii aad nafta disheen ee aad isku tuurtuurteen, Allana uu soo saarayay wixii aad qarinayseen"
+    },
+    {
+      "number": 73,
+      "text_ar": "فَقُلْنَا اضْرِبُوهُ بِبَعْضِهَا كَذَلِكَ يُحْيِي اللَّهُ الْمَوْتَى وَيُرِيكُمْ آيَاتِهِ لَعَلَّكُمْ تَعْقِلُونَ",
+      "tafseer_so": "Waxaannu ku niri: qaarkeed qaarka kala dhufta; sidaa oo kale ayuu Alle meytida u soo nooleeyaa oo uu caddaymihiisana idiin tusiyaa, laga yeebee in aad wax garataan"
+    },
+    {
+      "number": 74,
+      "text_ar": "ثُمَّ قَسَتْ قُلُوبُكُمْ مِنْ بَعْدِ ذَلِكَ فَهِيَ كَالْحِجَارَةِ أَوْ أَشَدُّ قَسْوَةً وَإِنَّ مِنَ الْحِجَارَةِ لَمَا يَتَفَجَّرُ مِنْهُ الْأَنْهَارُ وَإِنَّ مِنْهَا لَمَا يَشَّقَّقُ فَيَخْرُجُ مِنْهُ الْمَاءُ وَإِنَّ مِنْهَا لَمَا يَهْبِطُ مِنْ خَشْيَةِ اللَّهِ وَمَا اللَّهُ بِغَافِلٍ عَمَّا تَعْمَلُونَ",
+      "tafseer_so": "Deetanaa waxaa intaa ka dib idin kakanaaday qalbiyadiinna oo waxay noqotay sida dhagxaanta ama wax dhagaxa ka adag-illeen dhagaxa waxaa ka mid ah qayb ay webiyo ka dillaacaan; waxaa kale oo ka mid ah qayb dildillaacda oo ay biyo ka soo baxaan; waxaa kale oo ka mid ah qayb u hoobata cabsida Ilaahay awgeed; Eebbana ma aha mid ka mooggan waxa aad samaynaysaan"
+    },
+    {
+      "number": 75,
+      "text_ar": "أَفَتَطْمَعُونَ أَنْ يُؤْمِنُوا لَكُمْ وَقَدْ كَانَ فَرِيقٌ مِنْهُمْ يَسْمَعُونَ كَلَامَ اللَّهِ ثُمَّ يُحَرِّفُونَهُ مِنْ بَعْدِ مَا عَقَلُوهُ وَهُمْ يَعْلَمُونَ",
+      "tafseer_so": "Ma waxaad quudarraynaysaan in ay idiin rumeeyaan iyada oo koox ayaga ka mid ah ay ahaayeen kuwo dhegaysta hadalka Alle, deetana qalloociya intii ay fahmeen ka dib, ayaga oo weliba og [beentooda]"
+    },
+    {
+      "number": 76,
+      "text_ar": "وَإِذَا لَقُوا الَّذِينَ آمَنُوا قَالُوا آمَنَّا وَإِذَا خَلَا بَعْضُهُمْ إِلَى بَعْضٍ قَالُوا أَتُحَدِّثُونَهُمْ بِمَا فَتَحَ اللَّهُ عَلَيْكُمْ لِيُحَاجُّوكُمْ بِهِ عِنْدَ رَبِّكُمْ أَفَلَا تَعْقِلُونَ",
+      "tafseer_so": "Marka ay [munaafaqiinta Yahuuddu] la kulmaan kuwa Alle rumeeyay waxay ku dhahayaan: waannu rumaynay; markii ay isla keliyoobaanna waxay [madaxdooda aan munaafaqadaynin] dhahayaan: ma waxaad [asxaabta Muxammad S.C.W] uga warramaysaan wixii uu Alle idiin sheegay [oo ah in Nebiga lagu sheegay Towreed] si ay Alle agtiisa idiin kula doodaan; war miyaydaan wax garanayn"
+    },
+    {
+      "number": 77,
+      "text_ar": "أَوَلَا يَعْلَمُونَ أَنَّ اللَّهَ يَعْلَمُ مَا يُسِرُّونَ وَمَا يُعْلِنُونَ",
+      "tafseer_so": "Oo miyaanay ogayn in uu Alle og yahay waxa ay qarinayaan iyo waxa ay muujinayaanba"
+    },
+    {
+      "number": 78,
+      "text_ar": "وَمِنْهُمْ أُمِّيُّونَ لَا يَعْلَمُونَ الْكِتَابَ إِلَّا أَمَانِيَّ وَإِنْ هُمْ إِلَّا يَظُنُّونَ",
+      "tafseer_so": "Waxaa ayaga [ehlu kitaabka] ka mid ah ummiyiin [wax ma qorayaal aan waxna akhrin; jaahiliin; caammo] aan kitaabka ka aqoon wax aan yididiilo ahayn [beeno rejogelin ah oo ay madaxdooda ka maqleen]; male mooyee wax kale ma hayaan"
+    },
+    {
+      "number": 79,
+      "text_ar": "فَوَيْلٌ لِلَّذِينَ يَكْتُبُونَ الْكِتَابَ بِأَيْدِيهِمْ ثُمَّ يَقُولُونَ هَذَا مِنْ عِنْدِ اللَّهِ لِيَشْتَرُوا بِهِ ثَمَنًا قَلِيلًا فَوَيْلٌ لَهُمْ مِمَّا كَتَبَتْ أَيْدِيهِمْ وَوَيْلٌ لَهُمْ مِمَّا يَكْسِبُونَ",
+      "tafseer_so": "Way hoogeen kuwa kitaabka [towreed] gacantooda ku qoraya [asaga oo la dooriyay] deetana oranaya ‘kani xag Alle ayuu ka yimid’ [waxay sidaa u yeelayaanna] waa in ay lacag yar siistaan; hoog bay ku muteen waxa ay gacmahoodu qoreen, halaag bayna isugu soojiideen waxa ay shaqaysanayaan"
+    },
+    {
+      "number": 80,
+      "text_ar": "وَقَالُوا لَنْ تَمَسَّنَا النَّارُ إِلَّا أَيَّامًا مَعْدُودَةً قُلْ أَتَّخَذْتُمْ عِنْدَ اللَّهِ عَهْدًا فَلَنْ يُخْلِفَ اللَّهُ عَهْدَهُ أَمْ تَقُولُونَ عَلَى اللَّهِ مَا لَا تَعْلَمُونَ",
+      "tafseer_so": "Waxay dhaheen: naartu maalmo kooban mooyaane na ma taabanayso; waxaad ku dhadhaa: ma Ilaahay baad ballan la gasheen-oo dee Ilaahayna ballankiisa ma guudyeelo mise wax aydaan ogayn baad Alle ka sheegaysaan"
+    },
+    {
+      "number": 81,
+      "text_ar": "بَلَى مَنْ كَسَبَ سَيِّئَةً وَأَحَاطَتْ بِهِ خَطِيئَتُهُ فَأُولَئِكَ أَصْحَابُ النَّارِ هُمْ فِيهَا خَالِدُونَ",
+      "tafseer_so": "Sidaad mooddeen arrinku ma ahan e, qofkii xumaan sameeya ee uu gefkiisuna isku meegaaro, kuwaa uun baa ehlu naar ah, ayaga uun baana ku waaraya"
+    },
+    {
+      "number": 82,
+      "text_ar": "وَالَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ أُولَئِكَ أَصْحَابُ الْجَنَّةِ هُمْ فِيهَا خَالِدُونَ",
+      "tafseer_so": "Kuwa Alle rumeeyay ee wax sanna falay, kuwaa uun baa ehlu janno ah, ayaga uun baana dhexdeeda ku waaraya"
+    },
+    {
+      "number": 83,
+      "text_ar": "وَإِذْ أَخَذْنَا مِيثَاقَ بَنِي إِسْرَائِيلَ لَا تَعْبُدُونَ إِلَّا اللَّهَ وَبِالْوَالِدَيْنِ إِحْسَانًا وَذِي الْقُرْبَى وَالْيَتَامَى وَالْمَسَاكِينِ وَقُولُوا لِلنَّاسِ حُسْنًا وَأَقِيمُوا الصَّلَاةَ وَآتُوا الزَّكَاةَ ثُمَّ تَوَلَّيْتُمْ إِلَّا قَلِيلًا مِنْكُمْ وَأَنْتُمْ مُعْرِضُونَ",
+      "tafseer_so": "[Xusuusta] kolkii aan reer Banii Israa’iil ka qaadnay ballankii dhaarta lagu adkeeyay [ee ahaa]: cid aan Ilaahay ahayn caabudi maysaan, waalidkana waad wanaajinaysaan, qaraabada, agoonka iyo masaakiintana waad u samafalaysaan; dadkana waxaad ku dhahdaan hadal wanaagsan, salaadda oogga, sakadana bixiya; deetana waad ka jeesateen in yar oo idin ka tirsan mooyee, waadna isaga dhaqaajisen"
+    },
+    {
+      "number": 84,
+      "text_ar": "وَإِذْ أَخَذْنَا مِيثَاقَكُمْ لَا تَسْفِكُونَ دِمَاءَكُمْ وَلَا تُخْرِجُونَ أَنْفُسَكُمْ مِنْ دِيَارِكُمْ ثُمَّ أَقْرَرْتُمْ وَأَنْتُمْ تَشْهَدُونَ",
+      "tafseer_so": "[Xusuusta] markii aan ballanka dhaarta lagu adkeeyay aan idin kaga qaadnay: in aydaan daadinayn dhiiggiinna, nafihiinnana aydaan qixinayn, deetana aad qirteen idinka oo marag ka ah"
+    },
+    {
+      "number": 86,
+      "text_ar": "أُولَئِكَ الَّذِينَ اشْتَرَوُا الْحَيَاةَ الدُّنْيَا بِالْآخِرَةِ فَلَا يُخَفَّفُ عَنْهُمُ الْعَذَابُ وَلَا هُمْ يُنْصَرُونَ",
+      "tafseer_so": "Kuwaasi waa kuwa aakhiro ku iibsaday [oo ku beddeshay] adduun, cadaabkana laga debcin mayo, loo mana hiilin doono"
+    },
+    {
+      "number": 87,
+      "text_ar": "وَلَقَدْ آتَيْنَا مُوسَى الْكِتَابَ وَقَفَّيْنَا مِنْ بَعْدِهِ بِالرُّسُلِ وَآتَيْنَا عِيسَى ابْنَ مَرْيَمَ الْبَيِّنَاتِ وَأَيَّدْنَاهُ بِرُوحِ الْقُدُسِ أَفَكُلَّمَا جَاءَكُمْ رَسُولٌ بِمَا لَا تَهْوَى أَنْفُسُكُمُ اسْتَكْبَرْتُمْ فَفَرِيقًا كَذَّبْتُمْ وَفَرِيقًا تَقْتُلُونَ",
+      "tafseer_so": "Dhabtii, waxaan Muuse siinnay kitaabka [towreed] waxaannuna ka dabakeennay [oo soo dirnay] ergo, Ciise Maryanna waxaan siinnay caddaymo, waxaannuna ku xoojinnay Ruuxda Daahirka ah [Jibriil]; war ma markii uu ergay idiin keeno wax aanay naftiinnu u hawoonayn [oo aanay rabin] ayaad iskibrinaysaan oo qaarkoodna waad beeninaysaan, qaarna waad dilaysaa!"
+    },
+    {
+      "number": 88,
+      "text_ar": "وَقَالُوا قُلُوبُنَا غُلْفٌ بَلْ لَعَنَهُمُ اللَّهُ بِكُفْرِهِمْ فَقَلِيلًا مَا يُؤْمِنُونَ",
+      "tafseer_so": "Waxay dhaheen: qalbiyadannadu way gufaysan yihiin; sidaa ma aha e, Alle ayaa gaalnimadooda darteed u lacnaday [oo naxariistiisa uga fogeeyay], in yar uun bay rumaynayaan"
+    },
+    {
+      "number": 89,
+      "text_ar": "وَلَمَّا جَاءَهُمْ كِتَابٌ مِنْ عِنْدِ اللَّهِ مُصَدِّقٌ لِمَا مَعَهُمْ وَكَانُوا مِنْ قَبْلُ يَسْتَفْتِحُونَ عَلَى الَّذِينَ كَفَرُوا فَلَمَّا جَاءَهُمْ مَا عَرَفُوا كَفَرُوا بِهِ فَلَعْنَةُ اللَّهِ عَلَى الْكَافِرِينَ",
+      "tafseer_so": "Markii uu u yimid kitaab Alle xaggii ka socda oo waafaqsan wixii [kitaabkii] ay haysteen, awalna ay Alle gargaargaar ugu weydiisan jireen in uu gaalada uga hiiliyo [oo nebiga la soo bixin doono aakhiru samanka noogu hiili ayay dhihi jireen e], markii uu u yimid wax ay garnayaan ayaa ay ku gaaloobeen; lacnadda Ilaahay ha ku dhacdo gaalada"
+    },
+    {
+      "number": 90,
+      "text_ar": "بِئْسَمَا اشْتَرَوْا بِهِ أَنْفُسَهُمْ أَنْ يَكْفُرُوا بِمَا أَنْزَلَ اللَّهُ بَغْيًا أَنْ يُنَزِّلَ اللَّهُ مِنْ فَضْلِهِ عَلَى مَنْ يَشَاءُ مِنْ عِبَادِهِ فَبَاءُوا بِغَضَبٍ عَلَى غَضَبٍ وَلِلْكَافِرِينَ عَذَابٌ مُهِينٌ",
+      "tafseer_so": "Xumaa waxa ay nafahooda ku iibiyeen, oo ah in ay dafiraan wixii uu Alle ku soo dejiyay ayaga oo ka qooqsan in uu Alle fadligiisa [waxyigiisa] ku soo dejiyo ciddii uu doono oo addoommadiisa ka mid ah; waxay la guryonoqdeen caro lagu daray caro, gaaladuna waxay leeyihiin cadaab weyn oo aad u dullaynaya"
+    },
+    {
+      "number": 91,
+      "text_ar": "وَإِذَا قِيلَ لَهُمْ آمِنُوا بِمَا أَنْزَلَ اللَّهُ قَالُوا نُؤْمِنُ بِمَا أُنْزِلَ عَلَيْنَا وَيَكْفُرُونَ بِمَا وَرَاءَهُ وَهُوَ الْحَقُّ مُصَدِّقًا لِمَا مَعَهُمْ قُلْ فَلِمَ تَقْتُلُونَ أَنْبِيَاءَ اللَّهِ مِنْ قَبْلُ إِنْ كُنْتُمْ مُؤْمِنِينَ",
+      "tafseer_so": "Markii lagu dhaho ‘rumeeya wixii uu Alle soo dejiyay’ waxay oranayaan ‘wixii na la ku soo dejiyay baan rumaynaynaa’ waxayna dafirayaan wixii ka dambeeyay ee xaqa ah, ee waafaqsan wixii [kitaabkii] ay haysteen; ku dheh: haddaba, maxaad kal hore u dilayseen nebiyadii Ilaahay haddiiba aad rumaynayseen [Illeen wixii awoowayaashiin faleen baad raalli ka tihiin e]"
+    },
+    {
+      "number": 92,
+      "text_ar": "وَلَقَدْ جَاءَكُمْ مُوسَى بِالْبَيِّنَاتِ ثُمَّ اتَّخَذْتُمُ الْعِجْلَ مِنْ بَعْدِهِ وَأَنْتُمْ ظَالِمُونَ",
+      "tafseer_so": "Dhabtii, wuxuu Muuse idiin la yimid caddaymo, deetana waxaad gadaashi Ilaah ka dhigateen dibi, idinka oo daalimiin ah"
+    },
+    {
+      "number": 93,
+      "text_ar": "وَإِذْ أَخَذْنَا مِيثَاقَكُمْ وَرَفَعْنَا فَوْقَكُمُ الطُّورَ خُذُوا مَا آتَيْنَاكُمْ بِقُوَّةٍ وَاسْمَعُوا قَالُوا سَمِعْنَا وَعَصَيْنَا وَأُشْرِبُوا فِي قُلُوبِهِمُ الْعِجْلَ بِكُفْرِهِمْ قُلْ بِئْسَمَا يَأْمُرُكُمْ بِهِ إِيمَانُكُمْ إِنْ كُنْتُمْ مُؤْمِنِينَ",
+      "tafseer_so": "[xusuusta] markii aan idin ka qaadnay ballankii dhaarta lagu adkeeyay ee aan dushiinna keennay buurtii Duur [ee aan idin niri] dedaal iyo kal-adayg ku qaata wixii [xaqa] aan idiin keennay oo maqla’ waxay dhaheen ‘maqalnay oo caasinnay’ gaalnimadooda darteedna waxaa qalbiyadooda la cabsiiyay [jacaylkii] dibiga; waxaadna ku dhahdaa: xumaa waxa uu iimaankiinnu idin farayo haddiiba aad muuminiin tihiin"
+    },
+    {
+      "number": 94,
+      "text_ar": "قُلْ إِنْ كَانَتْ لَكُمُ الدَّارُ الْآخِرَةُ عِنْدَ اللَّهِ خَالِصَةً مِنْ دُونِ النَّاسِ فَتَمَنَّوُا الْمَوْتَ إِنْ كُنْتُمْ صَادِقِينَ",
+      "tafseer_so": "Ku dheh: haddii ay Alle agtii daarta aakhiro idiin gaar tahay oo aad dadka ka xigtaan, tamanniya [niyadda ka jeclaada] geerida, haddii aad run sheegaysaan"
+    },
+    {
+      "number": 95,
+      "text_ar": "وَلَنْ يَتَمَنَّوْهُ أَبَدًا بِمَا قَدَّمَتْ أَيْدِيهِمْ وَاللَّهُ عَلِيمٌ بِالظَّالِمِينَ",
+      "tafseer_so": "Ma ay tamannin doonaan, sababtuna waa waxa ay hore u faleen, Ilaahayna wuu og yahay daalimiinta"
+    },
+    {
+      "number": 96,
+      "text_ar": "وَلَتَجِدَنَّهُمْ أَحْرَصَ النَّاسِ عَلَى حَيَاةٍ وَمِنَ الَّذِينَ أَشْرَكُوا يَوَدُّ أَحَدُهُمْ لَوْ يُعَمَّرُ أَلْفَ سَنَةٍ وَمَا هُوَ بِمُزَحْزِحِهِ مِنَ الْعَذَابِ أَنْ يُعَمَّرَ وَاللَّهُ بَصِيرٌ بِمَا يَعْمَلُونَ",
+      "tafseer_so": "Waxaad [Yahuudda] ku ogaan doontaa in ay yihiin kuwa dadka ugu nolol jecel; kuwa Alle Ilaahnimada qayrkii la wadaajiyayna [sidoo kale], midkood wuxuu jeclaan lahaa in kun sannnadood la gaarsiiyo; in ay cimri dheeraadaanna cadaabka kama ay durjinayso; Ilaahayna xog-ogaal ayuu u yahay waxa ay samaynayaan"
+    },
+    {
+      "number": 97,
+      "text_ar": "قُلْ مَنْ كَانَ عَدُوًّا لِجِبْرِيلَ فَإِنَّهُ نَزَّلَهُ عَلَى قَلْبِكَ بِإِذْنِ اللَّهِ مُصَدِّقًا لِمَا بَيْنَ يَدَيْهِ وَهُدًى وَبُشْرَى لِلْمُؤْمِنِينَ",
+      "tafseer_so": ""
+    },
+    {
+      "number": 98,
+      "text_ar": "مَنْ كَانَ عَدُوًّا لِلَّهِ وَمَلَائِكَتِهِ وَرُسُلِهِ وَجِبْرِيلَ وَمِيكَالَ فَإِنَّ اللَّهَ عَدُوٌّ لِلْكَافِرِينَ",
+      "tafseer_so": ""
+    },
+    {
+      "number": 99,
+      "text_ar": "وَلَقَدْ أَنْزَلْنَا إِلَيْكَ آيَاتٍ بَيِّنَاتٍ وَمَا يَكْفُرُ بِهَا إِلَّا الْفَاسِقُونَ",
+      "tafseer_so": "Waxaannu kuu soo dejinnay caddaymo cadcad, cid aan faasiqiinta ahaynina ma dafirayso"
+    },
+    {
+      "number": 100,
+      "text_ar": "أَوَكُلَّمَا عَاهَدُوا عَهْدًا نَبَذَهُ فَرِيقٌ مِنْهُمْ بَلْ أَكْثَرُهُمْ لَا يُؤْمِنُونَ",
+      "tafseer_so": "Markii ay ballan galaanba ma qaarkood ayaa halgaadaya [oo burinaya], wax kalaba ha joogaan e, badidood ma rumaynayaan"
+    },
+    {
+      "number": 101,
+      "text_ar": "وَلَمَّا جَاءَهُمْ رَسُولٌ مِنْ عِنْدِ اللَّهِ مُصَدِّقٌ لِمَا مَعَهُمْ نَبَذَ فَرِيقٌ مِنَ الَّذِينَ أُوتُوا الْكِتَابَ كِتَابَ اللَّهِ وَرَاءَ ظُهُورِهِمْ كَأَنَّهُمْ لَا يَعْلَمُونَ",
+      "tafseer_so": "Markii uu u yimid ergay Alle xaggiisa ka yimid oo waafaqsan wixii [xaqii] ay haysteen, ayaa ay koox ehlu kitaabka ka mid ah ay kitaabka Alle dhabarkooda gadaashiisa ka tuureen, sidii oo aanay ogaynba"
+    },
+    {
+      "number": 102,
+      "text_ar": "وَاتَّبَعُوا مَا تَتْلُو الشَّيَاطِينُ عَلَى مُلْكِ سُلَيْمَانَ وَمَا كَفَرَ سُلَيْمَانُ وَلَكِنَّ الشَّيَاطِينَ كَفَرُوا يُعَلِّمُونَ النَّاسَ السِّحْرَ وَمَا أُنْزِلَ عَلَى الْمَلَكَيْنِ بِبَابِلَ هَارُوتَ وَمَارُوتَ وَمَا يُعَلِّمَانِ مِنْ أَحَدٍ حَتَّى يَقُولَا إِنَّمَا نَحْنُ فِتْنَةٌ فَلَا تَكْفُرْ فَيَتَعَلَّمُونَ مِنْهُمَا مَا يُفَرِّقُونَ بِهِ بَيْنَ الْمَرْءِ وَزَوْجِهِ وَمَا هُمْ بِضَارِّينَ بِهِ مِنْ أَحَدٍ إِلَّا بِإِذْنِ اللَّهِ وَيَتَعَلَّمُونَ مَا يَضُرُّهُمْ وَلَا يَنْفَعُهُمْ وَلَقَدْ عَلِمُوا لَمَنِ اشْتَرَاهُ مَا لَهُ فِي الْآخِرَةِ مِنْ خَلَاقٍ وَلَبِئْسَ مَا شَرَوْا بِهِ أَنْفُسَهُمْ لَوْ كَانُوا يَعْلَمُونَ",
+      "tafseer_so": "Waxay [Yahuuddu} raaceen wixii ay shaydaammadu akhriyeen waagii boqortooyada Sulaymaan, Sulaymaanna ma uusan gaaloobin e, waxaa gaaloobay gaalada oo dadka barayay sixirka iyo wixii lagu soo dejiyay [la baray oo lagu ilhaamiyay] labadii malag ee Baabili joogay ee ahaa Haaruud iyo Maaruud; labadooduna cidna ma aanay barayn ilaa ay ku dhahaan ‘annagu fidno uun baan nahay e, ha gaaloobin’; labadooda ayay ka baranayeen wax ay ku kala geeyaan nin iyo xaaskii; cid Ilaahay u oggaaladay mooyee cid kale kuma aanay dhibayn; waxay ka baranayeen wax ayaga dhibaya oo aan wax tarayn, wayna ogaayeen in qofkii iibsada [sixirka barta] uusan aakhiro calaf ku lahayn, xumaa waxa ay nafahooda ku iibiyeen haddiiba ay og yihiin"
+    },
+    {
+      "number": 103,
+      "text_ar": "وَلَوْ أَنَّهُمْ آمَنُوا وَاتَّقَوْا لَمَثُوبَةٌ مِنْ عِنْدِ اللَّهِ خَيْرٌ لَوْ كَانُوا يَعْلَمُونَ",
+      "tafseer_so": "Haddii ay rumayn lahaayeen ee ay cabsan lahaayeenna, hadde [waxaan ku dhaaranayaa in ]vabaalmarin Alle xaggii ka timid ay kawanaagsan tahay [waxa ay naftooda ku iibiyeen] waa haddii ay og yihiin e"
+    },
+    {
+      "number": 104,
+      "text_ar": "يَا أَيُّهَا الَّذِينَ آمَنُوا لَا تَقُولُوا رَاعِنَا وَقُولُوا انْظُرْنَا وَاسْمَعُوا وَلِلْكَافِرِينَ عَذَابٌ أَلِيمٌ",
+      "tafseer_so": "Kuwa Alle rumeeyayoow ha orannina ‘raacinaa’ [oo ay ka wadeen na maqal balse yahuudda afkooda cay ama habaar ku ahayd], waxaad dhahdaan ‘noo soo jeeso’, maqla [waxa la idin farayo oo qaata], gaaladuna waxay leeyihiin cadaab weyn oo xanuujin badan"
+    },
+    {
+      "number": 105,
+      "text_ar": "مَا يَوَدُّ الَّذِينَ كَفَرُوا مِنْ أَهْلِ الْكِتَابِ وَلَا الْمُشْرِكِينَ أَنْ يُنَزَّلَ عَلَيْكُمْ مِنْ خَيْرٍ مِنْ رَبِّكُمْ وَاللَّهُ يَخْتَصُّ بِرَحْمَتِهِ مَنْ يَشَاءُ وَاللَّهُ ذُو الْفَضْلِ الْعَظِيمِ",
+      "tafseer_so": "Gaalada Ehlukitaabka ka mid ah iyo mushrikiintuba ma jecla in la idin ku soo dejiyo kheyr Eebbihiin idiin ka yimaada, Ilaahayna ciddii uu doono ayuu naxariistiisa ku gooni yeelaa, Ilaahayna waa Alle fadli iyo weyniba leh"
+    },
+    {
+      "number": 106,
+      "text_ar": "مَا نَنْسَخْ مِنْ آيَةٍ أَوْ نُنْسِهَا نَأْتِ بِخَيْرٍ مِنْهَا أَوْ مِثْلِهَا أَلَمْ تَعْلَمْ أَنَّ اللَّهَ عَلَى كُلِّ شَيْءٍ قَدِيرٌ",
+      "tafseer_so": "Wixii aan nasakhno ee aayad ah ama aan qalbigaaga ka masaxno, waxaan keenaynaa tu ka fiican ama la mid ah; miyaadan ogayn in uu Alle wax walba awoodo"
+    },
+    {
+      "number": 107,
+      "text_ar": "أَلَمْ تَعْلَمْ أَنَّ اللَّهَ لَهُ مُلْكُ السَّمَاوَاتِ وَالْأَرْضِ وَمَا لَكُمْ مِنْ دُونِ اللَّهِ مِنْ وَلِيٍّ وَلَا نَصِيرٍ",
+      "tafseer_so": "Miyaadan ogayn in uu Alle leeyahay milkiyadda cirka iyo dhulka, aydaan lahaynna cid asaga ka sokaysa oo hiiliye iyo gargaare ah"
+    },
+    {
+      "number": 108,
+      "text_ar": "أَمْ تُرِيدُونَ أَنْ تَسْأَلُوا رَسُولَكُمْ كَمَا سُئِلَ مُوسَى مِنْ قَبْلُ وَمَنْ يَتَبَدَّلِ الْكُفْرَ بِالْإِيمَانِ فَقَدْ ضَلَّ سَوَاءَ السَّبِيلِ",
+      "tafseer_so": "Mise waxaad doonaysaan in aad rasuulkiinna weydiisaan sidii Muusaba kal hore loo weydiiyay [sida: Ilaahay indhaha soo saar I.q.k], qofkii rumaynta gaalnimo ku beddeshana waxaa uu si dhab ah uga lumay jidka toosan"
+    },
+    {
+      "number": 109,
+      "text_ar": "وَدَّ كَثِيرٌ مِنْ أَهْلِ الْكِتَابِ لَوْ يَرُدُّونَكُمْ مِنْ بَعْدِ إِيمَانِكُمْ كُفَّارًا حَسَدًا مِنْ عِنْدِ أَنْفُسِهِمْ مِنْ بَعْدِ مَا تَبَيَّنَ لَهُمُ الْحَقُّ فَاعْفُوا وَاصْفَحُوا حَتَّى يَأْتِيَ اللَّهُ بِأَمْرِهِ إِنَّ اللَّهَ عَلَى كُلِّ شَيْءٍ قَدِيرٌ",
+      "tafseer_so": "In badan oo gaalada ka mid ah waxay jeclaysteen haddii ay rumayntiinna ka dib gaalnimo idin ku celin lahaayeen, waxayna ka tahay xaasidnimo nafahooda ku duugan, [waxay sidaa jeclaysteen] ka dib markii uu xaqu u caddaaday [oo towreed loogu sheegay], haddaba, iska cafiya oo iska dhaafa ilaa uu cadaabka Eebbe ka imaanayo; Ilaahayna wuu awoodaa wax walba"
+    },
+    {
+      "number": 110,
+      "text_ar": "وَأَقِيمُوا الصَّلَاةَ وَآتُوا الزَّكَاةَ وَمَا تُقَدِّمُوا لِأَنْفُسِكُمْ مِنْ خَيْرٍ تَجِدُوهُ عِنْدَ اللَّهِ إِنَّ اللَّهَ بِمَا تَعْمَلُونَ بَصِيرٌ",
+      "tafseer_so": "Salaadda ooga, sakada bixiya, wixii wanaagsan ee aad nafihiinna u horumarsataanna Alle agtiisa ayaad ka helaysaan; Ilaahayna waa uu ujeedaa waxa aad samaynaysaan"
+    },
+    {
+      "number": 111,
+      "text_ar": "وَقَالُوا لَنْ يَدْخُلَ الْجَنَّةَ إِلَّا مَنْ كَانَ هُودًا أَوْ نَصَارَى تِلْكَ أَمَانِيُّهُمْ قُلْ هَاتُوا بُرْهَانَكُمْ إِنْ كُنْتُمْ صَادِقِينَ",
+      "tafseer_so": "Waxay [Yahuuddu] dhaheen ‘qof aan yahuudi ama kirishtaan ahayn jannada geli mayo’, taasi waa sida ay isjeclaysiiyeen e, waxaad ku dhahdaa: haddii aad run sheegaysaan la imaada xujooyinkiinna"
+    },
+    {
+      "number": 113,
+      "text_ar": "وَقَالَتِ الْيَهُودُ لَيْسَتِ النَّصَارَى عَلَى شَيْءٍ وَقَالَتِ النَّصَارَى لَيْسَتِ الْيَهُودُ عَلَى شَيْءٍ وَهُمْ يَتْلُونَ الْكِتَابَ كَذَلِكَ قَالَ الَّذِينَ لَا يَعْلَمُونَ مِثْلَ قَوْلِهِمْ فَاللَّهُ يَحْكُمُ بَيْنَهُمْ يَوْمَ الْقِيَامَةِ فِيمَا كَانُوا فِيهِ يَخْتَلِفُونَ",
+      "tafseer_so": "Waxay Yahuuddu dhaheen ‘Kirshtaanku waxba islama hayaan [xaq ma hayaan]’ Kirishtaankuna waxay dhaheen ‘Yahuuddu waxba islama hayaan’ [waxay labadooduba sidaa leeyihiin] ayaga oo akhrinaya kitaabka [towreed/injiil]; sidaa oo kale ayay kuwa aan wax garanayninna [waa gaalooyinka kalee] ay hadalkooda oo kale u dhaheen; Alle ayaa maalinta qiyaamaha wixii ay isku khilaafsanaayeen u kala xukumaya"
+    },
+    {
+      "number": 114,
+      "text_ar": "وَمَنْ أَظْلَمُ مِمَّنْ مَنَعَ مَسَاجِدَ اللَّهِ أَنْ يُذْكَرَ فِيهَا اسْمُهُ وَسَعَى فِي خَرَابِهَا أُولَئِكَ مَا كَانَ لَهُمْ أَنْ يَدْخُلُوهَا إِلَّا خَائِفِينَ لَهُمْ فِي الدُّنْيَا خِزْيٌ وَلَهُمْ فِي الْآخِرَةِ عَذَابٌ عَظِيمٌ",
+      "tafseer_so": "Yaa ka dulmi badan [waa cidina e] qofkii diida in masaajiddada Ilaahay magiciisa lagu xuso, una hawlgala hallayntooda; kuwaasi xaq uma ay laha in ay galaan masaajidda jeer ay baqayaan mooyee [yacnii, cabsigeliya oo la jihaada]; waxay adduunka ku mudanayaan hoog, aakhirana waxay leeyihiin cadaab weyn oo aad u weyn"
+    },
+    {
+      "number": 115,
+      "text_ar": "وَلِلَّهِ الْمَشْرِقُ وَالْمَغْرِبُ فَأَيْنَمَا تُوَلُّوا فَثَمَّ وَجْهُ اللَّهِ إِنَّ اللَّهَ وَاسِعٌ عَلِيمٌ",
+      "tafseer_so": "Bari iyo galbeedba Alle ayaa iska leh e, dhankii aad ujeesataanba waa qibladii Alle; Ilaahay waa mid deeqa oo ku filan uunkiisa, wuuna ogsoon yahay"
+    },
+    {
+      "number": 116,
+      "text_ar": "وَقَالُوا اتَّخَذَ اللَّهُ وَلَدًا سُبْحَانَهُ بَلْ لَهُ مَا فِي السَّمَاوَاتِ وَالْأَرْضِ كُلٌّ لَهُ قَانِتُونَ",
+      "tafseer_so": "Waxay dhaheen ‘Ilaaay wiil buu yeeshay’ sidaa ma ahan e, wuxuu [Ilaahay] leeyahay waxa cirka iyo dhulka ku sugan, dhammaantoodna asaga ayay u hoggaansan yihiin"
+    },
+    {
+      "number": 117,
+      "text_ar": "بَدِيعُ السَّمَاوَاتِ وَالْأَرْضِ وَإِذَا قَضَى أَمْرًا فَإِنَّمَا يَقُولُ لَهُ كُنْ فَيَكُونُ",
+      "tafseer_so": "Cirka iyo dhulka asagaa unkay [cid kalana kaga ma uusan dayan], haddii uu arrin xukumayana waxa keliya ee uu ku dhahaa: ahow, sidaa ayuuna ku samaysmaa"
+    },
+    {
+      "number": 118,
+      "text_ar": "وَقَالَ الَّذِينَ لَا يَعْلَمُونَ لَوْلَا يُكَلِّمُنَا اللَّهُ أَوْ تَأْتِينَا آيَةٌ كَذَلِكَ قَالَ الَّذِينَ مِنْ قَبْلِهِمْ مِثْلَ قَوْلِهِمْ تَشَابَهَتْ قُلُوبُهُمْ قَدْ بَيَّنَّا الْآيَاتِ لِقَوْمٍ يُوقِنُونَ",
+      "tafseer_so": "Kuwa aan wax ogayn waxay dhaheen ‘muu Ilaahay na la hadlo ama caddayni may noo timaaddo’ sidaa oo kale ayay kuwii ka horreeyayna dhaheen, qalbiyadooduna waa ay isu eg yihiin; waxaannu caddayamaha u bayaaminnay duul wax hubsanaya"
+    },
+    {
+      "number": 119,
+      "text_ar": "إِنَّا أَرْسَلْنَاكَ بِالْحَقِّ بَشِيرًا وَنَذِيرًا وَلَا تُسْأَلُ عَنْ أَصْحَابِ الْجَحِيمِ",
+      "tafseer_so": "Waxaannu adoo xaq wada kuu soo dirnay in aad dadka u bishaaraysid [kii hoggaansan war farxad leh aad siisid] iyo in aad u digtid [kii ku dafira aad cadaab uga digtid], waxna lagaa weydiin mayo kuwa naarta jaxiima galaya [oo lagu oran mayo maxay xaqa u rumayn waayeen]"
+    },
+    {
+      "number": 120,
+      "text_ar": "وَلَنْ تَرْضَى عَنْكَ الْيَهُودُ وَلَا النَّصَارَى حَتَّى تَتَّبِعَ مِلَّتَهُمْ قُلْ إِنَّ هُدَى اللَّهِ هُوَ الْهُدَى وَلَئِنِ اتَّبَعْتَ أَهْوَاءَهُمْ بَعْدَ الَّذِي جَاءَكَ مِنَ الْعِلْمِ مَا لَكَ مِنَ اللَّهِ مِنْ وَلِيٍّ وَلَا نَصِيرٍ",
+      "tafseer_so": "Yahuud iyo Kirishtaan kaa raalli noqon mayaan jeer aad diintooda raacdid, waxaad dhahdaa: hanuunka Ilaahay uun baa hanuun ah; haddii se aad raacdid hawadooda ka dib intii uu cilmigu [waxyigu] kuu yimid, hadde cid Ilaahay kaaga hiilinaysa oo [ciqaabkiisa] kaaga gargaaraysa ma ay jirto"
+    },
+    {
+      "number": 121,
+      "text_ar": "الَّذِينَ آتَيْنَاهُمُ الْكِتَابَ يَتْلُونَهُ حَقَّ تِلَاوَتِهِ أُولَئِكَ يُؤْمِنُونَ بِهِ وَمَنْ يَكْفُرْ بِهِ فَأُولَئِكَ هُمُ الْخَاسِرُونَ",
+      "tafseer_so": "Kuwa aannu kitaabka [towreed/injiil] siinnay ee sida xaqa ah u akhrinaya [ee u sheegaya], kuwaa uun baa rumaynaya, ciddii ku gaalowdana, kuwaa uun baa ah kuwa khasaaray"
+    },
+    {
+      "number": 122,
+      "text_ar": "يَا بَنِي إِسْرَائِيلَ اذْكُرُوا نِعْمَتِيَ الَّتِي أَنْعَمْتُ عَلَيْكُمْ وَأَنِّي فَضَّلْتُكُمْ عَلَى الْعَالَمِينَ",
+      "tafseer_so": "Reer Banii Israa’iiloow, xusa nimcooyinkii aan idin ku galladay iyo in aan uunka oo dhan idin ka sarraysiiyay"
+    },
+    {
+      "number": 123,
+      "text_ar": "وَاتَّقُوا يَوْمًا لَا تَجْزِي نَفْسٌ عَنْ نَفْسٍ شَيْئًا وَلَا يُقْبَلُ مِنْهَا عَدْلٌ وَلَا تَنْفَعُهَا شَفَاعَةٌ وَلَا هُمْ يُنْصَرُونَ",
+      "tafseer_so": "Ka yaaba maalin aanay nafina nafna kale waxtarayn, aan laga aqbalayn madaxfurasho, in loo ergeeyana aanay waxtarayn, loona hiilinayn"
+    },
+    {
+      "number": 124,
+      "text_ar": "[xus] markii Ibraahim uu Rabbigi ku jirrabay weedho [farid iyo reebidba leh] ee uu [Ibraahiimna] dhammaystiray, wuxuu [Ilaahay] yiri ‘waxaan dadka kaaga dhigayaa imaam [hormuud ay ku daydaan]’ wuxuu yiri ‘tafiirtayadana ka dhig’ wuxuu yiri ‘ballankaygu daalimiinta ma gaarayo [oo ma khuseeyo]",
+      "tafseer_so": ""
+    },
+    {
+      "number": 125,
+      "text_ar": "وَإِذِ ابْتَلَى إِبْرَاهِيمَ رَبُّهُ بِكَلِمَاتٍ فَأَتَمَّهُنَّ قَالَ إِنِّي جَاعِلُكَ لِلنَّاسِ إِمَامًا قَالَ وَمِنْ ذُرِّيَّتِي قَالَ لَا يَنَالُ عَهْدِي الظَّالِمِينَ",
+      "tafseer_so": "[Xus] markiin aan guriga [kacbada] ka dhignay meel ay ku soo laalaabtaan [oo ay daafaha adduunka isaga yimaadaan] iyo nabadgalyo; [dadkoow] halkii [dhagixii ]uu Ibraahim [ku] taagnaa ka dhigta masalle [meel lagu tukado]; waxaan Ibraahim iyo Ismaaciil kula balannay ‘gurigayga u nadiifiya [sanamyada uga daahiriya] kuwa ku dawaafaya, kuwa ku ictikaafaya [cibaado ugu negaanaya], kuwa rukuucda badan ee sujuudda badan [salaadda badan] وَإِذْ جَعَلْنَا الْبَيْتَ مَثَابَةً لِلنَّاسِ وَأَمْنًا وَاتَّخِذُوا مِنْ مَقَامِ إِبْرَاهِيمَ مُصَلًّى وَعَهِدْنَا إِلَى إِبْرَاهِيمَ وَإِسْمَاعِيلَ أَنْ طَهِّرَا بَيْتِيَ لِلطَّائِفِينَ وَالْعَاكِفِينَ وَالرُّكَّعِ السُّجُودِ"
+    },
+    {
+      "number": 126,
+      "text_ar": "وَإِذْ قَالَ إِبْرَاهِيمُ رَبِّ اجْعَلْ هَذَا بَلَدًا آمِنًا وَارْزُقْ أَهْلَهُ مِنَ الثَّمَرَاتِ مَنْ آمَنَ مِنْهُمْ بِاللَّهِ وَالْيَوْمِ الْآخِرِ قَالَ وَمَنْ كَفَرَ فَأُمَتِّعُهُ قَلِيلًا ثُمَّ أَضْطَرُّهُ إِلَى عَذَابِ النَّارِ وَبِئْسَ الْمَصِيرُ",
+      "tafseer_so": ""
+    },
+    {
+      "number": 127,
+      "text_ar": "وَإِذْ يَرْفَعُ إِبْرَاهِيمُ الْقَوَاعِدَ مِنَ الْبَيْتِ وَإِسْمَاعِيلُ رَبَّنَا تَقَبَّلْ مِنَّا ۖ إِنَّكَ أَنتَ السَّمِيعُ الْعَلِيمُ",
+      "tafseer_so": "[xus] markii Ibraahim iyo Ismaaciil ay taagayeen seeska kacbada, [ayna lahaayeen] Eebboow, naga aqbal, adigu waxa aad tahay maqle og [wax walba]"
+    },
+    {
+      "number": 128,
+      "text_ar": "رَبَّنَا وَاجْعَلْنَا مُسْلِمَيْنِ لَكَ وَمِنْ ذُرِّيَّتِنَا أُمَّةً مُسْلِمَةً لَكَ وَأَرِنَا مَنَاسِكَنَا وَتُبْ عَلَيْنَا إِنَّكَ أَنْتَ التَّوَّابُ الرَّحِيمُ",
+      "tafseer_so": "Eebboow, naga dhig laba kuu hoggaansan, tafiirtayadana ka dhig ummad kuu hoggaansan, na tusi [oo na bar] acmaashayada xajka, nagana toobad aqbal, adigu waxaad tahay toobad aqbal badane naxariis badan"
+    },
+    {
+      "number": 129,
+      "text_ar": "رَبَّنَا وَابْعَثْ فِيهِمْ رَسُولًا مِنْهُمْ يَتْلُو عَلَيْهِمْ آيَاتِكَ وَيُعَلِّمُهُمُ الْكِتَابَ وَالْحِكْمَةَ وَيُزَكِّيهِمْ إِنَّكَ أَنْتَ الْعَزِيزُ الْحَكِيمُ",
+      "tafseer_so": "Eebboow, dhexdooda [ehlubeydkayaga] ka soo bixi rasuul ku akhriya aayadahaaga, barayana kitaabka iyo xikmadda, [nafahoodana barbaarinaya oo] daahirinaya; adigu waxa aad tahay Allaha awoodda badan ee xikmadda badan"
+    },
+    {
+      "number": 130,
+      "text_ar": "وَمَنْ يَرْغَبُ عَنْ مِلَّةِ إِبْرَاهِيمَ إِلَّا مَنْ سَفِهَ نَفْسَهُ وَلَقَدِ اصْطَفَيْنَاهُ فِي الدُّنْيَا وَإِنَّهُ فِي الْآخِرَةِ لَمِنَ الصَّالِحِينَ",
+      "tafseer_so": "Ma waxaa Ibraahim diintiisa naca qof aan ka ahayn maangaab, waxaannuna [ibraahim] doorannay adduunka dhexdiisa [oo ergay Alle ayaan ka dhignay], aakhirana kuwa wanaagsan ayuu ka mid yahay"
+    },
+    {
+      "number": 131,
+      "text_ar": "إِذْ قَالَ لَهُ رَبُّهُ أَسْلِمْ قَالَ أَسْلَمْتُ لِرَبِّ الْعَالَمِينَ",
+      "tafseer_so": "[Xusuuso] kolkii uu Eebbahaa ku yiri ‘hoggaansan’ ee uu yiri ‘Waxaan u hoggaansamay caalamka Rabbigood’"
+    },
+    {
+      "number": 132,
+      "text_ar": "وَوَصَّى بِهَا إِبْرَاهِيمُ بَنِيهِ وَيَعْقُوبُ يَا بَنِيَّ إِنَّ اللَّهَ اصْطَفَى لَكُمُ الدِّينَ فَلَا تَمُوتُنَّ إِلَّا وَأَنْتُمْ مُسْلِمُونَ",
+      "tafseer_so": "Wuxuu Ibraahim taa [Islaannimada ah ] u dardaarmay [oo uu faray] awlaaddiisa iyo Yacquub, [wuxuuna yiri]: dhashaydaay, Ilaahay baa diinta idiin dooray e, ha dhimannina idinka oo muslimiin ah mooyee"
+    },
+    {
+      "number": 133,
+      "text_ar": "أَمْ كُنْتُمْ شُهَدَاءَ إِذْ حَضَرَ يَعْقُوبَ الْمَوْتُ إِذْ قَالَ لِبَنِيهِ مَا تَعْبُدُونَ مِنْ بَعْدِي قَالُوا نَعْبُدُ إِلَهَكَ وَإِلَهَ آبَائِكَ إِبْرَاهِيمَ وَإِسْمَاعِيلَ وَإِسْحَاقَ إِلَهًا وَاحِدًا وَنَحْنُ لَهُ مُسْلِمُونَ",
+      "tafseer_so": "Mise goobjoog baad u ahaydeen markii ay geeridu Yacqyuub u timid, kolkii uu ilmihiisa ku yiri: maxaad dabaday caabudi doontaan? Waxay dhaheen: waxaannu caabudaynaa Ilaahaaga iyo Ilaaha waalidiintaadii Ibraahim, Ismaaciil, iyo Isxaaq, Waa Ilaaha keliya [ee xaq lagu caabudo], annaguna asaga ayaan u hoggaansannahay"
+    },
+    {
+      "number": 134,
+      "text_ar": "تِلْكَ أُمَّةٌ قَدْ خَلَتْ لَهَا مَا كَسَبَتْ وَلَكُمْ مَا كَسَبْتُمْ وَلَا تُسْأَلُونَ عَمَّا كَانُوا يَعْمَلُونَ",
+      "tafseer_so": "Taasi waa ummad tagtay, waxayna leedahay wixii ay shaqaysatay, idinkuna waxaad leedihiin wixii aad shaqaysateen, la idin mana weydiinayo wixii ay fali jireen"
+    },
+    {
+      "number": 135,
+      "text_ar": "وَقَالُوا كُونُوا هُودًا أَوْ نَصَارَى تَهْتَدُوا قُلْ بَلْ مِلَّةَ إِبْرَاهِيمَ حَنِيفًا وَمَا كَانَ مِنَ الْمُشْرِكِينَ",
+      "tafseer_so": "Waxay dhaheen ‘Yahuud ama Kirishtaan noqda, waad hanuunaysaane’ maya e, [qaata] diinta Ibraahimkii xaqa u janjeersaday ee aan mushrikiinta ka mid noqon"
+    },
+    {
+      "number": 136,
+      "text_ar": "قُولُوا آمَنَّا بِاللَّهِ وَمَا أُنْزِلَ إِلَيْنَا وَمَا أُنْزِلَ إِلَى إِبْرَاهِيمَ وَإِسْمَاعِيلَ وَإِسْحَاقَ وَيَعْقُوبَ وَالْأَسْبَاطِ وَمَا أُوتِيَ مُوسَى وَعِيسَى وَمَا أُوتِيَ النَّبِيُّونَ مِنْ رَبِّهِمْ لَا نُفَرِّقُ بَيْنَ أَحَدٍ مِنْهُمْ وَنَحْنُ لَهُ مُسْلِمُونَ",
+      "tafseer_so": "Ku dhaha: waxaannu rumaynay Ilaahay, wixii na loo soo dejiyay, wixii lagu soo dejiyay Ibraahim, Ciise, Isxaaq, Yacquub, iyo Asbaadda [ilmo Yacquub], iyo wixii [xaqii] loo keenay Muuse iyo Ciise, iyo wixii Nebiyada looga keenay Rabbigood xaggiis, midkoodna inta kale ka sooci mayno, waxaannuna nahay kuwo asaga [Eebbe] u hoggaansan"
+    },
+    {
+      "number": 137,
+      "text_ar": "فَإِنْ آمَنُوا بِمِثْلِ مَا آمَنْتُمْ بِهِ فَقَدِ اهْتَدَوْا وَإِنْ تَوَلَّوْا فَإِنَّمَا هُمْ فِي شِقَاقٍ فَسَيَكْفِيكَهُمُ اللَّهُ وَهُوَ السَّمِيعُ الْعَلِيمُ",
+      "tafseer_so": "Haddii ay u rumeeyaan sida aad u rumayseen oo kale, hadde way hanuuneen, haddii ay ka jeestaanna, hadde khilaaf bay dhexda kaga jiraan, Ilaahayna waa uu kaaga filan yahay, Asaga ayaana ah maqle og"
+    },
+    {
+      "number": 138,
+      "text_ar": "صِبْغَةَ اللَّهِ وَمَنْ أَحْسَنُ مِنَ اللَّهِ صِبْغَةً وَنَحْنُ لَهُ عَابِدُونَ",
+      "tafseer_so": "[ku dhegganaada] diinta Ilaahay [ee ku dhaqmiddeedu ay qofka uga muuqato sida uu midabku shayga uga muuqdo oo kale], oo hadde yaa Ilaahay ka diin wanaagsan [waa cidna e] annaguna asaga uun baan caabduynaa"
+    },
+    {
+      "number": 139,
+      "text_ar": "قُلْ أَتُحَاجُّونَنَا فِي اللَّهِ وَهُوَ رَبُّنَا وَرَبُّكُمْ وَلَنَا أَعْمَالُنَا وَلَكُمْ أَعْمَالُكُمْ وَنَحْنُ لَهُ مُخْلِصُونَ",
+      "tafseer_so": "Ku dheh: ma waxaad naga la doodaysaan Ilaahay oo ah Eebbahayo iyo Eebbihiin, Annagu waxaannu leennahay waxaan shaqaysanno, idinkuna wixii aad shaqaysataan; Annagu asaga oo qur ah ayaan [towxiidka] u barax tiraynaa"
+    },
+    {
+      "number": 140,
+      "text_ar": "أَمْ تَقُولُونَ إِنَّ إِبْرَاهِيمَ وَإِسْمَاعِيلَ وَإِسْحَاقَ وَيَعْقُوبَ وَالْأَسْبَاطَ كَانُوا هُودًا أَوْ نَصَارَى قُلْ أَأَنْتُمْ أَعْلَمُ أَمِ اللَّهُ وَمَنْ أَظْلَمُ مِمَّنْ كَتَمَ شَهَادَةً عِنْدَهُ مِنَ اللَّهِ وَمَا اللَّهُ بِغَافِلٍ عَمَّا تَعْمَلُونَ",
+      "tafseer_so": "Mise waxaad leedihiin: Ibraahim, Ismaaciil, Isxaaq, Yacquub, iyo Asbaaddu [ilma Yacquub] waxay ahaayeen Yahuud ama Kirishtaan’ ku dheh: ma idinka baa ku ogaal badan mise Ilaahay? Ma cid ka dulmi badan baa jirta cidda Ilaahay ka qarisa markhaati uu og yahay! Eebbana ma mooggana waxa aad samaynaysaan"
+    },
+    {
+      "number": 141,
+      "text_ar": "تِلْكَ أُمَّةٌ قَدْ خَلَتْ لَهَا مَا كَسَبَتْ وَلَكُمْ مَا كَسَبْتُمْ وَلَا تُسْأَلُونَ عَمَّا كَانُوا يَعْمَلُونَ",
+      "tafseer_so": "Taasi waa ummad tagtay, waxay leedahay wixii ay shaqaysatay, idin kuna waxaad leedihiin wixii aad shaqaysateen, la idin ma na weydiin doono wixii ay samayn jireen"
+    },
+    {
+      "number": 142,
+      "text_ar": "سَيَقُولُ السُّفَهَاءُ مِنَ النَّاسِ مَا وَلَّاهُمْ عَنْ قِبْلَتِهِمُ الَّتِي كَانُوا عَلَيْهَا قُلْ لِلَّهِ الْمَشْرِقُ وَالْمَغْرِبُ يَهْدِي مَنْ يَشَاءُ إِلَى صِرَاطٍ مُسْتَقِيمٍ",
+      "tafseer_so": ""
+    },
+    {
+      "number": 143,
+      "text_ar": "وَكَذَلِكَ جَعَلْنَاكُمْ أُمَّةً وَسَطًا لِتَكُونُوا شُهَدَاءَ عَلَى النَّاسِ وَيَكُونَ الرَّسُولُ عَلَيْكُمْ شَهِيدًا وَمَا جَعَلْنَا الْقِبْلَةَ الَّتِي كُنْتَ عَلَيْهَا إِلَّا لِنَعْلَمَ مَنْ يَتَّبِعُ الرَّسُولَ مِمَّنْ يَنْقَلِبُ عَلَى عَقِبَيْهِ وَإِنْ كَانَتْ لَكَبِيرَةً إِلَّا عَلَى الَّذِينَ هَدَى اللَّهُ وَمَا كَانَ اللَّهُ لِيُضِيعَ إِيمَانَكُمْ إِنَّ اللَّهَ بِالنَّاسِ لَرَءُوفٌ رَحِيمٌ",
+      "tafseer_so": "Sidaa [aan idiin hanuuninnay oo kale] ayaannu idin ka dhignay ummad dhexdhexaad ah, si aad dadka marag uga noqotaan, rasuulkuna uu marag idin kaga noqdo; qibladii aad awal ujeeddayna kuugu ma aannaan samayn wax aan ka ahayn in aan kala muujinno cidda rasuulka raacaysa iyo cidda dib u guranaysa, waxayna ahayd mid ku culus ciddii aan ka ahayn kuwa uu Alle hanuuniyay; Ilaahayna cibaadadiinna ma uu dayacayo; Ilaahay dadkiisa waa uu u dhimriyaa, si gaar ahna wuu ugu naxariistaa"
+    },
+    {
+      "number": 144,
+      "text_ar": "قَدْ نَرَى تَقَلُّبَ وَجْهِكَ فِي السَّمَاءِ فَلَنُوَلِّيَنَّكَ قِبْلَةً تَرْضَاهَا فَوَلِّ وَجْهَكَ شَطْرَ الْمَسْجِدِ الْحَرَامِ وَحَيْثُ مَا كُنْتُمْ فَوَلُّوا وُجُوهَكُمْ شَطْرَهُ وَإِنَّ الَّذِينَ أُوتُوا الْكِتَابَ لَيَعْلَمُونَ أَنَّهُ الْحَقُّ مِنْ رَبِّهِمْ وَمَا اللَّهُ بِغَافِلٍ عَمَّا يَعْمَلُونَ",
+      "tafseer_so": "Dhabtii, waannu aragnaa sida uu wejigaagu ugu gedgeddoomayo xagga samada [ee aad ujeedaalinaysid], waannuna kuu jeedin doonnaa oo kuu jeedin doonnaa qiblo aad raalli ka tahay e, wejigaaga u duw xagga masjidka xurmaysan, meel walba oo aad joogtaanna wejiyadiinna xaggiisa ujeediya; kuwa la siiyay kitaabkuna waa ay og yihiin in uu yahay xaq ka yimid xaggii Rabbigood, Ilaahayna ma mooga waxa ay samaynayaan"
+    },
+    {
+      "number": 145,
+      "text_ar": "وَلَئِنْ أَتَيْتَ الَّذِينَ أُوتُوا الْكِتَابَ بِكُلِّ آيَةٍ مَا تَبِعُوا قِبْلَتَكَ وَمَا أَنْتَ بِتَابِعٍ قِبْلَتَهُمْ وَمَا بَعْضُهُمْ بِتَابِعٍ قِبْلَةَ بَعْضٍ وَلَئِنِ اتَّبَعْتَ أَهْوَاءَهُمْ مِنْ بَعْدِ مَا جَاءَكَ مِنَ الْعِلْمِ إِنَّكَ إِذًا لَمِنَ الظَّالِمِينَ",
+      "tafseer_so": "Haddii kuwa kitaabka la siiyay aad u keentid caddayn walba, kugu ma raacayaan qibladaada, adiguna ayaga ku raaci maysid qibladooda, qaarkiinna qaarka kale qibladiisa ma uu raacayo, haddii aad hawadooda raacdid ka dib intii uu ogaalku kuu yimidna, hadde markaas waxaad ka mid noqotay daalimiinta"
+    },
+    {
+      "number": 146,
+      "text_ar": "الَّذِينَ آتَيْنَاهُمُ الْكِتَابَ يَعْرِفُونَهُ كَمَا يَعْرِفُونَ أَبْنَاءَهُمْ وَإِنَّ فَرِيقًا مِنْهُمْ لَيَكْتُمُونَ الْحَقَّ وَهُمْ يَعْلَمُونَ",
+      "tafseer_so": "Kuwa aannu kitaabka siinnay [Nebiga] u garanayaan sida ay ilmahooda u granayaan oo kale, koox ayaga [ehlukitaabka] ka mid ahna ayaga oo og [tilmaamihiisa] ayay xaqa qarinayaan"
+    },
+    {
+      "number": 147,
+      "text_ar": "الْحَقُّ مِنْ رَبِّكَ فَلَا تَكُونَنَّ مِنَ الْمُمْتَرِينَ",
+      "tafseer_so": "Xaqu wuxuu ka yimid Rabbigaa xaggiisa e, kuwa shakisan ha ku darmannina"
+    },
+    {
+      "number": 148,
+      "text_ar": "وَلِكُلٍّ وِجْهَةٌ هُوَ مُوَلِّيهَا فَاسْتَبِقُوا الْخَيْرَاتِ أَيْنَ مَا تَكُونُوا يَأْتِ بِكُمُ اللَّهُ جَمِيعًا إِنَّ اللَّهَ عَلَى كُلِّ شَيْءٍ قَدِيرٌ",
+      "tafseer_so": "Cid walba jiho ay ujeesato bay leedahay e, u dheereeya [ama u baratama] kheyrka; meeshii aad joogtaanba Ilaahay wuu idin keeni [oo wuu idin soo ururin qiyaamaha si uu idiin abaaliyo] Ilaahayna wax walba waa uu awoodaa"
+    },
+    {
+      "number": 149,
+      "text_ar": "وَمِنْ حَيْثُ خَرَجْتَ فَوَلِّ وَجْهَكَ شَطْرَ الْمَسْجِدِ الْحَرَامِ وَإِنَّهُ لَلْحَقُّ مِنْ رَبِّكَ وَمَا اللَّهُ بِغَافِلٍ عَمَّا تَعْمَلُونَ",
+      "tafseer_so": "Dhankii aad u kacdidba ujeedso xagga masaajidka xurmaysan, kaasina waa xaqa Rabbigaa xaggii ka yimid, Ilaahayna ma mooggana waxa aad samaynaysaan"
+    },
+    {
+      "number": 150,
+      "text_ar": "وَمِنْ حَيْثُ خَرَجْتَ فَوَلِّ وَجْهَكَ شَطْرَ الْمَسْجِدِ الْحَرَامِ وَحَيْثُ مَا كُنْتُمْ فَوَلُّوا وُجُوهَكُمْ شَطْرَهُ لِئَلَّا يَكُونَ لِلنَّاسِ عَلَيْكُمْ حُجَّةٌ إِلَّا الَّذِينَ ظَلَمُوا مِنْهُمْ فَلَا تَخْشَوْهُمْ وَاخْشَوْنِي وَلِأُتِمَّ نِعْمَتِي عَلَيْكُمْ وَلَعَلَّكُمْ تَهْتَدُونَ",
+      "tafseer_so": "Dhankii aad u safartidba ujeedso xagga masaajidka xurmaysan, meel Alle iyo meeshii aad joogtaanna xaggiisa ujeesta, si aanay dadka qaarki [Yahuud] xujo [murmitaan idiin ku helin [ee aanay idiin oran qiblo ma lihidin, oo qibladayada baad raacaysaan, diintayadana waad khilaafaysaan] marka laga reebo daalimiinta [oo ayagu mar walba baaddil idin kula doodaya], hadde ha ka cabsannina e, aniga iga baqa, [waxaan kaloo qiblada idiin ku sameeyay] si aan idiin ku ebyo galladahaan idiin galay iyo si aad u hanuuntaan"
+    },
+    {
+      "number": 151,
+      "text_ar": "كَمَا أَرْسَلْنَا فِيكُمْ رَسُولًا مِنْكُمْ يَتْلُو عَلَيْكُمْ آيَاتِنَا وَيُزَكِّيكُمْ وَيُعَلِّمُكُمُ الْكِتَابَ وَالْحِكْمَةَ وَيُعَلِّمُكُمْ مَا لَمْ تَكُونُوا تَعْلَمُونَ",
+      "tafseer_so": "[waxaan galladahayga idiin ku ebyayaa] si la mid ah sida aan idiin ku soo diray rasuul idin ka mid ah oo idin ku dul akhriya aayadahannaga, idin daahiriya [oo shirkiga iyo baaddilka idin ka nadiifiya], idin baraya kitaabka iyo xikmadda [sunnada iyo axkaamtiisa], idin barayana wax aydaan hore u aqoonnin"
+    },
+    {
+      "number": 152,
+      "text_ar": "فَاذْكُرُونِي أَذْكُرْكُمْ وَاشْكُرُوا لِي وَلَا تَكْفُرُونِ",
+      "tafseer_so": "Haddaba, I xusa aan idin xusee [oo aan idin abaalmariyee], igu shukriya oo ha igu gaaloobinnina"
+    },
+    {
+      "number": 153,
+      "text_ar": "يَا أَيُّهَا الَّذِينَ آمَنُوا اسْتَعِينُوا بِالصَّبْرِ وَالصَّلَاةِ إِنَّ اللَّهَ مَعَ الصَّابِرِينَ",
+      "tafseer_so": "Kuwa Ilaahay rumeeyayoow, kaalmaysta sabirka iyo salaadda, Ilaahayna wuxuu la jiraa kuwa sabra"
+    },
+    {
+      "number": 154,
+      "text_ar": "وَلَا تَقُولُوا لِمَنْ يُقْتَلُ فِي سَبِيلِ اللَّهِ أَمْوَاتٌ بَلْ أَحْيَاءٌ وَلَكِنْ لَا تَشْعُرُونَ",
+      "tafseer_so": "Ciddii Ilaahay dartii loo dilo ha ku sheegina meyti, ma ay ahan e, waa kuwo noolnool, laakiin se ma dareemaysaan"
+    },
+    {
+      "number": 155,
+      "text_ar": "وَلَنَبْلُوَنَّكُمْ بِشَيْءٍ مِنَ الْخَوْفِ وَالْجُوعِ وَنَقْصٍ مِنَ الْأَمْوَالِ وَالْأَنْفُسِ وَالثَّمَرَاتِ وَبَشِّرِ الصَّابِرِينَ",
+      "tafseer_so": "Waxaannu idin ku jirrabaynaa wax uun cabsi ah, gaajo ah, nuqsaamidda: xoolaha, dadka iyo miraha ah e, u bishaaree kuwa sabra"
+    },
+    {
+      "number": 156,
+      "text_ar": "الَّذِينَ إِذَا أَصَابَتْهُمْ مُصِيبَةٌ قَالُوا إِنَّا لِلَّهِ وَإِنَّا إِلَيْهِ رَاجِعُونَ",
+      "tafseer_so": "Waa kuwa marka ay musiibo ku dhacdo yiraahda: Ilaahay xaggiisa ayaan ka nimid, xaggiisa ayaannuna u noqonaynaa"
+    },
+    {
+      "number": 157,
+      "text_ar": "أُولَئِكَ عَلَيْهِمْ صَلَوَاتٌ مِنْ رَبِّهِمْ وَرَحْمَةٌ وَأُولَئِكَ هُمُ الْمُهْتَدُونَ",
+      "tafseer_so": ""
+    },
+    {
+      "number": 158,
+      "text_ar": "إِنَّ الصَّفَا وَالْمَرْوَةَ مِنْ شَعَائِرِ اللَّهِ فَمَنْ حَجَّ الْبَيْتَ أَوِ اعْتَمَرَ فَلَا جُنَاحَ عَلَيْهِ أَنْ يَطَّوَّفَ بِهِمَا وَمَنْ تَطَوَّعَ خَيْرًا فَإِنَّ اللَّهَ شَاكِرٌ عَلِيمٌ",
+      "tafseer_so": "[buuraha] Safa iyo Marwa waxay ka mid yihiin astaamaha [meelaha lagu caabudo] Ilaahay [ee xurmada mudan], qofkii kacbada xajiya ama cumraysta wax dhib ah kama ay saarna in uu labadooda ku dawaafo, qofkii wanaag ku sunne fashana, hadde Ilaahay waa abaalmariye ogsoon"
+    },
+    {
+      "number": 159,
+      "text_ar": "إِنَّ الَّذِينَ يَكْتُمُونَ مَا أَنْزَلْنَا مِنَ الْبَيِّنَاتِ وَالْهُدَى مِنْ بَعْدِ مَا بَيَّنَّاهُ لِلنَّاسِ فِي الْكِتَابِ أُولَئِكَ يَلْعَنُهُمُ اللَّهُ وَيَلْعَنُهُمُ اللَّاعِنُونَ",
+      "tafseer_so": "Kuwa qarinaya waxa aannu soo dejinnay ee caddaymaha iyo hanuunka ah ka dib intaan dadka ugu caddaynay kitaabka, kuwaas Ilaahay ayaa lacnaday, inta wax lacnaddana waa ay lacnadayaan"
+    },
+    {
+      "number": 160,
+      "text_ar": "إِلَّا الَّذِينَ تَابُوا وَأَصْلَحُوا وَبَيَّنُوا فَأُولَئِكَ أَتُوبُ عَلَيْهِمْ وَأَنَا التَّوَّابُ الرَّحِيمُ",
+      "tafseer_so": "Marka laga reebo kuwa toobadan keenay, [nafahooda] hagaajiyay, [xaqana] caddeeyay, kuwaas waan ka toobad aqbalayaa, Aniguna waxaan ahay toobad aqbal badane, naxariis badan"
+    },
+    {
+      "number": 161,
+      "text_ar": "إِنَّ الَّذِينَ كَفَرُوا وَمَاتُوا وَهُمْ كُفَّارٌ أُولَئِكَ عَلَيْهِمْ لَعْنَةُ اللَّهِ وَالْمَلَائِكَةِ وَالنَّاسِ أَجْمَعِينَ",
+      "tafseer_so": "Kuwa gaaloobay ee gaalnimada ku dhintay, kuwaas waxaa dushooda ku dhacday lacnadda Ilaahay, tan malagyada iyo tan dadka oo dhan"
+    },
+    {
+      "number": 162,
+      "text_ar": "خَالِدِينَ فِيهَا لَا يُخَفَّفُ عَنْهُمُ الْعَذَابُ وَلَا هُمْ يُنْظَرُونَ",
+      "tafseer_so": "Way ku waarayaan [naarta] dhexdeeda, lagana debcin mayo cadaabka, loona kaadin mayo"
+    },
+    {
+      "number": 163,
+      "text_ar": "وَإِلَهُكُمْ إِلَهٌ وَاحِدٌ لَا إِلَهَ إِلَّا هُوَ الرَّحْمَنُ الرَّحِيمُ",
+      "tafseer_so": "Ilaahiinnu waa Ilaah keli ah, Ilaah xaq lagu caabudo oo aan asaga ahayn ma uu jiro, uunka oo dhan wuu u naxariistaa, muuminiintana si gaar ah ayuu ugu naxariistaa"
+    },
+    {
+      "number": 164,
+      "text_ar": "إِنَّ فِي خَلْقِ السَّمَاوَاتِ وَالْأَرْضِ وَاخْتِلَافِ اللَّيْلِ وَالنَّهَارِ وَالْفُلْكِ الَّتِي تَجْرِي فِي الْبَحْرِ بِمَا يَنْفَعُ النَّاسَ وَمَا أَنْزَلَ اللَّهُ مِنَ السَّمَاءِ مِنْ مَاءٍ فَأَحْيَا بِهِ الْأَرْضَ بَعْدَ مَوْتِهَا وَبَثَّ فِيهَا مِنْ كُلِّ دَابَّةٍ وَتَصْرِيفِ الرِّيَاحِ وَالسَّحَابِ الْمُسَخَّرِ بَيْنَ السَّمَاءِ وَالْأَرْضِ لَآيَاتٍ لِقَوْمٍ يَعْقِلُونَ",
+      "tafseer_so": "Abuurta cirka iyo dhulka, isbedbeddelka habeenka iyo maalinta, doonyaha badda ku gooshaya ee sida wax dadka dheef u leh, waxa uu Alle cirka ka soo hooriyay ee biyo ah ee uu ku nooleeyay dhulka ka dib intii uu dhintay, uuna dhulka ku firdhiyay wax walba oo tukubaya [soconaya, gedgeddoonka dabaylaha iyo daruuraha soconaya [ee ka laallaada] cirka iyo dhulka dhexdooda, waxay caddaymo u yihiin duul wax garanaya"
+    },
+    {
+      "number": 165,
+      "text_ar": "وَمِنَ النَّاسِ مَنْ يَتَّخِذُ مِنْ دُونِ اللَّهِ أَنْدَادًا يُحِبُّونَهُمْ كَحُبِّ اللَّهِ وَالَّذِينَ آمَنُوا أَشَدُّ حُبًّا لِلَّهِ وَلَوْ يَرَى الَّذِينَ ظَلَمُوا إِذْ يَرَوْنَ الْعَذَابَ أَنَّ الْقُوَّةَ لِلَّهِ جَمِيعًا وَأَنَّ اللَّهَ شَدِيدُ الْعَذَابِ",
+      "tafseer_so": "Waxaa dadka ka mid ah cid Alle ka sokow samaysanaysa dhig [ay Alle la simayaan], waxayna u jecel yihiin sida jacaylka Alle oo kale, kuwa Alle rumeeyay jacaylkooda ay Ilaahay u qabaan ayaa se ka weyn; Haddii ay daalimiintu ogaan lahaayeen marka ay cadaabka arkayaan in awoodda oo dhan uu Ilaahay oo qur ah uu leeyahay, Ilaahay cadaabkiisuna uu daran yahay, [way garwaaqsan lahaayeen dhibta gaalnimada]"
+    },
+    {
+      "number": 166,
+      "text_ar": "إِذْ تَبَرَّأَ الَّذِينَ اتُّبِعُوا مِنَ الَّذِينَ اتَّبَعُوا وَرَأَوُا الْعَذَابَ وَتَقَطَّعَتْ بِهِمُ الْأَسْبَابُ",
+      "tafseer_so": ""
+    },
+    {
+      "number": 167,
+      "text_ar": "وَقَالَ الَّذِينَ اتَّبَعُوا لَوْ أَنَّ لَنَا كَرَّةً فَنَتَبَرَّأَ مِنْهُمْ كَمَا تَبَرَّءُوا مِنَّا كَذَلِكَ يُرِيهِمُ اللَّهُ أَعْمَالَهُمْ حَسَرَاتٍ عَلَيْهِمْ وَمَا هُمْ بِخَارِجِينَ مِنَ النَّارِ",
+      "tafseer_so": "Kuwii raacay waxay dhaheen ‘[fiicnaan lahaydaa] haddii mar na la celin lahaa oo aan isaga beri yeeli lahayn si la mid ah sida ay isaga kaaya beri yeeleen’ sidaa ayuu Ilaahay u tusiyay falalkoodii oo shallaytadooda noqday, naartana ka ma soo baxayaan"
+    },
+    {
+      "number": 168,
+      "text_ar": "يَا أَيُّهَا النَّاسُ كُلُوا مِمَّا فِي الْأَرْضِ حَلَالًا طَيِّبًا وَلَا تَتَّبِعُوا خُطُوَاتِ الشَّيْطَانِ إِنَّهُ لَكُمْ عَدُوٌّ مُبِينٌ",
+      "tafseer_so": "Dadkoow, waxa dhulka ku sugan cuna ayaga oo ah xalaal wanaagsan [oo dheef idiin leh], ha na raacina wadiiqooyinka shaydaanka, waayo? Wuxuu idiin yahay cadow ay cadaawaddiisu muuqato"
+    },
+    {
+      "number": 169,
+      "text_ar": "إِنَّمَا يَأْمُرُكُمْ بِالسُّوءِ وَالْفَحْشَاءِ وَأَنْ تَقُولُوا عَلَى اللَّهِ مَا لَا تَعْلَمُونَ",
+      "tafseer_so": "Keliya wuxuu idin amrayaa xumaanta, [iyo xumaanta sii foolxun] iyo in aad Ilaahay ku been abuurataan wax aydaan aqoon"
+    },
+    {
+      "number": 170,
+      "text_ar": "وَإِذَا قِيلَ لَهُمُ اتَّبِعُوا مَا أَنْزَلَ اللَّهُ قَالُوا بَلْ نَتَّبِعُ مَا أَلْفَيْنَا عَلَيْهِ آبَاءَنَا أَوَلَوْ كَانَ آبَاؤُهُمْ لَا يَعْقِلُونَ شَيْئًا وَلَا يَهْتَدُونَ",
+      "tafseer_so": "Marka ayaga lagu yiraahdo: raaca wixii uu Alle soo dejiyay; waxay dhahayaan ‘maya e, waxaannu raacaynaa wixii aan aabbayaashayo ka soo gaarnay’ oo [ma iska raacayaan] haddii ay aabbayaashood aanay waxba garanayn oo aanay hanuunsanayn"
+    },
+    {
+      "number": 171,
+      "text_ar": "وَمَثَلُ الَّذِينَ كَفَرُوا كَمَثَلِ الَّذِي يَنْعِقُ بِمَا لَا يَسْمَعُ إِلَّا دُعَاءً وَنِدَاءً صُمٌّ بُكْمٌ عُمْيٌ فَهُمْ لَا يَعْقِلُونَ",
+      "tafseer_so": ""
+    },
+    {
+      "number": 172,
+      "text_ar": "يَا أَيُّهَا الَّذِينَ آمَنُوا كُلُوا مِنْ طَيِّبَاتِ مَا رَزَقْنَاكُمْ وَاشْكُرُوا لِلَّهِ إِنْ كُنْتُمْ إِيَّاهُ تَعْبُدُونَ",
+      "tafseer_so": "Tusaalaha gaaladu waa tusaalaha midka [xoolo raacatada ee] u qaylinaya mid [neef] aan maqlayn wax aan codkiisa iyo dhawaqiisa ahayn [oo xaqa qaadan mayaan si walba oo loogu yeero], waa kuwo dhego la’, af la’, indho la’, oo ayagu waxba garan mayaan Kuwa Ilaahay rumeeyayoow, wixii aannu idin siinay xalaashooda cuna, Ilaahayna u mahadnaqa haddii aad asaga uun caabudaysaan"
+    },
+    {
+      "number": 173,
+      "text_ar": "إِنَّمَا حَرَّمَ عَلَيْكُمُ الْمَيْتَةَ وَالدَّمَ وَلَحْمَ الْخِنْزِيرِ وَمَا أُهِلَّ بِهِ لِغَيْرِ اللَّهِ فَمَنِ اضْطُرَّ غَيْرَ بَاغٍ وَلَا عَادٍ فَلَا إِثْمَ عَلَيْهِ إِنَّ اللَّهَ غَفُورٌ رَحِيمٌ",
+      "tafseer_so": ""
+    },
+    {
+      "number": 174,
+      "text_ar": "إِنَّ الَّذِينَ يَكْتُمُونَ مَا أَنْزَلَ اللَّهُ مِنَ الْكِتَابِ وَيَشْتَرُونَ بِهِ ثَمَنًا قَلِيلًا أُولَئِكَ مَا يَأْكُلُونَ فِي بُطُونِهِمْ إِلَّا النَّارَ وَلَا يُكَلِّمُهُمُ اللَّهُ يَوْمَ الْقِيَامَةِ وَلَا يُزَكِّيهِمْ وَلَهُمْ عَذَابٌ أَلِيمٌ",
+      "tafseer_so": "Kuwa qarinaya wixii uu Ilaahay soo dejiyay ee kitaabka ah, kuna iibsanaya lacag yar, kuwaasi calooshooda gayn mayaan wax aan naar ahayn, Ilaahayna la ma uu hadlayo maalinta qiyaamaha, ma na uu daahirinayo, waxayna leeyihiin cadaab xanuujinaya"
+    },
+    {
+      "number": 175,
+      "text_ar": "أُولَئِكَ الَّذِينَ اشْتَرَوُا الضَّلَالَةَ بِالْهُدَى وَالْعَذَابَ بِالْمَغْفِرَةِ فَمَا أَصْبَرَهُمْ عَلَى النَّارِ",
+      "tafseer_so": "Kuwaasi waa kuwa hanuunka baadinnimo ku iibsaday, dambidhaafkana cadaab; [waa yaab e] naarta u sabri okaa! [sida dhiirrashadooda ka muuqata weeyaan e, uma ay adkaysan doonaan]"
+    },
+    {
+      "number": 176,
+      "text_ar": "ذَلِكَ بِأَنَّ اللَّهَ نَزَّلَ الْكِتَابَ بِالْحَقِّ وَإِنَّ الَّذِينَ اخْتَلَفُوا فِي الْكِتَابِ لَفِي شِقَاقٍ بَعِيدٍ",
+      "tafseer_so": "Kaas [cadaabka ah] waxay ku muteen waa in uu Ilaahay kitaabka xaq ku soo dejiyay, kuwa kitaabka isku khilaafayna waxay ku sugan yihiin dabamaryo aad u durugsan [iyo la dhincatamid ay xaqa isku dhererinayaan]"
+    },
+    {
+      "number": 177,
+      "text_ar": "لَيْسَ الْبِرَّ أَنْ تُوَلُّوا وُجُوهَكُمْ قِبَلَ الْمَشْرِقِ وَالْمَغْرِبِ وَلَكِنَّ الْبِرَّ مَنْ آمَنَ بِاللَّهِ وَالْيَوْمِ الْآخِرِ وَالْمَلَائِكَةِ وَالْكِتَابِ وَالنَّبِيِّينَ وَآتَى الْمَالَ عَلَى حُبِّهِ ذَوِي الْقُرْبَى وَالْيَتَامَى وَالْمَسَاكِينَ وَابْنَ السَّبِيلِ وَالسَّائِلِينَ وَفِي الرِّقَابِ وَأَقَامَ الصَّلَاةَ وَآتَى الزَّكَاةَ وَالْمُوفُونَ بِعَهْدِهِمْ إِذَا عَاهَدُوا وَالصَّابِرِينَ فِي الْبَأْسَاءِ وَالضَّرَّاءِ وَحِينَ الْبَأْسِ أُولَئِكَ الَّذِينَ صَدَقُوا وَأُولَئِكَ هُمُ الْمُتَّقُونَ",
+      "tafseer_so": ""
+    },
+    {
+      "number": 178,
+      "text_ar": "يَا أَيُّهَا الَّذِينَ آمَنُوا كُتِبَ عَلَيْكُمُ الْقِصَاصُ فِي الْقَتْلَى الْحُرُّ بِالْحُرِّ وَالْعَبْدُ بِالْعَبْدِ وَالْأُنْثَى بِالْأُنْثَى فَمَنْ عُفِيَ لَهُ مِنْ أَخِيهِ شَيْءٌ فَاتِّبَاعٌ بِالْمَعْرُوفِ وَأَدَاءٌ إِلَيْهِ بِإِحْسَانٍ ذَلِكَ تَخْفِيفٌ مِنْ رَبِّكُمْ وَرَحْمَةٌ فَمَنِ اعْتَدَى بَعْدَ ذَلِكَ فَلَهُ عَذَابٌ أَلِيمٌ",
+      "tafseer_so": "Wanaaggu maaha in aad wejiyadiinna ujeedisaan xagga bari ama galbeed, laakiin se wanaaggu waa [ficillada ay kuwaani sameeyaan]: qofkii rumeeya Ilaahay, qiyaamaha, malagyada, kutubta, nebiyada, xoolihiisa asaga oo laxjecloonayana siiya qaraabada, agoonta, masaakiinta, socotada, tuugsadaha, addoommada xorayntooda [ku bixiya], salaadda ooga, sakada bixiya, marka ay ballamaanna ballantooda oofiya, waa kuwa ku sabra ba’ [faqriga daran], baaska [xanuunka] iyo xilliga dagaalka; kuwaasi waa kuwa ka run sheegay [iimaankooda], ayaga uun baana ah kuwa Alle ka cabsada Kuwa Alle rumeeyayoow, waxaa dilka la idin kaga waajibayay qisaas kii xor ah xor baa loo dilayaa, addoonkana addoon, dheddiggana dheddig [lab iyo dheddigna waa la isu qisaasayaa]; qofkii [dhiigga] walaalki wax uun looga cafiyana, hadde [weligu dalbashada magta ] wanaag ha u maro, si wanaagsanna ha loogu gudo; taasi waa dabcin iyo naxariis Rabbigiin idiin ka timid; qofkii intaa ka dib xadgudbana waxaa uu leeyahay cadaab weyn oo xanuujin badan"
+    },
+    {
+      "number": 179,
+      "text_ar": "وَلَكُمْ فِي الْقِصَاصِ حَيَاةٌ يَا أُولِي الْأَلْبَابِ لَعَلَّكُمْ تَتَّقُونَ",
+      "tafseer_so": "Qisaasta nolol baa idiin ku jirta waxgaradoow, laga yaabee in aad [dilka ka joogsataan oo aad] Ilaahay ka cabsataan"
+    },
+    {
+      "number": 180,
+      "text_ar": "كُتِبَ عَلَيْكُمْ إِذَا حَضَرَ أَحَدَكُمُ الْمَوْتُ إِنْ تَرَكَ خَيْرًا الْوَصِيَّةُ لِلْوَالِدَيْنِ وَالْأَقْرَبِينَ بِالْمَعْرُوفِ حَقًّا عَلَى الْمُتَّقِينَ",
+      "tafseer_so": "Waxaa la idin ku waajibiyay haddii ay midkiin geeridu u timaaddo [calaamadaheedii uu arko] oo uu hanti ka tegayo, in uu si wanaagsan [oo aan saddex meelood meel ka badnayn, caddaaladna ah uu] ugu dardaarmo waalidiinta iyo qaraabada; waana xaq duudka u saaran kuwa Alle ka cabsada *Aayadaha dhaxalka ayaa tan lagu nasakhay."
+    },
+    {
+      "number": 181,
+      "text_ar": "فَمَنْ بَدَّلَهُ بَعْدَمَا سَمِعَهُ فَإِنَّمَا إِثْمُهُ عَلَى الَّذِينَ يُبَدِّلُونَهُ إِنَّ اللَّهَ سَمِيعٌ عَلِيمٌ",
+      "tafseer_so": "Qofkii beddela [oo dooriya] ka dib intii uu [dardaarankaa] maqlay, wuxuu dambigiisu raacayaa kuwii beddelay, Ilaahayna waa maqle og"
+    },
+    {
+      "number": 182,
+      "text_ar": "فَمَنْ خَافَ مِنْ مُوصٍ جَنَفًا أَوْ إِثْمًا فَأَصْلَحَ بَيْنَهُمْ فَلَا إِثْمَ عَلَيْهِ إِنَّ اللَّهَ غَفُورٌ رَحِيمٌ",
+      "tafseer_so": "Qofkii mid dardaarmaya ku ogaada xaqdarro ama dambi ee dhexdooda hagaajiya [caddaaladda ku soo celiya] wax dambi ah ma leh, Ilaahayna waa dambidhaaf badane, naxariis badan"
+    },
+    {
+      "number": 183,
+      "text_ar": "يَا أَيُّهَا الَّذِينَ آمَنُوا كُتِبَ عَلَيْكُمُ الصِّيَامُ كَمَا كُتِبَ عَلَى الَّذِينَ مِنْ قَبْلِكُمْ لَعَلَّكُمْ تَتَّقُونَ",
+      "tafseer_so": "Kuwa Alle rumeeyayoow, waxaa la idin ku waajibaay soon, sidii loogu waajibiyay kuwii idin ka horreeyay, waxaad mudan tihiin in Alle ka yaabtaan"
+    },
+    {
+      "number": 184,
+      "text_ar": "أَيَّامًا مَعْدُودَاتٍ فَمَنْ كَانَ مِنْكُمْ مَرِيضًا أَوْ عَلَى سَفَرٍ فَعِدَّةٌ مِنْ أَيَّامٍ أُخَرَ وَعَلَى الَّذِينَ يُطِيقُونَهُ فِدْيَةٌ طَعَامُ مِسْكِينٍ فَمَنْ تَطَوَّعَ خَيْرًا فَهُوَ خَيْرٌ لَهُ وَأَنْ تَصُومُوا خَيْرٌ لَكُمْ إِنْ كُنْتُمْ تَعْلَمُونَ",
+      "tafseer_so": "Waa maalmo tirsan, kiinnii xanuunsan ama socoto ahna maalmo kale ha qalleeyo, kuwa aan awoodin [ee da’ ah ama qaba jirro aan biskood lahayn] ha isku furtaan quudin miskiin, qofkii kheyr ku sunna fasha [oo fidyada kordhiya], hadde sidaa ayaa u wanaagsan, in aad soontaan baana idiin wacan haddii aad og tihiin"
+    },
+    {
+      "number": 185,
+      "text_ar": "شَهْرُ رَمَضَانَ الَّذِي أُنْزِلَ فِيهِ الْقُرْآنُ هُدًى لِلنَّاسِ وَبَيِّنَاتٍ مِنَ الْهُدَى وَالْفُرْقَانِ فَمَنْ شَهِدَ مِنْكُمُ الشَّهْرَ فَلْيَصُمْهُ وَمَنْ كَانَ مَرِيضًا أَوْ عَلَى سَفَرٍ فَعِدَّةٌ مِنْ أَيَّامٍ أُخَرَ يُرِيدُ اللَّهُ بِكُمُ الْيُسْرَ وَلَا يُرِيدُ بِكُمُ الْعُسْرَ وَلِتُكْمِلُوا الْعِدَّةَ وَلِتُكَبِّرُوا اللَّهَ عَلَى مَا هَدَاكُمْ وَلَعَلَّكُمْ تَشْكُرُونَ",
+      "tafseer_so": ""
+    },
+    {
+      "number": 186,
+      "text_ar": "وَإِذَا سَأَلَكَ عِبَادِي عَنِّي فَإِنِّي قَرِيبٌ أُجِيبُ دَعْوَةَ الدَّاعِ إِذَا دَعَانِ فَلْيَسْتَجِيبُوا لِي وَلْيُؤْمِنُوا بِي لَعَلَّهُمْ يَرْشُدُونَ",
+      "tafseer_so": "Haddii ay addoommadaydu iga kaa warsadaan, hadde waan u dhawahay, baryootamuhu kolka uu i baryana waan aqbalaa baryadiisa e, ha ii hoggaansamaan oo ha i rumeeyaan, laga yaabee in ay hanuunaan e أُحِلَّ لَكُمْ لَيْلَةَ الصِّيَامِ الرَّفَثُ إِلَى نِسَائِكُمْ هُنَّ لِبَاسٌ لَكُمْ وَأَنْتُمْ لِبَاسٌ لَهُنَّ عَلِمَ اللَّهُ أَنَّكُمْ كُنْتُمْ تَخْتَانُونَ أَنْفُسَكُمْ فَتَابَ عَلَيْكُمْ وَعَفَا عَنْكُمْ فَالْآنَ بَاشِرُوهُنَّ وَابْتَغُوا مَا كَتَبَ اللَّهُ لَكُمْ وَكُلُوا وَاشْرَبُوا حَتَّى يَتَبَيَّنَ لَكُمُ الْخَيْطُ الْأَبْيَضُ مِنَ الْخَيْطِ الْأَسْوَدِ مِنَ الْفَجْرِ ثُمَّ أَتِمُّوا الصِّيَامَ إِلَى اللَّيْلِ وَلَا تُبَاشِرُوهُنَّ وَأَنْتُمْ عَاكِفُونَ فِي الْمَسَاجِدِ تِلْكَ حُدُودُ اللَّهِ فَلَا تَقْرَبُوهَا كَذَلِكَ يُبَيِّنُ اللَّهُ آيَاتِهِ لِلنَّاسِ لَعَلَّهُمْ يَتَّقُونَ Waxaa habeenka soonka la idiin xalaaleeyay in aad haweenkiinna gogosha ku hawl dhammaysataan, waxay idiin yihiin hu’, idin kuna waxaad u tihiin hu’, Ilaahayna wuu og yahay in aad nafihiinna khiyaami jirteen se, wuu idin ka toobad aqbalay wuuna idin cafiyay, haatan tafatafaysta oo raadsada wixii uu Alle idiin qoray [ee raaxo iyo ilmaba leh], cuna oo cabba ilaa miiqaa cad iyo miiqa madow ay waabberiga kala muuqdaan, ka dibna soonka dhammasytira ilaa habeennimada laga gaarayo; ha taataabannina haweenkiinna idin ka oo ku negi masaajiddada, taasina waa xuduudda Ilaahay e ha u dhawaannina; sidaa ayuu Ilaahay aayadihiisa dadka ugu caddeeyaa, laga yaabee in ay cabsadaan"
+    },
+    {
+      "number": 188,
+      "text_ar": "وَلَا تَأْكُلُوا أَمْوَالَكُمْ بَيْنَكُمْ بِالْبَاطِلِ وَتُدْلُوا بِهَا إِلَى الْحُكَّامِ لِتَأْكُلُوا فَرِيقًا مِنْ أَمْوَالِ النَّاسِ بِالْإِثْمِ وَأَنْتُمْ تَعْلَمُونَ",
+      "tafseer_so": "Xoolihiinna ha ku kala cuninnina baad oo [intaad muran gelisaan xaq aad qabteen] aad markaana madaxda ku soo dhextuurtaan [oo ugu gardhiibataan]si aad xayn xoolaha dadka ah ugu cuntaan dambi [iyo dulmi la idiin ku xukumay markhaari beenaad] idinka oo ogsoon"
+    },
+    {
+      "number": 189,
+      "text_ar": "يَسْأَلُونَكَ عَنِ الْأَهِلَّةِ قُلْ هِيَ مَوَاقِيتُ لِلنَّاسِ وَالْحَجِّ وَلَيْسَ الْبِرُّ بِأَنْ تَأْتُوا الْبُيُوتَ مِنْ ظُهُورِهَا وَلَكِنَّ الْبِرَّ مَنِ اتَّقَى وَأْتُوا الْبُيُوتَ مِنْ أَبْوَابِهَا وَاتَّقُوا اللَّهَ لَعَلَّكُمْ تُفْلِحُونَ",
+      "tafseer_so": "Waxay ku weydiinayaan bilaha, waxaad ku dhahdaa: dadka iyo xajkaba waxa ay u yihiin kaltirsi, wanaagguna maaha in aad guryaha gadaal kaga timaaddaan e, wanaaggu waa qofka Ilaahay ka cabsada, guryahana xagga hore uga imaada, Ilaahayna ka yaaba, laga yaabee in aad liibaantaan"
+    },
+    {
+      "number": 190,
+      "text_ar": "وَقَاتِلُوا فِي سَبِيلِ اللَّهِ الَّذِينَ يُقَاتِلُونَكُمْ وَلَا تَعْتَدُوا إِنَّ اللَّهَ لَا يُحِبُّ الْمُعْتَدِينَ",
+      "tafseer_so": "Ilaahay jidkiisa kula dirira kuwa idin la diriraya, ha na xadgudbinnina, Ilaahay ma jecla kuwa xadgudba"
+    },
+    {
+      "number": 191,
+      "text_ar": "وَاقْتُلُوهُمْ حَيْثُ ثَقِفْتُمُوهُمْ وَأَخْرِجُوهُمْ مِنْ حَيْثُ أَخْرَجُوكُمْ وَالْفِتْنَةُ أَشَدُّ مِنَ الْقَتْلِ وَلَا تُقَاتِلُوهُمْ عِنْدَ الْمَسْجِدِ الْحَرَامِ حَتَّى يُقَاتِلُوكُمْ فِيهِ فَإِنْ قَاتَلُوكُمْ فَاقْتُلُوهُمْ كَذَلِكَ جَزَاءُ الْكَافِرِينَ",
+      "tafseer_so": "Ku dila [gaalada idin la diriraysa] meeshii aad ka heshaan, halkii ay idin ka qixiyeenna ka qixiya, gaalnimada ayaana dilka ka daran; ha ku la dagaallamina masaajidka xurmaysan agtiisa jeer ay dhexdiisa idin ku la diriiraan, haddii ay idin la diriraanna sidoo kale u la dagaallama, waa sidaa abaalka gaaladuye"
+    },
+    {
+      "number": 192,
+      "text_ar": "فَإِنِ انْتَهَوْا فَإِنَّ اللَّهَ غَفُورٌ رَحِيمٌ",
+      "tafseer_so": "Haddii ay joogsadaan [oo dagaalka idin ka daayaan], hadde Ilaahay waa dhaafid badane, naxariis badan"
+    },
+    {
+      "number": 193,
+      "text_ar": "وَقَاتِلُوهُمْ حَتَّى لَا تَكُونَ فِتْنَةٌ وَيَكُونَ الدِّينُ لِلَّهِ فَإِنِ انْتَهَوْا فَلَا عُدْوَانَ إِلَّا عَلَى الظَّالِمِينَ",
+      "tafseer_so": "La dagaallama [gaalada] ilaa gaalnimadaba la waayayo, diintuna ay Ilaahay oo qur ah u ahaato, haddii ay joogsadaanna, hadde cid aan daalimiin ahayn lagu ma xadgudbayo [xadgudubkooda ayaa laga aarsadaa baa loo jeedaa]"
+    },
+    {
+      "number": 194,
+      "text_ar": "الشَّهْرُ الْحَرَامُ بِالشَّهْرِ الْحَرَامِ وَالْحُرُمَاتُ قِصَاصٌ فَمَنِ اعْتَدَى عَلَيْكُمْ فَاعْتَدُوا عَلَيْهِ بِمِثْلِ مَا اعْتَدَى عَلَيْكُمْ وَاتَّقُوا اللَّهَ وَاعْلَمُوا أَنَّ اللَّهَ مَعَ الْمُتَّقِينَ",
+      "tafseer_so": "Bisha xurmaysan waxay dhig u tahay bishay xurmaysan [oo hadday idin la dagaalaan bishaas, la dagaalama], xurmoolayaashana waa la isaga aargudayaa; qofkii idin ku xadgudbo ugu xadgudbo si la mid ah sidii uu idiin ku xadgudbay [ka badan se may], Ilaahay ka yaaba, waxaadna ogaataan in uu Ilaahay la jiro kuwa ka cabsada"
+    },
+    {
+      "number": 195,
+      "text_ar": "وَأَنْفِقُوا فِي سَبِيلِ اللَّهِ وَلَا تُلْقُوا بِأَيْدِيكُمْ إِلَى التَّهْلُكَةِ وَأَحْسِنُوا إِنَّ اللَّهَ يُحِبُّ الْمُحْسِنِينَ",
+      "tafseer_so": "Jidka Ilaahay [xoolihiinna] ku bixiya, nafihiinnana halaag ha ku ridina, samaantana fala, Ilaahay waa uu jecel yahay samaanfalaasha"
+    },
+    {
+      "number": 196,
+      "text_ar": "وَأَتِمُّوا الْحَجَّ وَالْعُمْرَةَ لِلَّهِ فَإِنْ أُحْصِرْتُمْ فَمَا اسْتَيْسَرَ مِنَ الْهَدْيِ وَلَا تَحْلِقُوا رُءُوسَكُمْ حَتَّى يَبْلُغَ الْهَدْيُ مَحِلَّهُ فَمَنْ كَانَ مِنْكُمْ مَرِيضًا أَوْ بِهِ أَذًى مِنْ رَأْسِهِ فَفِدْيَةٌ مِنْ صِيَامٍ أَوْ صَدَقَةٍ أَوْ نُسُكٍ فَإِذَا أَمِنْتُمْ فَمَنْ تَمَتَّعَ بِالْعُمْرَةِ إِلَى الْحَجِّ فَمَا اسْتَيْسَرَ مِنَ الْهَدْيِ فَمَنْ لَمْ يَجِدْ فَصِيَامُ ثَلَاثَةِ أَيَّامٍ فِي الْحَجِّ وَسَبْعَةٍ إِذَا رَجَعْتُمْ تِلْكَ عَشَرَةٌ كَامِلَةٌ ذَلِكَ لِمَنْ لَمْ يَكُنْ أَهْلُهُ حَاضِرِي الْمَسْجِدِ الْحَرَامِ وَاتَّقُوا اللَّهَ وَاعْلَمُوا أَنَّ اللَّهَ شَدِيدُ الْعِقَابِ",
+      "tafseer_so": ""
+    },
+    {
+      "number": 197,
+      "text_ar": "الْحَجُّ أَشْهُرٌ مَعْلُومَاتٌ فَمَنْ فَرَضَ فِيهِنَّ الْحَجَّ فَلَا رَفَثَ وَلَا فُسُوقَ وَلَا جِدَالَ فِي الْحَجِّ وَمَا تَفْعَلُوا مِنْ خَيْرٍ يَعْلَمْهُ اللَّهُ وَتَزَوَّدُوا فَإِنَّ خَيْرَ الزَّادِ التَّقْوَى وَاتَّقُونِ يَا أُولِي الْأَلْبَابِ",
+      "tafseer_so": "Xajku waa bilo la yaqaanno, qofkii dhexdooda xaj isku waajibiya [ee xirta], hadde xajka dhexdiisa looma oggola xaaskiisa in uu la hawshoodo, faasiqnimo looma oggola, in uu murmana looma oggola; wixii wanaag ah oo aad samaynaysaan Ilaahay waa uu og yahay, sahayna qaata oo wax aad sahayataan waxaa ugu wanaagsan Alle ka cabsiga, igana cabsada waxgaradoow"
+    },
+    {
+      "number": 198,
+      "text_ar": "لَيْسَ عَلَيْكُمْ جُنَاحٌ أَنْ تَبْتَغُوا فَضْلًا مِنْ رَبِّكُمْ فَإِذَا أَفَضْتُمْ مِنْ عَرَفَاتٍ فَاذْكُرُوا اللَّهَ عِنْدَ الْمَشْعَرِ الْحَرَامِ وَاذْكُرُوهُ كَمَا هَدَاكُمْ وَإِنْ كُنْتُمْ مِنْ قَبْلِهِ لَمِنَ الضَّالِّينَ",
+      "tafseer_so": "Eedi idin ka ma saarna in aad doonataan fadliga Rabbigiin [oo aad ganacsataan e], marka aad ka soo dareertaan Carafa, Ilaahay ku xusa Mashcar al-Xaraam agtiisa, una xusa sidii uu idiin hanuuniyay idinka oo [hanuunka] hortii ka mid ahaa kuwa lunsan"
+    },
+    {
+      "number": 199,
+      "text_ar": "ثُمَّ أَفِيضُوا مِنْ حَيْثُ أَفَاضَ النَّاسُ وَاسْتَغْفِرُوا اللَّهَ إِنَّ اللَّهَ غَفُورٌ رَحِيمٌ",
+      "tafseer_so": "Deetana ka dareera halka ay dadku ka soo dareerayaan, Ilaahayna dambidhaaf weydiista, Ilaahay waa dambidhaaf badane, naxariis badan"
+    },
+    {
+      "number": 200,
+      "text_ar": "فَإِذَا قَضَيْتُمْ مَنَاسِكَكُمْ فَاذْكُرُوا اللَّهَ كَذِكْرِكُمْ آبَاءَكُمْ أَوْ أَشَدَّ ذِكْرًا فَمِنَ النَّاسِ مَنْ يَقُولُ رَبَّنَا آتِنَا فِي الدُّنْيَا وَمَا لَهُ فِي الْآخِرَةِ مِنْ خَلَاقٍ",
+      "tafseer_so": "Markaad camalkiinna gudataan waxaad Ilaahay u xustaan sida aad aabbayaashiin u xustaan ama si ka daran; waxaa dadka ka mid ah mid oranaya Ilaahoow adduunyo na sii, aakhirana calaf ku ma uu laha"
+    },
+    {
+      "number": 201,
+      "text_ar": "وَمِنْهُمْ مَنْ يَقُولُ رَبَّنَا آتِنَا فِي الدُّنْيَا حَسَنَةً وَفِي الْآخِرَةِ حَسَنَةً وَقِنَا عَذَابَ النَّارِ",
+      "tafseer_so": "Waxaa ka mid ah kuwo oranaya ‘Rabbiyoow adduunyada wanaag nagu sii, aakhirana wanaag, cadaabkaagana naga kori’"
+    },
+    {
+      "number": 202,
+      "text_ar": "أُولَئِكَ لَهُمْ نَصِيبٌ مِمَّا كَسَبُوا وَاللَّهُ سَرِيعُ الْحِسَابِ",
+      "tafseer_so": "Kuwaasi wixii ay kasbadeen ayay qayb ka mid ah calaf ku leeyihiin, Ilaahay xisaabtiisuna waa dhaqso"
+    },
+    {
+      "number": 203,
+      "text_ar": "وَاذْكُرُوا اللَّهَ فِي أَيَّامٍ مَعْدُودَاتٍ فَمَنْ تَعَجَّلَ فِي يَوْمَيْنِ فَلَا إِثْمَ عَلَيْهِ وَمَنْ تَأَخَّرَ فَلَا إِثْمَ عَلَيْهِ لِمَنِ اتَّقَى وَاتَّقُوا اللَّهَ وَاعْلَمُوا أَنَّكُمْ إِلَيْهِ تُحْشَرُونَ",
+      "tafseer_so": "Ilaahay xusa maalmo kooban [saddexda beri ee ciidda adxada ka dambaysa ee Mina la joogayo], qofkii laba beri ka dib degdega [oo hore u sii baxana] wax dambiya ma leh, kii dibdhaca [oo saddexda dhammaystana] wax dambiya ma leh, waxaadna ogaataan in Asaga [Ilaahay] xaggiisa [qiyaamaha]la idiin soo ururin doono"
+    },
+    {
+      "number": 204,
+      "text_ar": "وَمِنَ النَّاسِ مَنْ يُعْجِبُكَ قَوْلُهُ فِي الْحَيَاةِ الدُّنْيَا وَيُشْهِدُ اللَّهَ عَلَى مَا فِي قَلْبِهِ وَهُوَ أَلَدُّ الْخِصَامِ",
+      "tafseer_so": "Waxaa dadka ku jira mid noloshaan adduun aad hadalkiisa u bogaysid, Ilaahayna marag gashanaya waxa uurkiisa ku jira, asaga oo ah kuwa kula murma [ee xaqa diida] kuwooda ugu daran"
+    },
+    {
+      "number": 205,
+      "text_ar": "وَإِذَا تَوَلَّى سَعَى فِي الْأَرْضِ لِيُفْسِدَ فِيهَا وَيُهْلِكَ الْحَرْثَ وَالنَّسْلَ وَاللَّهُ لَا يُحِبُّ الْفَسَادَ",
+      "tafseer_so": "Haddii uu sii jeestana arlada ayuu roorayaa si uu u fasaadiyo, beeraha iyo tarankana wuu halakaynayaa, Ilaahayna fasaadka ma jecla"
+    },
+    {
+      "number": 206,
+      "text_ar": "وَإِذَا قِيلَ لَهُ اتَّقِ اللَّهَ أَخَذَتْهُ الْعِزَّةُ بِالْإِثْمِ فَحَسْبُهُ جَهَنَّمُ وَلَبِئْسَ الْمِهَادُ",
+      "tafseer_so": "Markii lagu dhaho ‘Ilaahay ka baq’ islaweynida ayaa dambiga [samayntiisa] ku sii riixaysa; waxaa asaga ku filan jahannamo, gogolna ayadaa ugu xun"
+    },
+    {
+      "number": 207,
+      "text_ar": "وَمِنَ النَّاسِ مَنْ يَشْرِي نَفْسَهُ ابْتِغَاءَ مَرْضَاتِ اللَّهِ وَاللَّهُ رَءُوفٌ بِالْعِبَادِ",
+      "tafseer_so": "Waxaa dadka ka mid ah mid naftiisa iibinaya asaga oo filanaya raalli noqoshada Ilaahay, Ilaahayna waa uu u turaa addoommadiisa"
+    },
+    {
+      "number": 208,
+      "text_ar": "يَا أَيُّهَا الَّذِينَ آمَنُوا ادْخُلُوا فِي السِّلْمِ كَافَّةً وَلَا تَتَّبِعُوا خُطُوَاتِ الشَّيْطَانِ إِنَّهُ لَكُمْ عَدُوٌّ مُبِينٌ",
+      "tafseer_so": "Kuwa Ilaahay rumeeyayoow, dhammaantiin nabadda hoos gala [Islaama], hana raacinnina tallaabooyinka sheydaanka, waayo? Wuxuu idiin yahay cadow colaaddiisu muuqato"
+    },
+    {
+      "number": 209,
+      "text_ar": "فَإِنْ زَلَلْتُمْ مِنْ بَعْدِ مَا جَاءَتْكُمُ الْبَيِّنَاتُ فَاعْلَمُوا أَنَّ اللَّهَ عَزِيزٌ حَكِيمٌ",
+      "tafseer_so": "Haddii aad simbiririxataan ka dib intii ay caddaymuhu idiin yimaadeen, hadde waxaad ogaataan in Ilaahay uu yahay mid awood badan oo xikmad badan"
+    },
+    {
+      "number": 210,
+      "text_ar": "هَلْ يَنْظُرُونَ إِلَّا أَنْ يَأْتِيَهُمُ اللَّهُ فِي ظُلَلٍ مِنَ الْغَمَامِ وَالْمَلَائِكَةُ وَقُضِيَ الْأَمْرُ وَإِلَى اللَّهِ تُرْجَعُ الْأُمُورُ",
+      "tafseer_so": "Ma sugayaan wax aan ka ahayn in [cadaabka] Ilaahay uu ugu yimaado dallaalimooyin darruuro ah iyo in ay malagyadu u yimaadaan [ayaga oo cadaabkii u wada]; Arrinka waa la gooyay [oo halaaggoodaa la guddoomiyay], Ilaahay uun bayna arrimuhu u laabanayaan"
+    },
+    {
+      "number": 211,
+      "text_ar": "سَلْ بَنِي إِسْرَائِيلَ كَمْ آتَيْنَاهُمْ مِنْ آيَةٍ بَيِّنَةٍ وَمَنْ يُبَدِّلْ نِعْمَةَ اللَّهِ مِنْ بَعْدِ مَا جَاءَتْهُ فَإِنَّ اللَّهَ شَدِيدُ الْعِقَابِ",
+      "tafseer_so": "Waxaad reer Banii Israa’iil weydiisaa: immisa caddaymood oo [xaqa] caddaynaya baannu u keennay? Qofkii beddela [oo dooriya] galladda Ilaahay [caddaymihiisa] intii ay u timid ka dib, hadde Ilaahay ciqaabkiisu waa uu daran yahay."
+    },
+    {
+      "number": 213,
+      "text_ar": "كَانَ النَّاسُ أُمَّةً وَاحِدَةً فَبَعَثَ اللَّهُ النَّبِيِّينَ مُبَشِّرِينَ وَمُنْذِرِينَ وَأَنْزَلَ مَعَهُمُ الْكِتَابَ بِالْحَقِّ لِيَحْكُمَ بَيْنَ النَّاسِ فِيمَا اخْتَلَفُوا فِيهِ وَمَا اخْتَلَفَ فِيهِ إِلَّا الَّذِينَ أُوتُوهُ مِنْ بَعْدِ مَا جَاءَتْهُمُ الْبَيِّنَاتُ بَغْيًا بَيْنَهُمْ فَهَدَى اللَّهُ الَّذِينَ آمَنُوا لِمَا اخْتَلَفُوا فِيهِ مِنَ الْحَقِّ بِإِذْنِهِ وَاللَّهُ يَهْدِي مَنْ يَشَاءُ إِلَى صِرَاطٍ مُسْتَقِيمٍ",
+      "tafseer_so": "Dadku waxay ahaayeen ummad qurah, Ilaahay ayaana u soo diray nebiyo u bishaaraynaya oo u digaya, wuxuuna la soo dejiyay kitaab xaq ah si ay dadka ugu kala saaraan wixii ay isku khilaafaan; [kitaabkana] isku ma aanay diidin cid aan ka ahayn kuwii la siiyay [oo isku maandhaafay] bacdamaa ay caddaymuhu u yimaadeen, sababtuna waa qooq u dhexeeya, Ilaahayna kuwii rumeeyay wuxuu idankiisa ku duway wixii ay isku khilaafeen, Ilaahay ciddii uu doono wuxuu ku aaddiyaa jid qumman"
+    },
+    {
+      "number": 214,
+      "text_ar": "أَمْ حَسِبْتُمْ أَنْ تَدْخُلُوا الْجَنَّةَ وَلَمَّا يَأْتِكُمْ مَثَلُ الَّذِينَ خَلَوْا مِنْ قَبْلِكُمْ مَسَّتْهُمُ الْبَأْسَاءُ وَالضَّرَّاءُ وَزُلْزِلُوا حَتَّى يَقُولَ الرَّسُولُ وَالَّذِينَ آمَنُوا مَعَهُ مَتَى نَصْرُ اللَّهِ أَلَا إِنَّ نَصْرَ اللَّهِ قَرِيبٌ",
+      "tafseer_so": "Ma waxaad u malaynaysaan in aad jannada galaysaan idin ka oo aanay idin helin wixii helay idin ka hortiin Allaystay ee hoogga iyo dhibaatadu ay taabteen [ee ay ku dhaceen], lana gilgilay jeer ay Rasuulka iyo muuminiintii la socday ay dhaheen: gargaarka Ilaahay waa goorma! Ogaadooy, in gargaarka Ilaahay uu dhaw yahay"
+    },
+    {
+      "number": 215,
+      "text_ar": "يَسْأَلُونَكَ مَاذَا يُنْفِقُونَ قُلْ مَا أَنْفَقْتُمْ مِنْ خَيْرٍ فَلِلْوَالِدَيْنِ وَالْأَقْرَبِينَ وَالْيَتَامَى وَالْمَسَاكِينِ وَابْنِ السَّبِيلِ وَمَا تَفْعَلُوا مِنْ خَيْرٍ فَإِنَّ اللَّهَ بِهِ عَلِيمٌ",
+      "tafseer_so": "Waxay ku weydiinayaan wixii ay bixin lahaayeen [waxa ay yihiin iyo cidda mudan e], waxaad ku dhahdaa: wixii san [hanti] ee aad bixinaysaan waxaad siisaan: waalidiinta, qaraabada, agoonta, masaakiinta, iyo socotada; wixii wanaag ah ee aad samaysaanna, hadde Ilaahay waa uu og yahay"
+    },
+    {
+      "number": 216,
+      "text_ar": "كُتِبَ عَلَيْكُمُ الْقِتَالُ وَهُوَ كُرْهٌ لَكُمْ وَعَسَى أَنْ تَكْرَهُوا شَيْئًا وَهُوَ خَيْرٌ لَكُمْ وَعَسَى أَنْ تُحِبُّوا شَيْئًا وَهُوَ شَرٌّ لَكُمْ وَاللَّهُ يَعْلَمُ وَأَنْتُمْ لَا تَعْلَمُونَ",
+      "tafseer_so": "Waxaa la idin ku waajibiyay dagaal, waadna kahanaysaan; waxaa laga yaabaa in aad shay kahataan asaga oo idiin wanaagsan, waxaana laga yaabaa in aad shay jeclaataan asaga oo shar idiin ah, Ilaahay wuu og yahay, idin ku se ma ogidin"
+    },
+    {
+      "number": 219,
+      "text_ar": "يَسْأَلُونَكَ عَنِ الْخَمْرِ وَالْمَيْسِرِ قُلْ فِيهِمَا إِثْمٌ كَبِيرٌ وَمَنَافِعُ لِلنَّاسِ وَإِثْمُهُمَا أَكْبَرُ مِنْ نَفْعِهِمَا وَيَسْأَلُونَكَ مَاذَا يُنْفِقُونَ قُلِ الْعَفْوَ كَذَلِكَ يُبَيِّنُ اللَّهُ لَكُمُ الْآيَاتِ لَعَلَّكُمْ تَتَفَكَّرُونَ",
+      "tafseer_so": "Waxay ku weydiinayaan khamrada iyo turubka, ku dheh: labadoodaba waxaa ku jira dambi weyn iyo dheef dadku ka helaan, dambigooda ayaana ka weyn dheeftooda’ waxay ku weydiinayaan waxa ay bixinayaan [muxuu yahay] ku dheh: dheeriga [baahiyihiina]! Sidaa ayuu Alle idiin kugu caddaynayaa aayadihiisa, laga yaabee in aad fakartaan"
+    },
+    {
+      "number": 220,
+      "text_ar": "فِي الدُّنْيَا وَالْآخِرَةِ وَيَسْأَلُونَكَ عَنِ الْيَتَامَى قُلْ إِصْلَاحٌ لَهُمْ خَيْرٌ وَإِنْ تُخَالِطُوهُمْ فَإِخْوَانُكُمْ وَاللَّهُ يَعْلَمُ الْمُفْسِدَ مِنَ الْمُصْلِحِ وَلَوْ شَاءَ اللَّهُ لَأَعْنَتَكُمْ إِنَّ اللَّهَ عَزِيزٌ حَكِيمٌ",
+      "tafseer_so": "Adduun iyo aakhiraba [sidaa ayuu idiin ku caddayana xaqa si aad u fekertaan]; waxayna ku weydiinayaan agoonta, ku dheh: in la hagaajiyo ayaa u wacan, haddii aad dheehdaan [ee aad maalkiinna iyo kooda isku dartaanna] waa walaalihiin, Ilaahayna waa uu kala yaqaanna mufsidka [xaqooda cunaya] iyo hagaagsanaha, haddii uu Ilaahay doonana wuu idin dhibi lahaa [oo isku daridda wuu idin ka xaraamayn lahaa] Ilaahayna waa awood badane xikmad badan"
+    },
+    {
+      "number": 221,
+      "text_ar": "وَلَا تَنْكِحُوا الْمُشْرِكَاتِ حَتَّى يُؤْمِنَّ وَلَأَمَةٌ مُؤْمِنَةٌ خَيْرٌ مِنْ مُشْرِكَةٍ وَلَوْ أَعْجَبَتْكُمْ وَلَا تُنْكِحُوا الْمُشْرِكِينَ حَتَّى يُؤْمِنُوا وَلَعَبْدٌ مُؤْمِنٌ خَيْرٌ مِنْ مُشْرِكٍ وَلَوْ أَعْجَبَكُمْ أُولَئِكَ يَدْعُونَ إِلَى النَّارِ وَاللَّهُ يَدْعُو إِلَى الْجَنَّةِ وَالْمَغْفِرَةِ بِإِذْنِهِ وَيُبَيِّنُ آيَاتِهِ لِلنَّاسِ لَعَلَّهُمْ يَتَذَكَّرُونَ",
+      "tafseer_so": "Gabdhaha mushrikiinta ah ha guursannina jeer ay rumeeyaan [ay muslimaan], addoon muuminad ah ayaana ka wanaagsan [xor] mushrikad ah; ragga mushrikiinta ah ha guursannina jeer ay ka rumeeyaan [ay muslimaan], addoon muumin ah ayaana ka wacan [xor] mushrik ah--aad ba ka heshaan e; kuwaasi naarta xaggeeda ayay [idiin ku] wacayaan, Ilaahayna wuxuu [uunkiisa]ugu wacayaa jannada iyo dambidhaaf idankiisa ah, wuxuuna aayadihiisa u caddaynayaa dadka, laga yaabee in aad ku waantowdaan"
+    },
+    {
+      "number": 222,
+      "text_ar": "وَيَسْأَلُونَكَ عَنِ الْمَحِيضِ قُلْ هُوَ أَذًى فَاعْتَزِلُوا النِّسَاءَ فِي الْمَحِيضِ وَلَا تَقْرَبُوهُنَّ حَتَّى يَطْهُرْنَ فَإِذَا تَطَهَّرْنَ فَأْتُوهُنَّ مِنْ حَيْثُ أَمَرَكُمُ اللَّهُ إِنَّ اللَّهَ يُحِبُّ التَّوَّابِينَ وَيُحِبُّ الْمُتَطَهِّرِينَ",
+      "tafseer_so": "Waxay ku weydiinayaan caadada dumarka [marka ay ku dhacdo in ay gogosha kula hawl dhammaysan karaan], waxaad ku dhahdaa: waa qurun [dhiigguye], dumarku markii ay xaylka helaan ka fogaada, oo ha u dhawaannina [xuddunta iyo labada law inta u dhexaysa] jeer ay ka daahiroobaan, markii ay ka daahiroobaanna halkii uu Alle idiin fasaxay uga taga, Ilaahay waa uu jecel yahay kuwa toobad keenidda badan, wuuna jecel yahay kuwa isdaahirinta badan"
+    },
+    {
+      "number": 223,
+      "text_ar": "نِسَاؤُكُمْ حَرْثٌ لَكُمْ فَأْتُوا حَرْثَكُمْ أَنَّى شِئْتُمْ وَقَدِّمُوا لِأَنْفُسِكُمْ وَاتَّقُوا اللَّهَ وَاعْلَمُوا أَنَّكُمْ مُلَاقُوهُ وَبَشِّرِ الْمُؤْمِنِينَ",
+      "tafseer_so": ""
+    },
+    {
+      "number": 224,
+      "text_ar": "وَلَا تَجْعَلُوا اللَّهَ عُرْضَةً لِأَيْمَانِكُمْ أَنْ تَبَرُّوا وَتَتَّقُوا وَتُصْلِحُوا بَيْنَ النَّاسِ وَاللَّهُ سَمِيعٌ عَلِيمٌ",
+      "tafseer_so": "[Dhaarta] Ilaahay ka dhigannina marmarsiinyo aad ugu dhaartaan si aydaan u samaan falin, u cabsoonnin, dadkana aydaan u heshiisiin, Ilaahay waa maqlid badane ogaal badan"
+    },
+    {
+      "number": 225,
+      "text_ar": "لَا يُؤَاخِذُكُمُ اللَّهُ بِاللَّغْوِ فِي أَيْمَانِكُمْ وَلَكِنْ يُؤَاخِذُكُمْ بِمَا كَسَبَتْ قُلُوبُكُمْ وَاللَّهُ غَفُورٌ حَلِيمٌ",
+      "tafseer_so": "Ilaahay idiin qaban mayo dhaartiinna laqwiga ah [ee uu afkiinnu la qabsaday], laakiin wuxuu idiin qabanayaa wixii ay qalbiyaddiinnu tabcadaan [ee aad goosataan], Ilaahayna waa dhaafid badane dulqaad badan"
+    },
+    {
+      "number": 226,
+      "text_ar": "لِلَّذِينَ يُؤْلُونَ مِنْ نِسَائِهِمْ تَرَبُّصُ أَرْبَعَةِ أَشْهُرٍ فَإِنْ فَاءُوا فَإِنَّ اللَّهَ غَفُورٌ رَحِيمٌ",
+      "tafseer_so": "Kuwa ka dhaaranaya xaasaskooda waxaa loo kaadinayaa afar bilood, haddii ay u soo laabtaan, hadde Ilaahay waa dhaafid badane, naxariis badan"
+    },
+    {
+      "number": 227,
+      "text_ar": "وَإِنْ عَزَمُوا الطَّلَاقَ فَإِنَّ اللَّهَ سَمِيعٌ عَلِيمٌ",
+      "tafseer_so": "Haddii se ay furriin go’aansadaan, hadde Ilaahay waa maqlid badane ogaal badan"
+    },
+    {
+      "number": 228,
+      "text_ar": "وَالْمُطَلَّقَاتُ يَتَرَبَّصْنَ بِأَنْفُسِهِنَّ ثَلَاثَةَ قُرُوءٍ وَلَا يَحِلُّ لَهُنَّ أَنْ يَكْتُمْنَ مَا خَلَقَ اللَّهُ فِي أَرْحَامِهِنَّ إِنْ كُنَّ يُؤْمِنَّ بِاللَّهِ وَالْيَوْمِ الْآخِرِ وَبُعُولَتُهُنَّ أَحَقُّ بِرَدِّهِنَّ فِي ذَلِكَ إِنْ أَرَادُوا إِصْلَاحًا وَلَهُنَّ مِثْلُ الَّذِي عَلَيْهِنَّ بِالْمَعْرُوفِ وَلِلرِّجَالِ عَلَيْهِنَّ دَرَجَةٌ وَاللَّهُ عَزِيزٌ حَكِيمٌ",
+      "tafseer_so": "Kuwa la furay waxay nafahooda u kaadinayaan saddex xayl [ama ka daahirsasho], in waxa uurkooda ku beerma ay qariyaanna uma ay bannaana-waa haddii ay Ilaahay iyo aakhiro rumaysan yihiin e, raggooda ayaa ugu mudan in ay ceshadaan inta ay ciddada ku jiraan-waa haddii ay heshiis doonayaan e; ayaguna [xaasaska] waxay [xa]q u leeyihiin wixii [xaq] lagu lahaa oo kale oo si wanaag ah loo fuliyo, ragguna derajooyin ayay dheer yihiin, Ilaahayna waa awood badane xikmad badan"
+    },
+    {
+      "number": 229,
+      "text_ar": "الطَّلَاقُ مَرَّتَانِ فَإِمْسَاكٌ بِمَعْرُوفٍ أَوْ تَسْرِيحٌ بِإِحْسَانٍ وَلَا يَحِلُّ لَكُمْ أَنْ تَأْخُذُوا مِمَّا آتَيْتُمُوهُنَّ شَيْئًا إِلَّا أَنْ يَخَافَا أَلَّا يُقِيمَا حُدُودَ اللَّهِ فَإِنْ خِفْتُمْ أَلَّا يُقِيمَا حُدُودَ اللَّهِ فَلَا جُنَاحَ عَلَيْهِمَا فِيمَا افْتَدَتْ بِهِ تِلْكَ حُدُودُ اللَّهِ فَلَا تَعْتَدُوهَا وَمَنْ يَتَعَدَّ حُدُودَ اللَّهِ فَأُولَئِكَ هُمُ الظَّالِمُونَ",
+      "tafseer_so": "Furriinka [ku noqoshada leh] waa laba jeer, haddaba wanaag ku dhaqda ama samaan ku fasaxa [oo si kama dambays ah ugu fura], xalaalna idiin ma ay aha in aad ka qaadataan wax uun ka mid ah wixii aad siiseen [meherkii] marka laga reebo in ay maleeyaan in aanay xuduudda Ilaahay oogayn [ee aanay ilaalinayn]; haddii aad malaysaan in aanay oogayn xuduudda Ilaahay, wax dambi ah ka ma saarna wixii ay isku furato [ee ay ku bixiso si loo furo], taasi waa xuduudda Ilaahay e, ha ku xadgudbinnina, qofkii Ilaahay xadkiisa ka tallaabana, hadde kuwaas uun baa daalimiin ah"
+    },
+    {
+      "number": 230,
+      "text_ar": "فَإِنْ طَلَّقَهَا فَلَا تَحِلُّ لَهُ مِنْ بَعْدُ حَتَّى تَنْكِحَ زَوْجًا غَيْرَهُ فَإِنْ طَلَّقَهَا فَلَا جُنَاحَ عَلَيْهِمَا أَنْ يَتَرَاجَعَا إِنْ ظَنَّا أَنْ يُقِيمَا حُدُودَ اللَّهِ وَتِلْكَ حُدُودُ اللَّهِ يُبَيِّنُهَا لِقَوْمٍ يَعْلَمُونَ",
+      "tafseer_so": "Haddii uu furana xalaal uma aha mar dambe [oo saddexda dalqadood ka dib ah] jeer ay nin kale ka guursato; haddii uu kaasi furana dambi ka ma saarna in [keedii hore] ay isku noqdaan haddii ay maleeyaan in ay xuduudda Ilaahay ilaalinayaan; taasi waa xuduuddii Ilaahay oo wuxuu u caddaynayaa duul garanaya"
+    },
+    {
+      "number": 231,
+      "text_ar": "وَإِذَا طَلَّقْتُمُ النِّسَاءَ فَبَلَغْنَ أَجَلَهُنَّ فَأَمْسِكُوهُنَّ بِمَعْرُوفٍ أَوْ سَرِّحُوهُنَّ بِمَعْرُوفٍ وَلَا تُمْسِكُوهُنَّ ضِرَارًا لِتَعْتَدُوا وَمَنْ يَفْعَلْ ذَلِكَ فَقَدْ ظَلَمَ نَفْسَهُ وَلَا تَتَّخِذُوا آيَاتِ اللَّهِ هُزُوًا وَاذْكُرُوا نِعْمَتَ اللَّهِ عَلَيْكُمْ وَمَا أَنْزَلَ عَلَيْكُمْ مِنَ الْكِتَابِ وَالْحِكْمَةِ يَعِظُكُمْ بِهِ وَاتَّقُوا اللَّهَ وَاعْلَمُوا أَنَّ اللَّهَ بِكُلِّ شَيْءٍ عَلِيمٌ",
+      "tafseer_so": "Markii aad dumarka furtaan ee ay gaaraan muddadoodii [cidda baxa], wanaag ku dhaqda [oo soo ceshada] ama wanaag ku fasaxa [faraha ka qaada], dhibaatayn awgeedna ha u soo ceshanninna oo markaasna aad xadgudubtaan, qofkii sidaa yeelana naftiisa ayuu dulmiyay; Ilaahay aayadihiisa jeesjees ha ka dhigannina, xusuustana galladaha Ilaahay idiin galay iyo waxa uu idin ku soo dejiyay ee kitaabka iyo xikmadda [sunnada] ah ee uu idin ku waaninayo, Ilaahay ka yaaba, waxaadna ogaataan in uu Ilaahay wax walba og yahay"
+    },
+    {
+      "number": 232,
+      "text_ar": "وَإِذَا طَلَّقْتُمُ النِّسَاءَ فَبَلَغْنَ أَجَلَهُنَّ فَلَا تَعْضُلُوهُنَّ أَنْ يَنْكِحْنَ أَزْوَاجَهُنَّ إِذَا تَرَاضَوْا بَيْنَهُمْ بِالْمَعْرُوفِ ذَلِكَ يُوعَظُ بِهِ مَنْ كَانَ مِنْكُمْ يُؤْمِنُ بِاللَّهِ وَالْيَوْمِ الْآخِرِ ذَلِكُمْ أَزْكَى لَكُمْ وَأَطْهَرُ وَاللَّهُ يَعْلَمُ وَأَنْتُمْ لَا تَعْلَمُونَ",
+      "tafseer_so": "Haddii aad dumarka furtaan ee ay gaaraan muddadooda [ciddabaxa], ha ka horjoogsannina in ay nimankoodii guursadaan haddii ay si wanaag ah isugu raalli noqdaan, taasna waxaa lagu waaninayaa kiinnii rumaysan Ilaahay iyo maalinta aakhiro; kiinnaas ayaa idiin nadiifsan oo idiin daahirsan, Ilaahayna waa uu og yahay, idin ku se ma ogidin"
+    },
+    {
+      "number": 233,
+      "text_ar": "وَالْوَالِدَاتُ يُرْضِعْنَ أَوْلَادَهُنَّ حَوْلَيْنِ كَامِلَيْنِ لِمَنْ أَرَادَ أَنْ يُتِمَّ الرَّضَاعَةَ وَعَلَى الْمَوْلُودِ لَهُ رِزْقُهُنَّ وَكِسْوَتُهُنَّ بِالْمَعْرُوفِ لَا تُكَلَّفُ نَفْسٌ إِلَّا وُسْعَهَا لَا تُضَارَّ وَالِدَةٌ بِوَلَدِهَا وَلَا مَوْلُودٌ لَهُ بِوَلَدِهِ وَعَلَى الْوَارِثِ مِثْلُ ذَلِكَ فَإِنْ أَرَادَا فِصَالًا عَنْ تَرَاضٍ مِنْهُمَا وَتَشَاوُرٍ فَلَا جُنَاحَ عَلَيْهِمَا وَإِنْ أَرَدْتُمْ أَنْ تَسْتَرْضِعُوا أَوْلَادَكُمْ فَلَا جُنَاحَ عَلَيْكُمْ إِذَا سَلَّمْتُمْ مَا آتَيْتُمْ بِالْمَعْرُوفِ وَاتَّقُوا اللَّهَ وَاعْلَمُوا أَنَّ اللَّهَ بِمَا تَعْمَلُونَ بَصِيرٌ",
+      "tafseer_so": ""
+    },
+    {
+      "number": 234,
+      "text_ar": "وَالَّذِينَ يُتَوَفَّوْنَ مِنْكُمْ وَيَذَرُونَ أَزْوَاجًا يَتَرَبَّصْنَ بِأَنْفُسِهِنَّ أَرْبَعَةَ أَشْهُرٍ وَعَشْرًا فَإِذَا بَلَغْنَ أَجَلَهُنَّ فَلَا جُنَاحَ عَلَيْكُمْ فِيمَا فَعَلْنَ فِي أَنْفُسِهِنَّ بِالْمَعْرُوفِ وَاللَّهُ بِمَا تَعْمَلُونَ خَبِيرٌ",
+      "tafseer_so": "Kuwiinna dhinta ee xaasas ka tegay, waxay sugayaan [haweenkoodu] afar bilood iyo toban beri, markii ay muddadooda [cidda baxa ay] gaaraanna wax dambiya idin ka ma saarna wixii ay nafahooda ku sameeyaan ee wanaagsan [dumaal khasaba lama oggola], Ilaahayna waxa aad samaynaysaan xog-ogaal ayuu u yahay"
+    },
+    {
+      "number": 235,
+      "text_ar": "وَلَا جُنَاحَ عَلَيْكُمْ فِيمَا عَرَّضْتُمْ بِهِ مِنْ خِطْبَةِ النِّسَاءِ أَوْ أَكْنَنْتُمْ فِي أَنْفُسِكُمْ عَلِمَ اللَّهُ أَنَّكُمْ سَتَذْكُرُونَهُنَّ وَلَكِنْ لَا تُوَاعِدُوهُنَّ سِرًّا إِلَّا أَنْ تَقُولُوا قَوْلًا مَعْرُوفًا وَلَا تَعْزِمُوا عُقْدَةَ النِّكَاحِ حَتَّى يَبْلُغَ الْكِتَابُ أَجَلَهُ وَاعْلَمُوا أَنَّ اللَّهَ يَعْلَمُ مَا فِي أَنْفُسِكُمْ فَاحْذَرُوهُ وَاعْلَمُوا أَنَّ اللَّهَ غَفُورٌ حَلِيمٌ",
+      "tafseer_so": "Dambi idin ka ma saarna wixii aad u sarbeebtaan ee doonista haweenka ah ama aad nafihiinna ku qarsataan [naftiinna aad kula sheekaysataan], Ilaahay wuxuu og yahay in aad xusi doontaan [oo ay qalbigiinna ku jirayaan], laakiin se guur ha u ballanqaadinnina marka laga reebo in aad hadal wanaagsan ku dhahdaan [oo sarbeebtii ah], guursigeeda [mehersashadeeda] ha go’aansannina inta kitaabku muddadiisa ka gaarayo [ee ay cidda baxayaan], waxaadna ogaataan Ilaahay in uu og yahay waxa nafihiinna ku jira e, digtoonaada, oo waxaad ogaataan in Ilaahay uu yahay dambidhaafid badane, dul badan"
+    },
+    {
+      "number": 236,
+      "text_ar": "لَا جُنَاحَ عَلَيْكُمْ إِنْ طَلَّقْتُمُ النِّسَاءَ مَا لَمْ تَمَسُّوهُنَّ أَوْ تَفْرِضُوا لَهُنَّ فَرِيضَةً وَمَتِّعُوهُنَّ عَلَى الْمُوسِعِ قَدَرُهُ وَعَلَى الْمُقْتِرِ قَدَرُهُ مَتَاعًا بِالْمَعْرُوفِ حَقًّا عَلَى الْمُحْسِنِينَ",
+      "tafseer_so": "Dambi idin ka ma saarna haddii aad haweenka furtaan idin ka oo aan taaban ama aan meher u jaangoyna, sagootiya [oo wax meherkoodii ka baxsan oo hanti ah siiya], kii ladan karaankiisa, kii ciriiri ku jirana karaankii, waa raaxayn [iyo sagootin] samaan ku dhisan, waana xaq samaan falayaasha saaran."
+    },
+    {
+      "number": 237,
+      "text_ar": "وَإِنْ طَلَّقْتُمُوهُنَّ مِنْ قَبْلِ أَنْ تَمَسُّوهُنَّ وَقَدْ فَرَضْتُمْ لَهُنَّ فَرِيضَةً فَنِصْفُ مَا فَرَضْتُمْ إِلَّا أَنْ يَعْفُونَ أَوْ يَعْفُوَ الَّذِي بِيَدِهِ عُقْدَةُ النِّكَاحِ وَأَنْ تَعْفُوا أَقْرَبُ لِلتَّقْوَى وَلَا تَنْسَوُا الْفَضْلَ بَيْنَكُمْ إِنَّ اللَّهَ بِمَا تَعْمَلُونَ بَصِيرٌ",
+      "tafseer_so": "Haddii aad furtaan ka hor inta aydaan taaban idin ka oo meher u jaangooyay, waxaa idin ku waajibaya wixii aad u jaangoyseen barkii marka laga reebo in ay cafiyaan ama uu cafiyo [oo uu wada bixiyo] kii dabarka guurku gacanta uu ugu jiray [waa ninkee], ha illaawinnina fadliga [iyo wanaagga dhexdiinna] yaalla, Ilaahay waxa aad samaynaysaan waa uu ujeedaa"
+    },
+    {
+      "number": 239,
+      "text_ar": "حَافِظُوا عَلَى الصَّلَوَاتِ وَالصَّلَاةِ الْوُسْطَى وَقُومُوا لِلَّهِ قَانِتِينَ",
+      "tafseer_so": "Ilaaliya salaadaha iyo salaadda dhexe [Casarka in loola jeedo ayaa loo badan yahay e], Ilaahayna u istaaga idin ka oo khushuucsan"
+    },
+    {
+      "number": 240,
+      "text_ar": "وَالَّذِينَ يُتَوَفَّوْنَ مِنْكُمْ وَيَذَرُونَ أَزْوَاجًا وَصِيَّةً لِأَزْوَاجِهِمْ مَتَاعًا إِلَى الْحَوْلِ غَيْرَ إِخْرَاجٍ فَإِنْ خَرَجْنَ فَلَا جُنَاحَ عَلَيْكُمْ فِي مَا فَعَلْنَ فِي أَنْفُسِهِنَّ مِنْ مَعْرُوفٍ وَاللَّهُ عَزِيزٌ حَكِيمٌ",
+      "tafseer_so": "Kuwiinna dhinta ee xaasas ka taga, xaasaskooda ha u dardaarmaan sagootin ilaa sannad ah ayada oo aan lagu dhibayn, haddii ay ka baxaan [guryaha] dambi idin ka ma saarna wixii ay nafahooda ku sameeyaan, Ilaahayna waa awood abdan, xikmad badan *Aayaddaan dardaaranka ay sheegtay tan dhaxalka al-Nisaa' ayaa lagu nasakhay, sannadkana waxaa lagu nasakhay aayaddii hore ee sheegaysay afarta bilood iyo tobanka maalmood, [shaafici] sida uu qabana hoyga xaq ayaa ay u leedahay muddadaa cidda baxa ay ku jirto!"
+    },
+    {
+      "number": 241,
+      "text_ar": "وَلِلْمُطَلَّقَاتِ مَتَاعٌ بِالْمَعْرُوفِ حَقًّا عَلَى الْمُتَّقِينَ",
+      "tafseer_so": "Kuwa la furay waxay leeyhiin sagootin ah xaq laga rabo kuwa Ilaahay ka cabsanaya"
+    },
+    {
+      "number": 242,
+      "text_ar": "كَذَلِكَ يُبَيِّنُ اللَّهُ لَكُمْ آيَاتِهِ لَعَلَّكُمْ تَعْقِلُونَ",
+      "tafseer_so": "Sidaa ayuu Ilaahay idiin ku caddaynayaa aayadihiisa, laga yaabee in aad wax garataane"
+    },
+    {
+      "number": 243,
+      "text_ar": "أَلَمْ تَرَ إِلَى الَّذِينَ خَرَجُوا مِنْ دِيَارِهِمْ وَهُمْ أُلُوفٌ حَذَرَ الْمَوْتِ فَقَالَ لَهُمُ اللَّهُ مُوتُوا ثُمَّ أَحْيَاهُمْ إِنَّ اللَّهَ لَذُو فَضْلٍ عَلَى النَّاسِ وَلَكِنَّ أَكْثَرَ النَّاسِ لَا يَشْكُرُونَ",
+      "tafseer_so": "Bal ka warran kuwa guryahoodii ka qaxay ayaga oo kumannaan geeri ka baqanaysa ah ee uu Ilaahay ku yiri: dhinta, deetana [dhimashadoodii kadib] uu soo nooleeyay; Ilaahay dadka fadli buu ku leeyahay [oo galladihiisa ayuu ugu deeqaa], laakiin se badi dadku uma mahadnaqaan [uma hoggaansamaan]"
+    },
+    {
+      "number": 244,
+      "text_ar": "وَقَاتِلُوا فِي سَبِيلِ اللَّهِ وَاعْلَمُوا أَنَّ اللَّهَ سَمِيعٌ عَلِيمٌ",
+      "tafseer_so": "Ilaahay dartii [sarraysiinta diintiisa] u dirira, waxaadna ogaataan in uu Ilaahay yahay maqal badane ogaal badan"
+    },
+    {
+      "number": 246,
+      "text_ar": "أَلَمْ تَرَ إِلَى الْمَلَإِ مِنْ بَنِي إِسْرَائِيلَ مِنْ بَعْدِ مُوسَى إِذْ قَالُوا لِنَبِيٍّ لَهُمُ ابْعَثْ لَنَا مَلِكًا نُقَاتِلْ فِي سَبِيلِ اللَّهِ قَالَ هَلْ عَسَيْتُمْ إِنْ كُتِبَ عَلَيْكُمُ الْقِتَالُ أَلَّا تُقَاتِلُوا قَالُوا وَمَا لَنَا أَلَّا نُقَاتِلَ فِي سَبِيلِ اللَّهِ وَقَدْ أُخْرِجْنَا مِنْ دِيَارِنَا وَأَبْنَائِنَا فَلَمَّا كُتِبَ عَلَيْهِمُ الْقِتَالُ تَوَلَّوْا إِلَّا قَلِيلًا مِنْهُمْ وَاللَّهُ عَلِيمٌ بِالظَّالِمِينَ",
+      "tafseer_so": "Ka warran kooxdii reer Banii Israa’iil ka tirsanayd markii ay Muuse ka dib Nebi loo soo diray ay ku lahaayeen noo soo bixi [oo noo door] boqor, aan Ilaahay dartii u dagaallannee’ wuxuu yiri ‘ma laga yaabaa haddii dagaal la idin ku waajibiyo in aydaan diririn’ waxay dhaheen ‘oo maxaan Ilaahay dartii ugu dagaallami waayaynaa annaga oo na la ka soo cayrsaday guryahayagii iyo ilmahayagiiba’; markii dagaalkii lagu waajibiyayna in yar mooyee intii kale waa ay ka baxsadeen, Ilaahayna waa uu og yahay daalimiinta"
+    },
+    {
+      "number": 247,
+      "text_ar": "وَقَالَ لَهُمْ نَبِيُّهُمْ إِنَّ اللَّهَ قَدْ بَعَثَ لَكُمْ طَالُوتَ مَلِكًا قَالُوا أَنَّى يَكُونُ لَهُ الْمُلْكُ عَلَيْنَا وَنَحْنُ أَحَقُّ بِالْمُلْكِ مِنْهُ وَلَمْ يُؤْتَ سَعَةً مِنَ الْمَالِ قَالَ إِنَّ اللَّهَ اصْطَفَاهُ عَلَيْكُمْ وَزَادَهُ بَسْطَةً فِي الْعِلْمِ وَالْجِسْمِ وَاللَّهُ يُؤْتِي مُلْكَهُ مَنْ يَشَاءُ وَاللَّهُ وَاسِعٌ عَلِيمٌ",
+      "tafseer_so": "Nebigoodii wuxuu ku yiri ‘Ilaahay wuxuu boqor idiin ka dhigay Daaluud’ waxay dhaheen ‘sidee ayuu boqor noogu noqonayaa annaga ayaaba ka mudan, oo weliba xoolo ma uu haysto’ wuxuu yiri ‘Ilaahay ayaa idiin dooray, wuxuuna Ilaahay u kordhiyay oo uu idin dheer yahay aqoon badni iyo awood jireed, Ilaahayna ciddii uu doono ayuu boqortooyadiisa siinayaa’, Ilaahay waa mid uunkiisa deeqid badan oo ogaal badan"
+    },
+    {
+      "number": 248,
+      "text_ar": "وَقَالَ لَهُمْ نَبِيُّهُمْ إِنَّ آيَةَ مُلْكِهِ أَنْ يَأْتِيَكُمُ التَّابُوتُ فِيهِ سَكِينَةٌ مِنْ رَبِّكُمْ وَبَقِيَّةٌ مِمَّا تَرَكَ آلُ مُوسَى وَآلُ هَارُونَ تَحْمِلُهُ الْمَلَائِكَةُ إِنَّ فِي ذَلِكَ لَآيَةً لَكُمْ إِنْ كُنْتُمْ مُؤْمِنِينَ",
+      "tafseer_so": "Wuxuu Nebigoodu ku yiri ‘calaamadda boqornimadiisu waa in uu idiin keeno sanduuq ay malagyadu sidaan oo ay ku jirto xasilooni xagga Eebbihiin idiin ka timid iyo haraadigii ay ka tageen reer Muuse iyo reer Haaruun, taasina calaamad ayaa ay idiin tahay haddii aad muuminiin tihiin’"
+    },
+    {
+      "number": 249,
+      "text_ar": "فَلَمَّا فَصَلَ طَالُوتُ بِالْجُنُودِ قَالَ إِنَّ اللَّهَ مُبْتَلِيكُمْ بِنَهَرٍ فَمَنْ شَرِبَ مِنْهُ فَلَيْسَ مِنِّي وَمَنْ لَمْ يَطْعَمْهُ فَإِنَّهُ مِنِّي إِلَّا مَنِ اغْتَرَفَ غُرْفَةً بِيَدِهِ فَشَرِبُوا مِنْهُ إِلَّا قَلِيلًا مِنْهُمْ فَلَمَّا جَاوَزَهُ هُوَ وَالَّذِينَ آمَنُوا مَعَهُ قَالُوا لَا طَاقَةَ لَنَا الْيَوْمَ بِجَالُوتَ وَجُنُودِهِ قَالَ الَّذِينَ يَظُنُّونَ أَنَّهُمْ مُلَاقُو اللَّهِ كَمْ مِنْ فِئَةٍ قَلِيلَةٍ غَلَبَتْ فِئَةً كَثِيرَةً بِإِذْنِ اللَّهِ وَاللَّهُ مَعَ الصَّابِرِينَ",
+      "tafseer_so": "Markii uu Daaluud ciidankii la baxay ayaa uu yiri ‘Ilaahay wuxuu idin ku imtixaamayaa webi, kiinnii ka cabbana naga mid ma aha, kii aan quudan [oo aan ka cukanaanna] wuu naga mid yahay marka laga reebo qof hal mar gacanta darsaday’ in yar mooyee intii kale waa ay ka cabbeen, markii ay asaga iyo muuminiintii la socday ay ka gudbeen [webiga] ayay dhaheen ‘maanta wax awood ah uma lihin Jaaluud iyo ciidankiisa’ kuwii filayay in ay Ilaahay la kulmayaan [oo shahiidayaanna] waxay dhaheen ‘badanaa inta koox yar ay Ilaahay idankii kaga adkaatay koox badan, Ilaahayna wuxuu la jiraa kuwa sabra’"
+    },
+    {
+      "number": 250,
+      "text_ar": "وَلَمَّا بَرَزُوا لِجَالُوتَ وَجُنُودِهِ قَالُوا رَبَّنَا أَفْرِغْ عَلَيْنَا صَبْرًا وَثَبِّتْ أَقْدَامَنَا وَانْصُرْنَا عَلَى الْقَوْمِ الْكَافِرِينَ",
+      "tafseer_so": "Markii ay isu soo baxeen Jaaluud iyo ciidankiisii ayay dhaheen ‘Eebboow, sabir nagu qulquli [oo naga buuxi], gummadahayaga sug [oo xasili], duulka gaalada ahna nooga hiili"
+    },
+    {
+      "number": 251,
+      "text_ar": "فَهَزَمُوهُمْ بِإِذْنِ اللَّهِ وَقَتَلَ دَاوُودُ جَالُوتَ وَآتَاهُ اللَّهُ الْمُلْكَ وَالْحِكْمَةَ وَعَلَّمَهُ مِمَّا يَشَاءُ وَلَوْلَا دَفْعُ اللَّهِ النَّاسَ بَعْضَهُمْ بِبَعْضٍ لَفَسَدَتِ الْأَرْضُ وَلَكِنَّ اللَّهَ ذُو فَضْلٍ عَلَى الْعَالَمِينَ",
+      "tafseer_so": "Ilaahay idankii ayaa ay ku jabiyeen, Daa’uudna wuxuu dilay Jaaluud, wuxuuna siiyay boqrtooyo iyo xikmad, wuxuuna baray wixii uu doono; haddii uusan Ilaahay dadka qaarba qaar ku awood tireen, arladu waa ay fasaadi lahayd, laakiin se Ilaahay uunka oo dhan fadli buu ku leeyahay [oo wuu siiyaa galladihiisa]"
+    },
+    {
+      "number": 252,
+      "text_ar": "تِلْكَ آيَاتُ اللَّهِ نَتْلُوهَا عَلَيْكَ بِالْحَقِّ وَإِنَّكَ لَمِنَ الْمُرْسَلِينَ",
+      "tafseer_so": "Taasi waa ayadiihii Ilaahay oo ayaga oo xaq ah ayaan kugu dul akhrinaynaa, waxaad na ka mid tahay ergada [Ilaahay]"
+    },
+    {
+      "number": 253,
+      "text_ar": "تِلْكَ الرُّسُلُ فَضَّلْنَا بَعْضَهُمْ عَلَى بَعْضٍ مِنْهُمْ مَنْ كَلَّمَ اللَّهُ وَرَفَعَ بَعْضَهُمْ دَرَجَاتٍ وَآَتَيْنَا عِيسَى ابْنَ مَرْيَمَ الْبَيِّنَاتِ وَأَيَّدْنَاهُ بِرُوحِ الْقُدُسِ وَلَوْ شَاءَ اللَّهُ مَا اقْتَتَلَ الَّذِينَ مِنْ بَعْدِهِمْ مِنْ بَعْدِ مَا جَاءَتْهُمُ الْبَيِّنَاتُ وَلَكِنِ اخْتَلَفُوا فَمِنْهُمْ مَنْ آَمَنَ وَمِنْهُمْ مَنْ كَفَرَ وَلَوْ شَاءَ اللَّهُ مَا اقْتَتَلُوا وَلَكِنَّ اللَّهَ يَفْعَلُ مَا يُرِيدُ",
+      "tafseer_so": "Eragadaas, qaarkood qaarka kale ayaan ka sarraysiinnay, waxaa ka mid ah mid uu Ilaahay la hadlay, qaarkoodna derajooyin [dheeriya] baan dallacsiinnay, Ciise Maryanna caddaymo ayaan siinnay oo waxaannu ku xoojinnay ruuxda daahirka ah [malag Jibriil], haddii uu Ilaahay dooni lahaana kuwii ka dambeeyay isma aanay laayeen intii ay caddaymuhu u yimaadeen ka dib, laakiin se waa ay iskhilaafeen; waxaa ayaga ku jira mid rumeeyay, waxaana ayaga ka mid ah mid gaaloobay; haddii uu Ilaahay doonana isma aanay laayeen, laakiin se Ilaahay wixii doono ayuu sameeyaa"
+    },
+    {
+      "number": 254,
+      "text_ar": "يَا أَيُّهَا الَّذِينَ آَمَنُوا أَنْفِقُوا مِمَّا رَزَقْنَاكُمْ مِنْ قَبْلِ أَنْ يَأْتِيَ يَوْمٌ لَا بَيْعٌ فِيهِ وَلَا خُلَّةٌ وَلَا شَفَاعَةٌ وَالْكَافِرُونَ هُمُ الظَّالِمُونَ",
+      "tafseer_so": ""
+    },
+    {
+      "number": 255,
+      "text_ar": "اللَّهُ لَا إِلَهَ إِلَّا هُوَ الْحَيُّ الْقَيُّومُ لَا تَأْخُذُهُ سِنَةٌ وَلَا نَوْمٌ لَهُ مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ مَنْ ذَا الَّذِي يَشْفَعُ عِنْدَهُ إِلَّا بِإِذْنِهِ يَعْلَمُ مَا بَيْنَ أَيْدِيهِمْ وَمَا خَلْفَهُمْ وَلَا يُحِيطُونَ بِشَيْءٍ مِنْ عِلْمِهِ إِلَّا بِمَا شَاءَ وَسِعَ كُرْسِيُّهُ السَّمَاوَاتِ وَالْأَرْضَ وَلَا يَئُودُهُ حِفْظُهُمَا وَهُوَ الْعَلِيُّ الْعَظِيمُ",
+      "tafseer_so": "Ilaahay waa Ilaaha asaga mooyee aan xaq lagu caabudin, waa noole uunkiisa arrimahooda maamaula, lulmo iyo hurdo toonna ma ay qabtaan, wuxuu milkisan yahay waxa cirka iyo dhulka ku sugan, kuma ayaa agtiisa ka ergayn kara asaga oo aan u oggolaan, wuxuu og yahay waxa [uunkiisa] ka horreeyay iyo waxa ka dambeeya [ee iman doona], wax uun cilmigiisa ahna ma ay koobi karaan marka laga reebo wixii uu asagu doono [in ay ogaadaan], kursigiisu wuxuu qaadaa cirka iyo dhulka, ilaalintooduna kuma ay cuslan asagu waa sarreeya [oo wax loo dhigo aanay jirin] [waana] weyne [uunkiisa oo dhammi aanay u dhigmi karin]"
+    },
+    {
+      "number": 256,
+      "text_ar": "لَا إِكْرَاهَ فِي الدِّينِ قَدْ تَبَيَّنَ الرُّشْدُ مِنَ الْغَيِّ فَمَنْ يَكْفُرْ بِالطَّاغُوتِ وَيُؤْمِنْ بِاللَّهِ فَقَدِ اسْتَمْسَكَ بِالْعُرْوَةِ الْوُثْقَى لَا انْفِصَامَ لَهَا وَاللَّهُ سَمِيعٌ عَلِيمٌ",
+      "tafseer_so": "Diintu khasbid ma leh, hanuunka iyo baadidu way kala caddaadeen, qofkii daaquudka [sanamyada, sheydaammada i.wm] ku gaalooba ee Ilaahay rumeeya wuxuu ku dhegay mareegtii adkayd [xariggii Ilaahay], wax dhudgo’ ahna ma ay laha, Ilaahay waa maqlid badane ogaal badan"
+    },
+    {
+      "number": 257,
+      "text_ar": "اللَّهُ وَلِيُّ الَّذِينَ آَمَنُوا يُخْرِجُهُمْ مِنَ الظُّلُمَاتِ إِلَى النُّورِ وَالَّذِينَ كَفَرُوا أَوْلِيَاؤُهُمُ الطَّاغُوتُ يُخْرِجُونَهُمْ مِنَ النُّورِ إِلَى الظُّلُمَاتِ أُولَئِكَ أَصْحَابُ النَّارِ هُمْ فِيهَا خَالِدُونَ",
+      "tafseer_so": "Ilaahay waa u gargaaraha kuwa rumeeyay, wuxuuna ka saaraa mugdiga [baaddilka] oo ifka [xaqa] ayuu u saaraa, kuwa gaalada ahna gargaarayaashoodu waa daaquudyada, waxayna ka saaraan nuurka oo waxay u bixiyan mugdiga, kuwaa uun baana ehlu naar ah, ayaga uun baana dhexdeeda ku waaraya"
+    },
+    {
+      "number": 258,
+      "text_ar": "أَلَمْ تَرَ إِلَى الَّذِي حَاجَّ إِبْرَاهِيمَ فِي رَبِّهِ أَنْ آَتَاهُ اللَّهُ الْمُلْكَ إِذْ قَالَ إِبْرَاهِيمُ رَبِّيَ الَّذِي يُحْيِي وَيُمِيتُ قَالَ أَنَا أُحْيِي وَأُمِيتُ قَالَ إِبْرَاهِيمُ فَإِنَّ اللَّهَ يَأْتِي بِالشَّمْسِ مِنَ الْمَشْرِقِ فَأْتِ بِهَا مِنَ الْمَغْرِبِ فَبُهِتَ الَّذِي كَفَرَ وَاللَّهُ لَا يَهْدِي الْقَوْمَ الظَّالِمِينَ",
+      "tafseer_so": "Bal ka warran kii Ibraahim kula dooday Rabbigii[ Rabbinnimadiisa] [sababtuna ahayd] in uu [Eebbe] boqortooyo siiyay [oo uu ku qooqay, waa] kolkii uu Ibraahim ku yiri: Rabbigay waa kan wax nooleeya, waxna dila’ suu ye ‘anba wax baan noolaysiiyaa [oo qofkaan rabaan cafiyaa], waxna waan dilaa [oo kaan doono ayaan dilaa], Ibraahim ayaa [kolkaa] ku yiri: haddaba, Ilaahay qorraxda wuxuu ka keenaa beriga e, bal hadde adiguna galbeed ka keen’ durba wuu wareeray [oo anfariiray] gaalkii, Ilaahayna ma uu hanuuniyo duulka gaalada ah"
+    },
+    {
+      "number": 259,
+      "text_ar": "أَوْ كَالَّذِي مَرَّ عَلَى قَرْيَةٍ وَهِيَ خَاوِيَةٌ عَلَى عُرُوشِهَا قَالَ أَنَّى يُحْيِي هَذِهِ اللَّهُ بَعْدَ مَوْتِهَا فَأَمَاتَهُ اللَّهُ مِئَةَ عَامٍ ثُمَّ بَعَثَهُ قَالَ كَمْ لَبِثْتَ قَالَ لَبِثْتُ يَوْمًا أَوْ بَعْضَ يَوْمٍ قَالَ بَلْ لَبِثْتَ مِئَةَ عَامٍ فَانْظُرْ إِلَى طَعَامِكَ وَشَرَابِكَ لَمْ يَتَسَنَّهْ وَانْظُرْ إِلَى حِمَارِكَ وَلِنَجْعَلَكَ آَيَةً لِلنَّاسِ وَانْظُرْ إِلَى الْعِظَامِ كَيْفَ نُنْشِزُهَا ثُمَّ نَكْسُوهَا لَحْمًا فَلَمَّا تَبَيَّنَ لَهُ قَالَ أَعْلَمُ أَنَّ اللَّهَ عَلَى كُلِّ شَيْءٍ قَدِيرٌ",
+      "tafseer_so": "Ama [ka warran] midkii soo maray tuulo isku soo duntay ee yiri ‘Ilaahay sidee ayuu tan u soo noolaynayaa bacdamaa ay dhimatay’ deetana, Ilaahay baa dilay boqol sannaddood [oo uu meyd ahaa] ka dibna soo nooleeyay, oo ku yiri: immisa ayaad negayd? Wuxuu yiri: waxaan negaa maalin ama maalin qaarkeed’ wuxuu yiri ‘maya e, waxaad negayd boqol sano; bal eeg raashinkaagii iyo cabbitaankaagii oo aan isbeddelin, dameerkaagana eeg; waxaannu sidaa u yeelnay in aan dadka caddayn kaaga dhino; eeg lafaha sida aan isugu ururinayno ee aan hilibka u saarayno’ markii ay u caddaatay ayuu yiri ‘waxaan ogahay in Ilaahay wax walba uu awoodo’"
+    },
+    {
+      "number": 260,
+      "text_ar": "وَإِذْ قَالَ إِبْرَاهِيمُ رَبِّ أَرِنِي كَيْفَ تُحْيِي الْمَوْتَى قَالَ أَوَلَمْ تُؤْمِنْ قَالَ بَلَى وَلَكِنْ لِيَطْمَئِنَّ قَلْبِي قَالَ فَخُذْ أَرْبَعَةً مِنَ الطَّيْرِ فَصُرْهُنَّ إِلَيْكَ ثُمَّ اجْعَلْ عَلَى كُلِّ جَبَلٍ مِنْهُنَّ جُزْءًا ثُمَّ ادْعُهُنَّ يَأْتِينَكَ سَعْيًا وَاعْلَمْ أَنَّ اللَّهَ عَزِيزٌ حَكِيمٌ",
+      "tafseer_so": "[xus] markii uu Ibraahim yiri ‘Eebboow, I tusi sida aad meytida u noolaynaysid’ wuxuu yiri ‘oo miyaadan rumayn’ wuxuu yiri ‘sidaa ma aha e, waan rumeeyay, laakiin se waxaan doonayaa in qalbigu ii dego’ wuxuu yiri ‘afar shimbirood soo qaad oo isku rafaaji, buur kastana qayb ka mid ah saar, deetana u yeer, ayaga oo ordaya bay kuu iman doonaan; ogowna in uu Alle yahay awood badane xikmad badan"
+    },
+    {
+      "number": 261,
+      "text_ar": "مَثَلُ الَّذِينَ يُنْفِقُونَ أَمْوَالَهُمْ فِي سَبِيلِ اللَّهِ كَمَثَلِ حَبَّةٍ أَنْبَتَتْ سَبْعَ سَنَابِلَ فِي كُلِّ سُنْبُلَةٍ مِائَةُ حَبَّةٍ وَاللَّهُ يُضَاعِفُ لِمَنْ يَشَاءُ وَاللَّهُ وَاسِعٌ عَلِيمٌ",
+      "tafseer_so": "Kuwa xoolahooda Ilaahay dartii u bixinaya tusaalahoodu waa sida iniin dhalisay toddobo sabuul, sabuul walbana boqol mirood uu sido, Ilaahayna qofkii uu doono ayuu laallaabaa, Ilaahay waa deeq badane ogaal badan"
+    },
+    {
+      "number": 262,
+      "text_ar": "الَّذِينَ يُنْفِقُونَ أَمْوَالَهُمْ فِي سَبِيلِ اللَّهِ ثُمَّ لَا يُتْبِعُونَ مَا أَنْفَقُوا مَنًّا وَلَا أَذًى لَهُمْ أَجْرُهُمْ عِنْدَ رَبِّهِمْ وَلَا خَوْفٌ عَلَيْهِمْ وَلَا هُمْ يَحْزَنُونَ",
+      "tafseer_so": "Kuwa xoolahooda Ilaahay dartii u bixinaya ee deetana wixii aay bixiyeen aan raacinayna mannasheegad iyo dhib, waxay ajarkooda ku leeyihiin Eebbahood agtiisa, cabsi ma saarna, mana murugoonayaan"
+    },
+    {
+      "number": 263,
+      "text_ar": "قَوْلٌ مَعْرُوفٌ وَمَغْفِرَةٌ خَيْرٌ مِنْ صَدَقَةٍ يَتْبَعُهَا أَذًى وَاللَّهُ غَنِيٌّ حَلِيمٌ",
+      "tafseer_so": "Hadal wanaagsan iyo dhaafidda [cafinta erayada iyo waxyaabaha aan fiicnayn ee tuugsadaha ka dhaca] ayaa ka wanaagsan sadaqo ay dhibi daba socoto, Ilaahyna waa hodan dul badan"
+    },
+    {
+      "number": 264,
+      "text_ar": "يَا أَيُّهَا الَّذِينَ آمَنُوا لَا تُبْطِلُوا صَدَقَاتِكُمْ بِالْمَنِّ وَالْأَذَى كَالَّذِي يُنْفِقُ مَالَهُ رِئَاءَ النَّاسِ وَلَا يُؤْمِنُ بِاللَّهِ وَالْيَوْمِ الْآخِرِ فَمَثَلُهُ كَمَثَلِ صَفْوَانٍ عَلَيْهِ تُرَابٌ فَأَصَابَهُ وَابِلٌ فَتَرَكَهُ صَلْدًا لَا يَقْدِرُونَ عَلَى شَيْءٍ مِمَّا كَسَبُوا وَاللَّهُ لَا يَهْدِي الْقَوْمَ الْكَافِرِينَ",
+      "tafseer_so": "Kuwa Ilaahay rumeeyayoow, sadaqooyinkiinna ha ku burinnina galladsheegad iyo dhib la mid ah sida kan xoolihiisa u bixinaya istustusidda dadka [iyo ha lagaa sheego deeqsinnimo] ee aan rumaysnayn Ilaahay iyo qiyaamaha, kaa tusaalihiisu waa sida sallax [ballaaran]oo ciidi saaran tahay, deetana uu jir ku da’ay oo uu ka tegay [ka hooray] asaga oo sisib ah; wixii ay kasbadeen wax ka mid ah ma awoodaan [oo ma helayaan abaalkiisa], Ilaahayna ma hanuuniyo duulka gaalada ah"
+    },
+    {
+      "number": 265,
+      "text_ar": "وَمَثَلُ الَّذِينَ يُنْفِقُونَ أَمْوَالَهُمُ ابْتِغَاءَ مَرْضَاتِ اللَّهِ وَتَثْبِيتًا مِنْ أَنْفُسِهِمْ كَمَثَلِ جَنَّةٍ بِرَبْوَةٍ أَصَابَهَا وَابِلٌ فَآتَتْ أُكُلَهَا ضِعْفَيْنِ فَإِنْ لَمْ يُصِبْهَا وَابِلٌ فَطَلٌّ وَاللَّهُ بِمَا تَعْمَلُونَ بَصِيرٌ",
+      "tafseer_so": "Kuwa xoolahooda u bixiya raadinta raallinoqoshada Ilaahay iyo sugnaan ay nafahooda [rumaynta ku sugeen] waxay la mid yihiin sida beer ku taalla taagsin oo uu jir culus helay, deetana wixii laga quudan lahaa oo laba laab ah bixisay, haddii uusan jir culus helinna roob yar [baa ku filan], Ilaahay waa uu ujeedaa waxa aad falaysaan"
+    },
+    {
+      "number": 266,
+      "text_ar": "أَيَوَدُّ أَحَدُكُمْ أَنْ تَكُونَ لَهُ جَنَّةٌ مِنْ نَخِيلٍ وَأَعْنَابٍ تَجْرِي مِنْ تَحْتِهَا الْأَنْهَارُ لَهُ فِيهَا مِنْ كُلِّ الثَّمَرَاتِ وَأَصَابَهُ الْكِبَرُ وَلَهُ ذُرِّيَّةٌ ضُعَفَاءُ فَأَصَابَهَا إِعْصَارٌ فِيهِ نَارٌ فَاحْتَرَقَتْ كَذَلِكَ يُبَيِّنُ اللَّهُ لَكُمُ الْآيَاتِ لَعَلَّكُمْ تَتَفَكَّرُونَ",
+      "tafseer_so": "Miyaa uu midkiinna jeclaanayaa in uu yeesho beer timir iyo cinab ah oo ay hoosteeda webiyo dureerayaan, nooc walba oo mira ahna ay uga baxeen, oo ay duqnimo taabatay, carruur tabaryarna haysta oo ay deetana duufaan dab ah ay qabsato oo ay gubato, sidaa ayuu Ilaahay idiin ku caddaynayaa caddaymaha, laga yaabee in aad fekertaan"
+    },
+    {
+      "number": 267,
+      "text_ar": "يَا أَيُّهَا الَّذِينَ آمَنُوا أَنْفِقُوا مِنْ طَيِّبَاتِ مَا كَسَبْتُمْ وَمِمَّا أَخْرَجْنَا لَكُمْ مِنَ الْأَرْضِ وَلَا تَيَمَّمُوا الْخَبِيثَ مِنْهُ تُنْفِقُونَ وَلَسْتُمْ بِآخِذِيهِ إِلَّا أَنْ تُغْمِضُوا فِيهِ وَاعْلَمُوا أَنَّ اللَّهَ غَنِيٌّ حَمِيدٌ",
+      "tafseer_so": "Kuwa Ilaahay rumeeyayoow, wax ka bixiya wixii aad shaqaysateen ee xalaasha ah iyo wixii aan dhulka idiin kaga soo saarno, ha na u kasinnina bixinta waxa liita ee idinka oo indhaha isku haysta mooyee aydaan si kale ku qaadateen; ogaadana, Ilaahay in uu yahay hodan mahdin badan"
+    },
+    {
+      "number": 268,
+      "text_ar": "الشَّيْطَانُ يَعِدُكُمُ الْفَقْرَ وَيَأْمُرُكُمْ بِالْفَحْشَاءِ وَاللَّهُ يَعِدُكُمْ مَغْفِرَةً مِنْهُ وَفَضْلًا وَاللَّهُ وَاسِعٌ عَلِيمٌ",
+      "tafseer_so": "Sheydaanku wuxuu idiin ku yaboohayaa faqri, wuxuuna idin farayaa foolxumo, Ilaahayna wuxuu idiin ballanqaadayaa dambidhaafkiisa iyo dheeraad, Ilaahay waa deeq badane ogaal badan"
+    },
+    {
+      "number": 269,
+      "text_ar": "يُؤْتِي الْحِكْمَةَ مَنْ يَشَاءُ وَمَنْ يُؤْتَ الْحِكْمَةَ فَقَدْ أُوتِيَ خَيْرًا كَثِيرًا وَمَا يَذَّكَّرُ إِلَّا أُولُو الْأَلْبَابِ",
+      "tafseer_so": "Ciddii uu doono ayuu murtida siiyaa, qofkii murti la siiyana waxaa la siiyay wanaag badan, waxgaradka mooyee cid kale waansami mayso"
+    },
+    {
+      "number": 270,
+      "text_ar": "وَمَا أَنْفَقْتُمْ مِنْ نَفَقَةٍ أَوْ نَذَرْتُمْ مِنْ نَذْرٍ فَإِنَّ اللَّهَ يَعْلَمُهُ وَمَا لِلظَّالِمِينَ مِنْ أَنْصَارٍ",
+      "tafseer_so": "Wixii wax bixin ah ee aad bixisaan ama wixii nadar aad ku nadartaan, hadde Ilaahay wuu og yahay, daalimiintuna cid u hiilisa ma leh"
+    },
+    {
+      "number": 271,
+      "text_ar": "إِنْ تُبْدُوا الصَّدَقَاتِ فَنِعِمَّا هِيَ وَإِنْ تُخْفُوهَا وَتُؤْتُوهَا الْفُقَرَاءَ فَهُوَ خَيْرٌ لَكُمْ وَيُكَفِّرُ عَنْكُمْ مِنْ سَيِّئَاتِكُمْ وَاللَّهُ بِمَا تَعْمَلُونَ خَبِيرٌ",
+      "tafseer_so": "Haddii aad sadaqada muujisaan, hadde waa wax wanaagsan, haddii aad qarisaan oo aad fuqarada siisaanna, hadde ayadaa idiin wacan, wuxuuna [Eebbe] idiin dhaafayaa xumaantiinna, Ilaahayna waxa aad samaynaysaan waa u xogogaal"
+    },
+    {
+      "number": 272,
+      "text_ar": "لَيْسَ عَلَيْكَ هُدَاهُمْ وَلَكِنَّ اللَّهَ يَهْدِي مَنْ يَشَاءُ وَمَا تُنْفِقُوا مِنْ خَيْرٍ فَلِأَنْفُسِكُمْ وَمَا تُنْفِقُونَ إِلَّا ابْتِغَاءَ وَجْهِ اللَّهِ وَمَا تُنْفِقُوا مِنْ خَيْرٍ يُوَفَّ إِلَيْكُمْ وَأَنْتُمْ لَا تُظْلَمُونَ",
+      "tafseer_so": "Hanuunintoodu dushaada ma saarna, laakiin se Ilaahay ayaa hanuuniya ciddii uu doono, wixii aad xoolo bixina hadde nafihiinna ayaa iska leh, waxna u bixin maysaan [ha u bixinnina] Ilaahay dartii mooyaane, wixii aad xoolo bixisaanna waa la idiin oofinayaa idinka oo aan waxba la idin ka dulmin [nusqaamin]"
+    },
+    {
+      "number": 273,
+      "text_ar": "لِلْفُقَرَاءِ الَّذِينَ أُحْصِرُوا فِي سَبِيلِ اللَّهِ لَا يَسْتَطِيعُونَ ضَرْبًا فِي الْأَرْضِ يَحْسَبُهُمُ الْجَاهِلُ أَغْنِيَاءَ مِنَ التَّعَفُّفِ تَعْرِفُهُمْ بِسِيمَاهُمْ لَا يَسْأَلُونَ النَّاسَ إِلْحَافًا وَمَا تُنْفِقُوا مِنْ خَيْرٍ فَإِنَّ اللَّهَ بِهِ عَلِيمٌ",
+      "tafseer_so": ""
+    },
+    {
+      "number": 274,
+      "text_ar": "الَّذِينَ يُنْفِقُونَ أَمْوَالَهُمْ بِاللَّيْلِ وَالنَّهَارِ سِرًّا وَعَلَانِيَةً فَلَهُمْ أَجْرُهُمْ عِنْدَ رَبِّهِمْ وَلَا خَوْفٌ عَلَيْهِمْ وَلَا هُمْ يَحْزَنُونَ",
+      "tafseer_so": "Kuwa xoolahooda bixinaya har iyo habeen, si muuqata iyo si qarsoonba, waxay Ilaahay agtiisa ku leeyihiin ajar, cabsina duudkooda ma saarna, mana murugoonayaan"
+    },
+    {
+      "number": 275,
+      "text_ar": "الَّذِينَ يَأْكُلُونَ الرِّبَا لَا يَقُومُونَ إِلَّا كَمَا يَقُومُ الَّذِي يَتَخَبَّطُهُ الشَّيْطَانُ مِنَ الْمَسِّ ذَلِكَ بِأَنَّهُمْ قَالُوا إِنَّمَا الْبَيْعُ مِثْلُ الرِّبَا وَأَحَلَّ اللَّهُ الْبَيْعَ وَحَرَّمَ الرِّبَا فَمَنْ جَاءَهُ مَوْعِظَةٌ مِنْ رَبِّهِ فَانْتَهَى فَلَهُ مَا سَلَفَ وَأَمْرُهُ إِلَى اللَّهِ وَمَنْ عَادَ فَأُولَئِكَ أَصْحَابُ النَّارِ هُمْ فِيهَا خَالِدُونَ",
+      "tafseer_so": "Kuwa ribada cunaya [qiyaamaha] uma kacaan [oo qabrida uga ma soo baxaan] si aan ka ahayn sida uu u kaco kan shaydaanku daandaamiyay ee uu waalay, sababtuna waa in ay dhaheen ‘iibku waa sida ribada oo kale [waa uun lacag lacag dhashayye]’ Ilaahay iibka waa uu xalaaleeyay, ribadana waa uu xaaraameeyay, qofkii Eebbe xaggiisa ay waano uga timaaddo ee waantooba, wuxuu leeyahay wixii uu hormarsaday, arrinkiisuna Ilaahay buu u yaalla, qofkii dib u gurtana, hadde kuwaasi waa ehlu naar, ayaga uun baana dhexdeeda ku waaraya"
+    },
+    {
+      "number": 276,
+      "text_ar": "يَمْحَقُ اللَّهُ الرِّبَا وَيُرْبِي الصَّدَقَاتِ وَاللَّهُ لَا يُحِبُّ كُلَّ كَفَّارٍ أَثِيمٍ",
+      "tafseer_so": "Ilaahay wuu baabbi’yaa ribada, sadaqadana waa uu badiyaa, Ilaahayna ma jecla kuwalba ee gaaloobid badan ee dambi badan"
+    },
+    {
+      "number": 277,
+      "text_ar": "إِنَّ الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ وَأَقَامُوا الصَّلَاةَ وَآتَوُا الزَّكَاةَ لَهُمْ أَجْرُهُمْ عِنْدَ رَبِّهِمْ وَلَا خَوْفٌ عَلَيْهِمْ وَلَا هُمْ يَحْزَنُونَ",
+      "tafseer_so": "Kuwa Ilaahay rumeeyay ee wax san falaya, salaada oogaya, sakadana bixinaya, waxay Ilaahay agtiisa ku leeyihiin ajarkooda, cabsi duudkooda ma ay saarna, mana murugoonayaan"
+    },
+    {
+      "number": 278,
+      "text_ar": "يَا أَيُّهَا الَّذِينَ آمَنُوا اتَّقُوا اللَّهَ وَذَرُوا مَا بَقِيَ مِنَ الرِّبَا إِنْ كُنْتُمْ مُؤْمِنِينَ",
+      "tafseer_so": ""
+    },
+    {
+      "number": 279,
+      "text_ar": "Kuwa Ilaahay rumeeyayoow, Ilaahay ka yaaba, isagana taga haraadiga ribada, waa haddii aad muuminiin tihiin",
+      "tafseer_so": ""
+    },
+    {
+      "number": 280,
+      "text_ar": "وَإِنْ كَانَ ذُو عُسْرَةٍ فَنَظِرَةٌ إِلَى مَيْسَرَةٍ وَأَنْ تَصَدَّقُوا خَيْرٌ لَكُمْ إِنْ كُنْتُمْ تَعْلَمُونَ",
+      "tafseer_so": "Haddii [daymaysanuhu] uu faqiir yahay waxaad sugaysaan jeer uu hodmo, in aad sadaqaysataan [oo aad cafisaan] ayaana idiin wanaagsan haddii aad og tihiin"
+    },
+    {
+      "number": 281,
+      "text_ar": "وَاتَّقُوا يَوْمًا تُرْجَعُونَ فِيهِ إِلَى اللَّهِ ثُمَّ تُوَفَّى كُلُّ نَفْسٍ مَا كَسَبَتْ وَهُمْ لَا يُظْلَمُونَ",
+      "tafseer_so": "Waxaad ka cabsataan maalin Ilaahay xaggiisa la idiin celinayo, deetana naf walba loo oofinayo wixii ay kasbatay ayaga oo aan laga dulminayn [ajarkooda la dhimayn ]"
+    },
+    {
+      "number": 282,
+      "text_ar": "يَا أَيُّهَا الَّذِينَ آمَنُوا إِذَا تَدَايَنْتُمْ بِدَيْنٍ إِلَى أَجَلٍ مُسَمًّى فَاكْتُبُوهُ وَلْيَكْتُبْ بَيْنَكُمْ كَاتِبٌ بِالْعَدْلِ وَلَا يَأْبَ كَاتِبٌ أَنْ يَكْتُبَ كَمَا عَلَّمَهُ اللَّهُ فَلْيَكْتُبْ وَلْيُمْلِلِ الَّذِي عَلَيْهِ الْحَقُّ وَلْيَتَّقِ اللَّهَ رَبَّهُ وَلَا يَبْخَسْ مِنْهُ شَيْئًا فَإِنْ كَانَ الَّذِي عَلَيْهِ الْحَقُّ سَفِيهًا أَوْ ضَعِيفًا أَوْ لَا يَسْتَطِيعُ أَنْ يُمِلَّ هُوَ فَلْيُمْلِلْ وَلِيُّهُ بِالْعَدْلِ وَاسْتَشْهِدُوا شَهِيدَيْنِ مِنْ رِجَالِكُمْ فَإِنْ لَمْ يَكُونَا رَجُلَيْنِ فَرَجُلٌ وَامْرَأَتَانِ مِمَّنْ تَرْضَوْنَ مِنَ الشُّهَدَاءِ أَنْ تَضِلَّ إِحْدَاهُمَا فَتُذَكِّرَ إِحْدَاهُمَا الْأُخْرَى وَلَا يَأْبَ الشُّهَدَاءُ إِذَا مَا دُعُوا وَلَا تَسْأَمُوا أَنْ تَكْتُبُوهُ صَغِيرًا أَوْ كَبِيرًا إِلَى أَجَلِهِ ذَلِكُمْ أَقْسَطُ عِنْدَ اللَّهِ وَأَقْوَمُ لِلشَّهَادَةِ وَأَدْنَى أَلَّا تَرْتَابُوا إِلَّا أَنْ تَكُونَ تِجَارَةً حَاضِرَةً تُدِيرُونَهَا بَيْنَكُمْ فَلَيْسَ عَلَيْكُمْ جُنَاحٌ أَلَّا تَكْتُبُوهَا وَأَشْهِدُوا إِذَا تَبَايَعْتُمْ وَلَا يُضَارَّ كَاتِبٌ وَلَا شَهِيدٌ وَإِنْ تَفْعَلُوا فَإِنَّهُ فُسُوقٌ بِكُمْ وَاتَّقُوا اللَّهَ وَيُعَلِّمُكُمُ اللَّهُ وَاللَّهُ بِكُلِّ شَيْءٍ عَلِيمٌ",
+      "tafseer_so": ""
+    },
+    {
+      "number": 283,
+      "text_ar": "وَإِنْ كُنْتُمْ عَلَى سَفَرٍ وَلَمْ تَجِدُوا كَاتِبًا فَرِهَانٌ مَقْبُوضَةٌ فَإِنْ أَمِنَ بَعْضُكُمْ بَعْضًا فَلْيُؤَدِّ الَّذِي اؤْتُمِنَ أَمَانَتَهُ وَلْيَتَّقِ اللَّهَ رَبَّهُ وَلَا تَكْتُمُوا الشَّهَادَةَ وَمَنْ يَكْتُمْهَا فَإِنَّهُ آثِمٌ قَلْبُهُ وَاللَّهُ بِمَا تَعْمَلُونَ عَلِيمٌ",
+      "tafseer_so": "Haddii aad safar tihiin, cid wax idiin qortana ayadaan helin, hadde rahmad la kala qaato dhigta, haddii aad is aammintaanna, hadde kii la aamminay ha guto ammanadiisa, Ilaahayna ha ka baqo; markhaatiga ha qarinnina, qofkii qariyana qalbigiisa ayaa dambaabaya, Ilaahayna waxa aad falaysaan wuu og yahay"
+    },
+    {
+      "number": 284,
+      "text_ar": "لِلَّهِ مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ وَإِنْ تُبْدُوا مَا فِي أَنْفُسِكُمْ أَوْ تُخْفُوهُ يُحَاسِبْكُمْ بِهِ اللَّهُ فَيَغْفِرُ لِمَنْ يَشَاءُ وَيُعَذِّبُ مَنْ يَشَاءُ وَاللَّهُ عَلَى كُلِّ شَيْءٍ قَدِيرٌ",
+      "tafseer_so": "Ilaahay ayaa milkisan waxa cirka ku sugan iyo waxa dhulka ku dhaqan, haddii aad muujisaan wixii nafihiinna ku jira ama aad qarisaanna Ilaahay ayaa idin kala xisaabtamaya, ciddii uu doono ayuu u dhaaafayaa, ciddii uu doonana waa uu cadaabayaa, Ilaahay wax walba waa uu awoodaa"
+    },
+    {
+      "number": 285,
+      "text_ar": "آمَنَ الرَّسُولُ بِمَا أُنْزِلَ إِلَيْهِ مِنْ رَبِّهِ وَالْمُؤْمِنُونَ كُلٌّ آمَنَ بِاللَّهِ وَمَلَائِكَتِهِ وَكُتُبِهِ وَرُسُلِهِ لَا نُفَرِّقُ بَيْنَ أَحَدٍ مِنْ رُسُلِهِ وَقَالُوا سَمِعْنَا وَأَطَعْنَا غُفْرَانَكَ رَبَّنَا وَإِلَيْكَ الْمَصِيرُ",
+      "tafseer_so": "Rasuulku wuxuu rumeeyay wixii Ilaahay xaggiisa looga soo dejiyay, muuminiintana wuxuu mid walba rumeeyay: Ilaahay, malagyadiisa, kutubtiisa, iyo ergadiisa; [waxay leeyihiin] ‘ma kala soocayno cid ergadiisa ka mid ah’ waxay dhaheen ‘waannu maqalnay oo addeecanay, dambidhaafkaaga baannuna Eebbow ku [weydiisannay], xaggaaga uun baana u soo laabanaynaa"
+    },
+    {
+      "number": 286,
+      "text_ar": "لَا يُكَلِّفُ اللَّهُ نَفْسًا إِلَّا وُسْعَهَا لَهَا مَا كَسَبَتْ وَعَلَيْهَا مَا اكْتَسَبَتْ رَبَّنَا لَا تُؤَاخِذْنَا إِنْ نَسِينَا أَوْ أَخْطَأْنَا رَبَّنَا وَلَا تَحْمِلْ عَلَيْنَا إِصْرًا كَمَا حَمَلْتَهُ عَلَى الَّذِينَ مِنْ قَبْلِنَا رَبَّنَا وَلَا تُحَمِّلْنَا مَا لَا طَاقَةَ لَنَا بِهِ وَاعْفُ عَنَّا وَاغْفِرْ لَنَا وَارْحَمْنَا أَنْتَ مَوْلَانَا فَانْصُرْنَا عَلَى الْقَوْمِ الْكَافِرِينَ",
+      "tafseer_so": "Ilaahay nafna kuma kallifo wax ka badan taagteeda, waxay leedahay [abaalmarinta] wixii ay shaqaysato, waxaana korkeeda ah [ciqaabta] wixii aykasbato, Eebboow, ha noo qaban haddii aan illowno ama aan gefno, Eebboow, ha na xambaarin culays sidii aad kuwii naga horreeyay u xambaarisay oo kale [sida reer Banii Israa’iilkii la yiri isdila], Rabbiyoow, duudka ha noo saarin wax aannaan awoodin, na cafi, noo dambidhaaf, noona naxariiso, waxaad tahay gargaarahayaga e, noogaga hiili duulka gaalada ah"
+    }
+  ]
+}
