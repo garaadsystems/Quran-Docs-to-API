@@ -44,3 +44,4 @@ venv.bak/
 
 # Project specific
 surah_json/
+rename_json.py

@@ -36,10 +36,10 @@ export async function fetchSurahDetail(
  * Returns null if the surah JSON has not yet been uploaded.
  */
 export async function fetchSomaliTafseer(
-    surahKey: string
+    surahId: string | number
 ): Promise<SomaliSurahData | null> {
     try {
-        const res = await fetch(`${TAFSEER_BASE}/surah/${encodeURIComponent(surahKey)}`);
+        const res = await fetch(`${TAFSEER_BASE}/api/surahs/${encodeURIComponent(String(surahId))}`);
         if (res.status === 404) return null;
         if (!res.ok) throw new Error("Failed to fetch tafseer");
         return await res.json();
