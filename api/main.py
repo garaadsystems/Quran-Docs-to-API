@@ -65,9 +65,14 @@ app = FastAPI(
     version="1.0.0"
 )
 
+# Frontend URL configuration from environment variables
+# Combine specific frontend URL with wildcard for local development testing
+frontend_url = os.getenv("FRONTEND_URL", "http://localhost:3000")
+allowed_origins = [frontend_url, "http://localhost:3000", "https://quran-docs-to-api.vercel.app"]
+
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["*"],  # Adjust this in production
+    allow_origins=allowed_origins,
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],

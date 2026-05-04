@@ -1,11 +1,11 @@
 "use client";
 
-import { AlQuranAyah } from "@/types/quran";
+import { SomaliAyah } from "@/types/quran";
 
 const PER_PAGE = 10;
 
 interface ArabicPanelProps {
-    ayahs: AlQuranAyah[];
+    ayahs: SomaliAyah[];
     activeAyah: number;
     onAyahClick: (n: number) => void;
     isLoading: boolean;
@@ -48,17 +48,22 @@ export default function ArabicPanel({
                         ))}
                     </div>
                 ) : (
-                    <p className="qfont fin" style={{ fontSize: "clamp(1.35rem, 2.5vw, 1.75rem)" }} dir="rtl">
+                    <p className="qfont fin" style={{ fontSize: "clamp(1.35rem, 2.5vw, 1.75rem)", lineHeight: 2.5 }} dir="rtl">
                         {slice.map((a) => (
-                            <span key={a.numberInSurah}>
-                                {a.text}
+                            <span
+                                key={a.number}
+                                className={`ayah-text${a.number === activeAyah ? " active" : ""}`}
+                            >
+                                <span onClick={() => onAyahClick(a.number)} style={{ cursor: "pointer" }}>
+                                    {a.text_ar || "‎"}
+                                </span>
                                 {" "}
                                 <span
-                                    className={`ayah-num${a.numberInSurah === activeAyah ? " sel" : ""}`}
-                                    onClick={() => onAyahClick(a.numberInSurah)}
-                                    title={`Ayah ${a.numberInSurah}`}
+                                    className={`ayah-num${a.number === activeAyah ? " sel" : ""}`}
+                                    onClick={() => onAyahClick(a.number)}
+                                    title={`Ayah ${a.number}`}
                                 >
-                                    {a.numberInSurah}
+                                    {a.number}
                                 </span>
                                 {" "}
                             </span>

@@ -1,9 +1,9 @@
 "use client";
 
-import { AlQuranSurah } from "@/types/quran";
+import { SurahMeta } from "@/types/quran";
 
 interface NavbarProps {
-    surahs: AlQuranSurah[];
+    surahs: SurahMeta[];
     selectedSurahNumber: number;
     selectedAyah: number;
     ayahCount: number;
@@ -60,7 +60,7 @@ export default function Navbar({
                 </div>
                 <div>
                     <div style={{ fontFamily: "Cairo, sans-serif", fontWeight: 700, fontSize: 15, color: "#7b1f32", lineHeight: 1.1 }}>
-                        Gaaraad
+                        Tafsiir.so
                     </div>
                     <div style={{ fontFamily: "Cairo, sans-serif", fontSize: 10, color: "#888", lineHeight: 1 }}>
                         تفسير القرآن الكريم
@@ -112,8 +112,8 @@ export default function Navbar({
                             <option>Waa la raraa…</option>
                         ) : (
                             surahs.map((s) => (
-                                <option key={s.number} value={s.number}>
-                                    {s.number}. {s.name}
+                                <option key={s.id ?? s.name_en} value={s.id ?? 0}>
+                                    {(s.id ?? "-")}. {s.name_ar}
                                 </option>
                             ))
                         )}

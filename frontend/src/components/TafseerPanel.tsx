@@ -132,7 +132,7 @@ export default function TafseerPanel({
                                     paddingTop: 24,
                                 }}
                             >
-                                Nuxurka aayada {ayahNumber} weli lama gelin. <br />
+                                Tafsiirka aayadda {ayahNumber} weli lama soo gelin. <br />
                                 <span style={{ fontSize: 12, color: "#aaa" }}>
                                     Tafseer for this ayah has not been added yet.
                                 </span>
