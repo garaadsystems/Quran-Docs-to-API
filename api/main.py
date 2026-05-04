@@ -19,6 +19,7 @@ load_dotenv()
 
 from fastapi import FastAPI, UploadFile, File, HTTPException
 from fastapi.responses import JSONResponse
+from fastapi.middleware.cors import CORSMiddleware
 
 import docx
 
@@ -59,10 +60,67 @@ TAFSEER_SOURCE = {
 }
 
 app = FastAPI(
-    title="Quran Tafseer (KSU-style) API (No OpenAI)",
-    description="Upload a surah .docx tafseer file and get one KSU-style JSON per surah. OpenAI usage removed; extraction is heuristic-based.",
+    title="Quran Tafseer (KSU-style) API",
+    description="Upload a surah .docx tafseer file and get one KSU-style JSON per surah. Also serves data from MongoDB.",
     version="1.0.0"
 )
+
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=["*"],  # Adjust this in production
+    allow_credentials=True,
+    allow_methods=["*"],
+    allow_headers=["*"],
+)
+
+from database import connect_to_mongo, close_mongo_connection, get_db
+
+@app.on_event("startup")
+async def startup_db_client():
+    connect_to_mongo()
+
+@app.on_event("shutdown")
+async def shutdown_db_client():
+    close_mongo_connection()
+
+@app.get("/api/surahs/{identifier}")
+async def get_surah_db(identifier: str):
+    db = get_db()
+    
+    surah_doc = None
+    
+    if identifier.isdigit():
+        surah_doc = await db["surahs"].find_one({"surah.id": int(identifier)})
+        
+    if not surah_doc:
+        # Try full string match or regex matching for names
+        surah_doc = await db["surahs"].find_one({
+            "$or": [
+                {"surah.id": identifier},
+                {"surah.name_en": {"$regex": f"^{identifier}$", "$options": "i"}},
+                {"surah.name_ar": {"$regex": f"^{identifier}$", "$options": "i"}},
+                {"surah.name_so": {"$regex": f".*{identifier}.*", "$options": "i"}},
+                {"surah.name_en": {"$regex": f".*{identifier}.*", "$options": "i"}}
+            ]
+        })
+
+    if not surah_doc:
+        raise HTTPException(status_code=404, detail="Surah not found in database")
+    
+    # Remove the MongoDB internal _id before returning
+    surah_doc.pop("_id", None)
+    return JSONResponse(content=surah_doc)
+
+@app.get("/api/surahs")
+async def list_surahs():
+    db = get_db()
+    # Return minimal metadata for all surahs to build the UI dropdown
+    cursor = db["surahs"].find({}, {"surah": 1})
+    surahs = []
+    async for doc in cursor:
+        surahs.append(doc.get("surah"))
+    return JSONResponse(content={"surahs": surahs})
+
 
 # -----------------------------
 # HELPERS
