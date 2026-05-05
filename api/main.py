@@ -17,11 +17,21 @@ from typing import List, Dict, Any
 from dotenv import load_dotenv
 load_dotenv()
 
-from fastapi import FastAPI, UploadFile, File, HTTPException
+from fastapi import FastAPI, UploadFile, File, HTTPException, BackgroundTasks
 from fastapi.responses import JSONResponse
 from fastapi.middleware.cors import CORSMiddleware
+import asyncio
 
 import docx
+from pydantic import BaseModel
+from google import genai
+from google.genai import types
+
+import logging
+
+# Set up logging for debugging
+logging.basicConfig(level=logging.INFO)
+logger = logging.getLogger(__name__)
 
 # -----------------------------
 # CONFIG
@@ -139,17 +149,21 @@ def extract_text_from_docx(path: Path) -> str:
 
 
 def split_into_chunks(text: str, max_chars: int = 6000) -> List[str]:
-    lines = text.split("\n")
+    # Split by double newline first to maintain paragraph/verse structures, fallback to single newline
+    paragraphs = text.split("\n\n")
+    if not paragraphs or len(paragraphs) == 1:
+        paragraphs = text.split("\n")
+        
     chunks, current, length = [], [], 0
-    for line in lines:
-        if length + len(line) + 1 > max_chars and current:
-            chunks.append("\n".join(current))
-            current, length = [line], len(line) + 1
+    for p in paragraphs:
+        if length + len(p) + 2 > max_chars and current:
+            chunks.append("\n\n".join(current))
+            current, length = [p], len(p) + 2
         else:
-            current.append(line)
-            length += len(line) + 1
+            current.append(p)
+            length += len(p) + 2
     if current:
-        chunks.append("\n".join(current))
+        chunks.append("\n\n".join(current))
     return chunks
 
 
@@ -157,48 +171,74 @@ def contains_arabic(s: str) -> bool:
     return bool(re.search(r'[\u0600-\u06FF]', s))
 
 
-def parse_ayahs_from_chunk(chunk: str) -> List[Dict[str, Any]]:
+class AyahExtraction(BaseModel):
+    number: int
+    arabic: str
+    somali: str
+
+class ChunkExtractionResult(BaseModel):
+    ayahs: List[AyahExtraction]
+
+import time
+
+async def parse_ayahs_with_llm_async(chunk: str, semaphore: asyncio.Semaphore) -> List[Dict[str, Any]]:
     """
-    Heuristic parser to extract ayahs and tafseer from a text chunk.
-    Looks for markers like (1), (01), (200) and splits content by them.
-    Attempts to detect the Arabic ayah line (by presence of Arabic letters).
-    The remaining text in the ayah block is treated as Somali tafseer.
+    Intelligent parser using Gemini Structured Outputs to extract ayahs and tafseer (Async Version).
     """
-    pattern = re.compile(r'\(?0*(\d{1,3})\)')  # captures ayah number
-    matches = list(pattern.finditer(chunk))
-    if not matches:
+    if not chunk.strip():
         return []
 
-    ayahs = []
-    for i, m in enumerate(matches):
-        num = int(m.group(1))
-        start = m.end()
-        end = matches[i + 1].start() if i + 1 < len(matches) else len(chunk)
-        block = chunk[start:end].strip()
-        if not block:
-            continue
+    # Use the gemini client
+    client = genai.Client()
 
-        # Split block into lines and try to find arabic line
-        lines = [ln.strip() for ln in block.splitlines() if ln.strip()]
-        arabic = ""
-        somali_lines: List[str] = []
+    sys_prompt = """
+    You are an expert Quranic text extraction tool processing a Tafseer Word Document.
+    I will provide a chunk of text. Extract every single ayah.
+    
+    RULES:
+    1. NEVER rewrite, summarize, or alter any text. Extract exact source wording.
+    2. Extract verse numbers (usually found in parentheses like (1), (02)) as integers.
+    3. 'arabic' field: Must only contain the original Arabic Uthmani script text.
+    4. 'somali' field: Must only contain the Somali text acting as translation/tafseer. If there is NO Somali translation for an ayah in the text, return an empty string "".
+    """
 
-        if lines:
-            # prefer first line containing Arabic
-            for idx, ln in enumerate(lines):
-                if contains_arabic(ln):
-                    arabic = ln
-                    somali_lines = lines[idx + 1 :]
-                    break
-            else:
-                # no explicit Arabic line found: assume first line is Arabic-like
-                arabic = lines[0]
-                somali_lines = lines[1:]
-
-        somali = " ".join(somali_lines).strip()
-        ayahs.append({"number": num, "arabic": arabic, "somali": somali})
-
-    return ayahs
+    max_retries = 5
+    base_delay = 5
+    
+    async with semaphore:
+        for attempt in range(max_retries):
+            try:
+                # Use the asynchronous client embedded in google-genai SDK
+                response = await client.aio.models.generate_content(
+                    model='gemini-2.5-flash',
+                    contents=chunk,
+                    config=types.GenerateContentConfig(
+                        system_instruction=sys_prompt,
+                        response_mime_type="application/json",
+                        response_schema=ChunkExtractionResult,
+                        temperature=0.0
+                    ),
+                )
+                
+                extracted_data = json.loads(response.text)
+                
+                return [
+                    {
+                        "number": a["number"], 
+                        "arabic": a["arabic"], 
+                        "somali": a["somali"]
+                    } 
+                    for a in extracted_data.get("ayahs", [])
+                ]
+            except Exception as e:
+                logger.error(f"Gemini Extraction failed for chunk (attempt {attempt+1}/{max_retries}): {e}")
+                if attempt < max_retries - 1:
+                    sleep_time = base_delay * (2 ** attempt)
+                    logger.info(f"Retrying in {sleep_time} seconds...")
+                    await asyncio.sleep(sleep_time)
+                else:
+                    logger.error(f"Max retries reached. Failing chunk.")
+                    return []
 
 
 def merge_ayahs(ayahs: List[Dict[str, Any]]) -> List[Dict[str, Any]]:
@@ -214,26 +254,46 @@ def merge_ayahs(ayahs: List[Dict[str, Any]]) -> List[Dict[str, Any]]:
 # -----------------------------
 
 
-@app.post("/upload-surah")
-async def upload_surah(file: UploadFile = File(...)):
-    if not file.filename.endswith(".docx"):
-        raise HTTPException(status_code=400, detail="File must be a .docx Word document")
+JOBS: Dict[str, Dict[str, Any]] = {}
 
-    temp_path = Path(f"temp_{uuid.uuid4()}.docx")
-    with open(temp_path, "wb") as f:
-        f.write(await file.read())
-
+async def process_docx_background(job_id: str, temp_path: Path, filename: str):
+    """
+    Background worker that extracts async, safely concurrent, and stores into MongoDB.
+    """
     try:
+        JOBS[job_id]["status"] = "extracting_text"
         text = extract_text_from_docx(temp_path)
         chunks = split_into_chunks(text)
-
+        
+        JOBS[job_id]["status"] = "processing_llm"
+        JOBS[job_id]["total_chunks"] = len(chunks)
+        JOBS[job_id]["processed_chunks"] = 0
+        
         all_ayahs: List[Dict[str, Any]] = []
-        for chunk in chunks:
-            all_ayahs.extend(parse_ayahs_from_chunk(chunk))
+        
+        # Max 2 concurrent requests to protect Gemini 15 RPM free-tier limit smoothly
+        semaphore = asyncio.Semaphore(2)
+        
+        async def process_and_update(chunk):
+            try:
+                res = await parse_ayahs_with_llm_async(chunk, semaphore)
+                JOBS[job_id]["processed_chunks"] += 1
+                return res
+            except Exception as e:
+                logger.error(f"Error processing chunk: {e}")
+                return []
 
+        logger.info(f"Job {job_id}: Processing {len(chunks)} chunks concurrently...")
+        tasks = [process_and_update(chunk) for chunk in chunks]
+        results = await asyncio.gather(*tasks)
+        
+        for r in results:
+            all_ayahs.extend(r)
+
+        logger.info(f"Job {job_id}: Merging {len(all_ayahs)} ayahs...")
         merged = merge_ayahs(all_ayahs)
 
-        surah_key = file.filename.replace(".docx", "")
+        surah_key = filename.replace(".docx", "")
         surah_meta = SURAH_REGISTRY.get(surah_key, {
             "id": None,
             "name_ar": surah_key,
@@ -243,7 +303,7 @@ async def upload_surah(file: UploadFile = File(...)):
             "ayah_count": len(merged)
         })
 
-        result = {
+        result_doc = {
             "surah": surah_meta,
             "tafseer_source": TAFSEER_SOURCE,
             "ayahs": [
@@ -255,16 +315,74 @@ async def upload_surah(file: UploadFile = File(...)):
                 for a in merged
             ]
         }
-
+        
+        JOBS[job_id]["status"] = "saving_db"
+        logger.info(f"Job {job_id}: Saving directly to MongoDB...")
+        
+        db = get_db()
+        # Delete any existing entries for this Surah based on name_ar to avoid duplicates
+        await db["surahs"].delete_one({"surah.name_ar": surah_meta["name_ar"]})
+        await db["surahs"].insert_one(dict(result_doc))
+        
+        # Optionally fallback to write local JSON 
         out_path = OUTPUT_DIR / f"{surah_key}.json"
         with open(out_path, "w", encoding="utf-8") as f:
-            json.dump(result, f, ensure_ascii=False, indent=2)
+            json.dump(result_doc, f, ensure_ascii=False, indent=2)
 
-        return JSONResponse(result)
-
+        JOBS[job_id]["status"] = "completed"
+        JOBS[job_id]["surah_key"] = surah_key
+        logger.info(f"Job {job_id}: Completely finished.")
+        
+    except Exception as e:
+        logger.error(f"Job {job_id} failed: {e}")
+        JOBS[job_id]["status"] = "failed"
+        JOBS[job_id]["error"] = str(e)
     finally:
         if temp_path.exists():
             temp_path.unlink()
+
+
+@app.post("/upload-surah")
+async def upload_surah(background_tasks: BackgroundTasks, file: UploadFile = File(...)):
+    """
+    Accepts Surah file upload and immediately triggers background job.
+    """
+    if not file.filename.endswith(".docx"):
+        raise HTTPException(status_code=400, detail="File must be a .docx Word document")
+
+    job_id = str(uuid.uuid4())
+    temp_path = Path(f"temp_{job_id}.docx")
+    
+    with open(temp_path, "wb") as f:
+        f.write(await file.read())
+
+    # Register Job Context early
+    JOBS[job_id] = {
+        "status": "pending",
+        "filename": file.filename,
+        "total_chunks": 0,
+        "processed_chunks": 0,
+        "error": None
+    }
+    
+    # Hand off to background runtime
+    background_tasks.add_task(process_docx_background, job_id, temp_path, file.filename)
+
+    return JSONResponse({
+        "message": "Upload successful. Processing started.",
+        "job_id": job_id,
+        "status_url": f"/api/status/{job_id}"
+    })
+
+
+@app.get("/api/status/{job_id}")
+async def get_job_status(job_id: str):
+    """
+    Get the real-time background processing status of a job.
+    """
+    if job_id not in JOBS:
+        raise HTTPException(status_code=404, detail="Job not found")
+    return JSONResponse(JOBS[job_id])
 
 
 @app.get("/surah/{surah_key}")
