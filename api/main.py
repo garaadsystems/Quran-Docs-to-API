@@ -42,26 +42,7 @@ MODEL_NAME = None  # OpenAI removed
 OUTPUT_DIR = Path("surah_json")
 OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
 
-# Minimal surah registry – extend as needed
-SURAH_REGISTRY = {
-    "al-Baqarah": {
-        "id": 2,
-        "name_ar": "البقرة",
-        "name_en": "Al-Baqarah",
-        "name_so": "Al-Baqarah",
-        "revelation_place": "Madinah",
-        "ayah_count": 286
-    },
-    "Aala Cimraan": {
-        "id": 3,
-        "name_ar": "آل عمران",
-        "name_en": "Aal Imran",
-        "name_so": "Aala Cimraan",
-        "revelation_place": "Madinah",
-        "ayah_count": 200
-    }
-}
-
+from surah_meta import find_surah_meta
 TAFSEER_SOURCE = {
     "id": "tabary_so",
     "name_ar": "تفسير الطبري (صومالي)",
@@ -126,6 +107,33 @@ async def get_surah_db(identifier: str):
     surah_doc.pop("_id", None)
     return JSONResponse(content=surah_doc)
 
+@app.delete("/api/surahs/{identifier}")
+async def delete_surah(identifier: str):
+    db = get_db()
+    
+    # Handle the specific request to delete 'null' IDs from the earlier bug
+    if identifier.lower() == "null":
+        result = await db["surahs"].delete_many({"surah.id": None})
+        return JSONResponse({"message": f"Deleted {result.deleted_count} surah(s) with null ID."})
+        
+    query = {}
+    if identifier.isdigit():
+        query = {"surah.id": int(identifier)}
+    else:
+        # Check by name_ar, name_en, or literal id string
+        query = {"$or": [
+            {"surah.name_ar": {"$regex": f"^{identifier}$", "$options": "i"}},
+            {"surah.name_en": {"$regex": f"^{identifier}$", "$options": "i"}},
+            {"surah.id": identifier}
+        ]}
+        
+    result = await db["surahs"].delete_one(query)
+    
+    if result.deleted_count > 0:
+        return JSONResponse({"message": f"Successfully deleted surah: {identifier}"})
+    else:
+        raise HTTPException(status_code=404, detail="Surah not found")
+
 @app.get("/api/surahs")
 async def list_surahs():
     db = get_db()
@@ -148,11 +156,12 @@ def extract_text_from_docx(path: Path) -> str:
     return "\n".join(paragraphs)
 
 
-def split_into_chunks(text: str, max_chars: int = 6000) -> List[str]:
+def split_into_chunks(text: str, max_chars: int = 35000) -> List[str]:
     # Split by double newline first to maintain paragraph/verse structures, fallback to single newline
     paragraphs = text.split("\n\n")
     if not paragraphs or len(paragraphs) == 1:
         paragraphs = text.split("\n")
+
         
     chunks, current, length = [], [], 0
     for p in paragraphs:
@@ -208,9 +217,8 @@ async def parse_ayahs_with_llm_async(chunk: str, semaphore: asyncio.Semaphore) -
     async with semaphore:
         for attempt in range(max_retries):
             try:
-                # Use the asynchronous client embedded in google-genai SDK
                 response = await client.aio.models.generate_content(
-                    model='gemini-2.5-flash',
+                    model='gemini-2.5-flash-lite',
                     contents=chunk,
                     config=types.GenerateContentConfig(
                         system_instruction=sys_prompt,
@@ -271,8 +279,9 @@ async def process_docx_background(job_id: str, temp_path: Path, filename: str):
         
         all_ayahs: List[Dict[str, Any]] = []
         
-        # Max 2 concurrent requests to protect Gemini 15 RPM free-tier limit smoothly
-        semaphore = asyncio.Semaphore(2)
+        # Process chunks sequentially to respect the 15 Requests Per Minute (RPM) free-tier limit exactly
+        # 15 RPM = 1 request every 4 seconds.
+        semaphore = asyncio.Semaphore(1)
         
         async def process_and_update(chunk):
             try:
@@ -283,25 +292,23 @@ async def process_docx_background(job_id: str, temp_path: Path, filename: str):
                 logger.error(f"Error processing chunk: {e}")
                 return []
 
-        logger.info(f"Job {job_id}: Processing {len(chunks)} chunks concurrently...")
-        tasks = [process_and_update(chunk) for chunk in chunks]
-        results = await asyncio.gather(*tasks)
+        logger.info(f"Job {job_id}: Processing {len(chunks)} chunks sequentially to respect API rate limits...")
         
-        for r in results:
-            all_ayahs.extend(r)
+        for chunk in chunks:
+            res = await process_and_update(chunk)
+            all_ayahs.extend(res)
+            # Sleep 13.5 seconds to limit rate to strictly 4 requests per minute 
+            # (gemini-2.5-flash free-tier allows exactly 5 RPM and 20 requests max per day)
+            await asyncio.sleep(13.5)
+        
 
         logger.info(f"Job {job_id}: Merging {len(all_ayahs)} ayahs...")
         merged = merge_ayahs(all_ayahs)
 
         surah_key = filename.replace(".docx", "")
-        surah_meta = SURAH_REGISTRY.get(surah_key, {
-            "id": None,
-            "name_ar": surah_key,
-            "name_en": surah_key,
-            "name_so": surah_key,
-            "revelation_place": None,
-            "ayah_count": len(merged)
-        })
+        surah_meta = find_surah_meta(surah_key)
+        surah_meta["ayah_count"] = len(merged)
+        surah_meta["revelation_place"] = None
 
         result_doc = {
             "surah": surah_meta,
