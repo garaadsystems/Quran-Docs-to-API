@@ -16,53 +16,24 @@ export default function TafseerPanel({
     isLoading,
 }: TafseerPanelProps) {
     return (
-        <div
-            style={{
-                background: "#dde8f5",
-                border: "1px solid #b0c9e8",
-                borderRadius: 5,
-                overflow: "hidden",
-            }}
-        >
+        <div className="bg-[#dde8f5] border border-[#b0c9e8] rounded-md overflow-hidden">
             {/* Source strip */}
             <div
                 dir="ltr"
-                style={{
-                    display: "flex",
-                    alignItems: "center",
-                    justifyContent: "space-between",
-                    padding: "5px 12px",
-                    borderBottom: "1px solid #b0c9e8",
-                    background: "#eef4fd",
-                    fontSize: 12,
-                    color: "#555",
-                    fontFamily: "Cairo, sans-serif",
-                }}
+                className="flex items-center justify-between px-3 py-1 border-b border-[#b0c9e8] bg-[#eef4fd] text-xs text-[#555] font-cairo"
             >
                 <span>
-                    <strong style={{ color: "#7b1f32" }}>التفسير</strong>
+                    <strong className="text-[#7b1f32]">التفسير</strong>
                     {" – "}
                     {tafseerSourceName}
                 </span>
                 {/* Share icons */}
-                <div style={{ display: "flex", gap: 4 }}>
+                <div className="flex gap-1">
                     {["f", "𝕏", "🔗"].map((ic, i) => (
                         <button
                             key={i}
                             id={`share-${i}`}
-                            style={{
-                                width: 24,
-                                height: 24,
-                                border: "1px solid #ccc",
-                                borderRadius: 3,
-                                background: "#fff",
-                                fontSize: 10,
-                                cursor: "pointer",
-                                display: "flex",
-                                alignItems: "center",
-                                justifyContent: "center",
-                                color: "#555",
-                            }}
+                            className="w-6 h-6 border border-[#ccc] rounded-[3px] bg-white text-[10px] cursor-pointer flex items-center justify-center text-[#555]"
                             title="Share"
                         >
                             {ic}
@@ -72,11 +43,11 @@ export default function TafseerPanel({
             </div>
 
             {isLoading ? (
-                <div style={{ padding: 24 }}>
-                    <div className="skel" style={{ height: 36, marginBottom: 14, borderRadius: 4 }} />
-                    <div className="skel" style={{ height: 36, width: "85%", marginBottom: 20, borderRadius: 4 }} />
+                <div className="p-6">
+                    <div className="skel h-9 mb-3.5 rounded" />
+                    <div className="skel h-9 w-[85%] mb-5 rounded" />
                     {[...Array(5)].map((_, i) => (
-                        <div key={i} className="skel" style={{ height: 18, marginBottom: 10, width: `${90 - i * 8}%`, borderRadius: 4 }} />
+                        <div key={i} className="skel h-[18px] mb-2.5 rounded" style={{ width: `${90 - i * 8}%` }} />
                     ))}
                 </div>
             ) : (
@@ -84,56 +55,27 @@ export default function TafseerPanel({
                     {/* Featured Arabic verse */}
                     {arabicText && (
                         <div
-                            className="qfont fin"
+                            className="qfont fin text-[clamp(1.35rem,2.8vw,1.8rem)] font-bold px-7 pt-[18px] pb-3.5 border-b border-[#b0c9e8] bg-[#eef4fd] text-center leading-[2.4]"
                             dir="rtl"
-                            style={{
-                                fontSize: "clamp(1.35rem, 2.8vw, 1.8rem)",
-                                fontWeight: 700,
-                                padding: "18px 28px 14px",
-                                borderBottom: "1px solid #b0c9e8",
-                                background: "#eef4fd",
-                                textAlign: "center",
-                                lineHeight: 2.4,
-                            }}
                         >
                             {arabicText}
                             {" "}
-                            <span className="ayah-num" style={{ border: "1px solid #333" }}>
+                            <span className="ayah-num border border-gray-800">
                                 {ayahNumber}
                             </span>
                         </div>
                     )}
 
                     {/* Somali tafseer body */}
-                    <div
-                        style={{
-                            background: "#fff",
-                            padding: "18px 22px",
-                            minHeight: 160,
-                        }}
-                    >
+                    <div className="bg-white px-5 py-4 min-h-[160px]">
                         {somaliText ? (
-                            <p
-                                className="sfont fin"
-                                style={{
-                                    fontSize: "clamp(0.92rem, 1.4vw, 1.05rem)",
-                                    color: "#1a1a1a",
-                                }}
-                            >
+                            <p className="sfont fin text-[clamp(0.92rem,1.4vw,1.05rem)] text-[#1a1a1a]">
                                 {somaliText}
                             </p>
                         ) : (
-                            <p
-                                style={{
-                                    color: "#888",
-                                    fontFamily: "Cairo, sans-serif",
-                                    fontSize: 14,
-                                    textAlign: "center",
-                                    paddingTop: 24,
-                                }}
-                            >
+                            <p className="text-[#888] font-cairo text-sm text-center pt-6">
                                 Tafsiirka aayadda {ayahNumber} weli lama soo gelin. <br />
-                                <span style={{ fontSize: 12, color: "#aaa" }}>
+                                <span className="text-[12px] text-[#aaa]">
                                     Tafseer for this ayah has not been added yet.
                                 </span>
                             </p>

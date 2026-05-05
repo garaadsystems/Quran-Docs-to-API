@@ -116,8 +116,6 @@ export default function QuranReader() {
                     fontFamily: "Cairo, sans-serif",
                 }}
             >
-                Quran text: <a href="https://alquran.cloud" target="_blank" rel="noopener noreferrer" style={{ color: "#7b1f32" }}>AlQuran.cloud</a>
-                {" · "}Somali Tafseer: Gaaraad API
             </footer>
         </div>
     );
