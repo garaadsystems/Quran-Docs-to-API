@@ -3,17 +3,16 @@
 import ArabicPanel from "@/components/ArabicPanel";
 import Navbar from "@/components/Navbar";
 import TafseerPanel from "@/components/TafseerPanel";
-import { fetchSomaliTafseer, fetchSurahDetail, fetchSurahList } from "@/lib/api";
-import { AlQuranSurah, AlQuranSurahDetail, SomaliSurahData } from "@/types/quran";
+import { fetchSurahDetail, fetchSurahList } from "@/lib/api";
+import { SomaliSurahData, SurahMeta } from "@/types/quran";
 import { useCallback, useEffect, useState } from "react";
 
 const AYAHS_PER_AR_PAGE = 10;
 
 export default function QuranReader() {
-    const [surahs, setSurahs] = useState<AlQuranSurah[]>([]);
+    const [surahs, setSurahs] = useState<SurahMeta[]>([]);
     const [surahNum, setSurahNum] = useState(1);
-    const [detail, setDetail] = useState<AlQuranSurahDetail | null>(null);
-    const [somali, setSomali] = useState<SomaliSurahData | null>(null);
+    const [surahData, setSurahData] = useState<SomaliSurahData | null>(null);
     const [activeAyah, setActiveAyah] = useState(1);
 
     const [loadingList, setLoadingList] = useState(true);
@@ -35,17 +34,13 @@ export default function QuranReader() {
         setLoadingDetail(true);
         setActiveAyah(1);
         setArPage(1);
-        setDetail(null);
-        setSomali(null);
+        setSurahData(null);
 
-        const surah = surahs.find((s) => s.number === surahNum);
+        const surah = surahs.find((s) => s.id === surahNum);
         if (!surah) return;
 
-        Promise.all([
-            fetchSurahDetail(surahNum),
-            fetchSomaliTafseer(surah.englishName),
-        ])
-            .then(([d, t]) => { setDetail(d); setSomali(t); })
+        fetchSurahDetail(surahNum)
+            .then((data) => setSurahData(data))
             .catch(console.error)
             .finally(() => setLoadingDetail(false));
     }, [surahNum, surahs]);
@@ -60,9 +55,12 @@ export default function QuranReader() {
     const handleAyahChange = useCallback((n: number) => setActiveAyah(n), []);
 
     // ── Derived ───────────────────────────────────────────────────────────────
-    const arabicText = detail?.ayahs.find((a) => a.numberInSurah === activeAyah)?.text ?? "";
-    const somaliText = somali?.ayahs.find((a) => a.number === activeAyah)?.tafseer_so ?? "";
-    const sourceName = somali?.tafseer_source?.name_en ?? "Tafseer Tabari (Somali)";
+    const arabicText = surahData?.ayahs.find((a) => a.number === activeAyah)?.text_ar ?? "";
+    const somaliText = surahData?.ayahs.find((a) => a.number === activeAyah)?.tafseer_so ?? "";
+    const rawSourceName = surahData?.tafseer_source?.name_en;
+    const sourceName = rawSourceName
+        ? rawSourceName.replace(/tabari/i, "Gaanni")
+        : "Tafseer Gaanni (Somali)";
 
     return (
         <div
@@ -79,7 +77,7 @@ export default function QuranReader() {
                 surahs={surahs}
                 selectedSurahNumber={surahNum}
                 selectedAyah={activeAyah}
-                ayahCount={detail?.numberOfAyahs ?? 0}
+                ayahCount={surahData?.surah.ayah_count ?? 0}
                 onSurahChange={handleSurahChange}
                 onAyahChange={handleAyahChange}
                 isLoading={loadingList}
@@ -88,7 +86,7 @@ export default function QuranReader() {
             <main style={{ flex: 1, maxWidth: 1000, width: "100%", margin: "0 auto", padding: "12px 14px", display: "flex", flexDirection: "column", gap: 10 }}>
                 {/* Top: Arabic Quran text */}
                 <ArabicPanel
-                    ayahs={detail?.ayahs ?? []}
+                    ayahs={surahData?.ayahs ?? []}
                     activeAyah={activeAyah}
                     onAyahClick={handleAyahChange}
                     isLoading={loadingList || loadingDetail}
@@ -118,8 +116,6 @@ export default function QuranReader() {
                     fontFamily: "Cairo, sans-serif",
                 }}
             >
-                Quran text: <a href="https://alquran.cloud" target="_blank" rel="noopener noreferrer" style={{ color: "#7b1f32" }}>AlQuran.cloud</a>
-                {" · "}Somali Tafseer: Gaaraad API
             </footer>
         </div>
     );
